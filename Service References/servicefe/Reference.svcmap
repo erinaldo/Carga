@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ca8658cb-f20e-463b-9aa3-404b47c6eb4e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://192.168.200.80:8085/Tepsafeservice.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Tepsafeservice1.wsdl" MetadataType="Wsdl" ID="049f8122-77a7-4a5f-a205-65adb211cbf4" SourceId="1" SourceUrl="http://192.168.200.80:8085/Tepsafeservice.svc?wsdl" />
+    <MetadataFile FileName="Tepsafeservice5.xsd" MetadataType="Schema" ID="f384ec5b-bf16-4d8e-b61c-fed2ef9c413c" SourceId="1" SourceUrl="http://192.168.200.80:8085/Tepsafeservice.svc?xsd=xsd0" />
+    <MetadataFile FileName="Tepsafeservice51.xsd" MetadataType="Schema" ID="786a7634-a7e2-49e6-b922-7b500c8c26e5" SourceId="1" SourceUrl="http://192.168.200.80:8085/Tepsafeservice.svc?xsd=xsd1" />
+    <MetadataFile FileName="Tepsafeservice52.xsd" MetadataType="Schema" ID="fa6f98ea-6b21-4489-9d52-959de54aa9d4" SourceId="1" SourceUrl="http://192.168.200.80:8085/Tepsafeservice.svc?xsd=xsd2" />
+    <MetadataFile FileName="Tepsafeservice53.xsd" MetadataType="Schema" ID="8e796cf6-7eb2-44ee-ab00-ec223694f646" SourceId="1" SourceUrl="http://192.168.200.80:8085/Tepsafeservice.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

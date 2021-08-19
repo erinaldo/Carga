@@ -1,0 +1,928 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+INTEGRACION
+</name>
+</assembly>
+<members>
+<member name="T:INTEGRACION.DSFacturacionElectronica.BoletaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:INTEGRACION.DSFacturacionElectronica.BoletaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:INTEGRACION.DSFacturacionElectronica.BoletaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:INTEGRACION.DSFacturacionElectronica">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="M:INTEGRACION.FrmAsociacionGuiasEnvio_1.GeneraGrillaDetalle">
+	<summary>
+ Genera la Grilla donde se haran las Inserciones de las Guias. 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmAsociacionGuiasEnvio_1.GrabaEntrega">
+	<summary>
+ Funcion que graba directamente en Oracle dependiendo de las filas insertadas.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.AgregaDireccion(System.Int32)">
+	<summary>
+ Agrega la dirección ingresada al cliente directamente a Oracle.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.GeneraDireccion">
+	<summary>
+ Crea la Grilla donde se plasmaran las Direcciones Ingresadas.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.AgregarTelefonosContacto(System.Int32)">
+	<summary>
+ Agrega Telefonos de Contacto a directamente a Oracle.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.GeneraDetalleTelefonos2009_eliminarlo(System.Windows.Forms.DataGridView)">
+	<summary>
+ Crea la Grilla para el Ingreso de Telefonos.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.GeneraDetalleContactos">
+	<summary>
+ Crea la Grilla para el Ingreso de Contactos.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.AgregarContactoJuridico(System.Int32)">
+	<summary>
+ Agrega el Contacto de la Persona Juridica Directamente a Oracle.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.AsignacionFuncionario(System.String)">
+	<summary>
+ Realiza la relación entre un funcionario de negocio con un Cliente en Oracle.
+ </summary>
+	<param name="MyCodigoClienteFuncionario"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.GrabaNatural">
+	<summary>
+ Inserta la Persona Natural en Oracle.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.GrabaJuridica">
+	<summary>
+ Inserta la Persona Juridica en Oracle.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.DeshabilitaControlesEdicion">
+	<summary>
+ Desahabilita los controles necesarios para la edicion de un Cliente ya existente.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.AccionesJuridica">
+	<summary>
+ Establece propiedades de Controles tras la Insercion o actualizacion de Clientes Juridicos.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientes.AccionesNatural">
+	<summary>
+ Establece propiedades de Controles tras la Insercion o actualizacion de Clientes Naturales.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantilla.DataGridLista_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ DataGridLista_MouseUp(), esta funcion devuelve la posición de la Fila,
+ a la que le hacemos Double Click.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantilla.VolverGrilla">
+	<summary>
+ Esta funcion cambia los estados de los controles cuado se visualiza la Grilla.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantilla.SelectMenu(System.Int32)">
+	<summary>  
+ Esta funcion selecciona el Tabpage del tabControl a partir de la seleccion del MenuStrip.
+ </summary>
+	<param name="ItemMenu"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantilla.CuadrarFormulario">
+	<summary>
+ Esta funcion cuadra todos los controles en RunTime, asi evitamos errores de Diseño en Herencias.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:INTEGRACION.FrmPlantilla">
+	<summary>
+ Esta Clase es el Formulario Padre para todo el Proyecto, de esta heredaran todos los formularios.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:INTEGRACION.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources._001">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources._079">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources._100_0582">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources._1102">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources._1321">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources._1322">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources._1323">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources._1324">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources._1325">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.arrow_back_16">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.arrow_back_24">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.arrow_first_24">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.arrow_forward_24">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.arrow_last_24">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.banner">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.candado">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.delete_16">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.delete_161">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.FACTURA_ENTREGADA">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.IzquierdaTodos">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.mp_buscarEnabled">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.mp_guardarEnabled">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.mp_logo">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.mp_toolbarCancelar">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.mp_toolbarGuardar">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.mp_toolbarNuevo">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.ocupado">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.paste_16">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.reservado">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.TepsaCargo">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:INTEGRACION.My.Resources.Resources.YES01A">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:INTEGRACION.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:INTEGRACION.FrmGuiasTranspor.reimpresionTicket(System.Data.DataTable)">
+	<summary>
+ Realiza la reimpresion de tikect de los comprobantes ingresados a la guia de transportista.
+ </summary>
+	<param name="dataTable">DT con los comprobantes a reimprimir</param>
+</member><member name="M:INTEGRACION.FrmGuiasTranspor.validarImpresionTicket(System.Int64,System.Int64,System.DateTime)">
+	<summary>
+ Valida la reimpresion del comprobante electronico
+ </summary>
+	<param name="unidadAgenciaOrigen">Identificador de la unidad agencia origen</param>
+	<param name="unidadAgenciaDestino">Identificador de la unidad agencia destino</param>
+	<param name="fechaSalida">fceha de salida o emision de la grt</param>
+	<returns>true=si esta permitida la reimpresion, false=Lo contrario</returns>
+</member><member name="M:INTEGRACION.frmCancelarPCE.Emisionfe(System.String,System.Data.DataTable)">
+	<summary>
+ EMISON DE LA FACTURA/BOLETA ELECTRONICA - JABANTO - 18/05/2016
+ </summary>
+</member><member name="M:INTEGRACION.dtoLiquiOficinaVentaSeguro.command(System.String)">
+	<summary>
+ CREA EL COMANDO
+ </summary>
+	<param name="commandContex">Nombre del PKG Y/O SP</param>
+	<returns>command</returns>
+</member><member name="M:INTEGRACION.FrmAsociacionGuiasEnvio.GeneraGrillaDetalle">
+	<summary>
+ Genera la Grilla donde se haran las Inserciones de las Guias. 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmAsociacionGuiasEnvio.GrabaEntrega">
+	<summary>
+ Funcion que graba directamente en Oracle dependiendo de las filas insertadas.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.dtoVentaCargaContado.fnGetAgencias(System.Int32,System.Int32,System.Boolean)">
+	<summary>
+	</summary>
+	<param name="idUnidadAge"></param>
+	<param name="opcion"></param>
+	<param name="isGetCodAgeSisvyr">Cuando es necesario recuperar además el codigo de la agencia asociado al sisvyr (true)</param> '--&gt;param add jabanto(21/11/2015)
+
+</member><member name="M:INTEGRACION.FrmTarifarioPublico.cargarDataGridTarifas(System.Data.DataSet)">
+	<summary>
+ Carga tarifas publicas
+ </summary>
+	<param name="dataSet">Registro a cargar en el Grid</param>
+</member><member name="M:INTEGRACION.FrmTarifarioPerso.cargarDataGridTarifas(System.Data.DataSet)">
+	<summary>
+ Carga tarifas personalisadas de un Cliente
+ </summary>
+	<param name="dataSet">Registro a cargar en el Grid</param>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.#ctor">
+	<remarks/>
+</member><member name="E:INTEGRACION.WSclaro.SWPush.ConfigurarAppClienteCompleted">
+	<remarks/>
+</member><member name="E:INTEGRACION.WSclaro.SWPush.RecibirMensajesCompleted">
+	<remarks/>
+</member><member name="E:INTEGRACION.WSclaro.SWPush.ObtenerConsultaTicketCompleted">
+	<remarks/>
+</member><member name="E:INTEGRACION.WSclaro.SWPush.IsWorkingCompleted">
+	<remarks/>
+</member><member name="E:INTEGRACION.WSclaro.SWPush.CambiarContrasenaCompleted">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.ConfigurarAppCliente(System.String,System.String)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.ConfigurarAppClienteAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.ConfigurarAppClienteAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.RecibirMensajes(System.String,System.String,System.String,System.DateTime,System.SByte)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.RecibirMensajesAsync(System.String,System.String,System.String,System.DateTime,System.SByte)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.RecibirMensajesAsync(System.String,System.String,System.String,System.DateTime,System.SByte,System.Object)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.ObtenerConsultaTicket(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.ObtenerConsultaTicketAsync(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.ObtenerConsultaTicketAsync(System.String,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.IsWorking">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.IsWorkingAsync">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.IsWorkingAsync(System.Object)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.CambiarContrasena(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.CambiarContrasenaAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.CambiarContrasenaAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:INTEGRACION.WSclaro.SWPush.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.SWPush">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.ConfigurarAppClienteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:INTEGRACION.WSclaro.ConfigurarAppClienteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.ConfigurarAppClienteCompletedEventArgs">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.RecibirMensajesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:INTEGRACION.WSclaro.RecibirMensajesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.RecibirMensajesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.ObtenerConsultaTicketCompletedEventHandler">
+	<remarks/>
+</member><member name="P:INTEGRACION.WSclaro.ObtenerConsultaTicketCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.ObtenerConsultaTicketCompletedEventArgs">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.IsWorkingCompletedEventHandler">
+	<remarks/>
+</member><member name="P:INTEGRACION.WSclaro.IsWorkingCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.IsWorkingCompletedEventArgs">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.CambiarContrasenaCompletedEventHandler">
+	<remarks/>
+</member><member name="P:INTEGRACION.WSclaro.CambiarContrasenaCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:INTEGRACION.WSclaro.CambiarContrasenaCompletedEventArgs">
+	<remarks/>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion2.DataGridLista_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ DataGridLista_MouseUp(), esta funcion devuelve la posición de la Fila,
+ a la que le hacemos Double Click.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion2.VolverGrilla">
+	<summary>
+ Esta funcion cambia los estados de los controles cuado se visualiza la Grilla.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion2.SelectMenu(System.Int32)">
+	<summary>
+ Esta funcion selecciona el Tabpage del tabControl a partir de la seleccion del MenuStrip.
+ </summary>
+	<param name="ItemMenu"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion2.CuadrarFormulario">
+	<summary>
+ Esta funcion cuadra todos los controles en RunTime, asi evitamos errores de Diseño en Herencias.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:INTEGRACION.FrmPlantillaFacturacion2">
+	<summary>
+ Esta Clase es el Formulario Padre para todo el Proyecto, de esta heredaran todos los formularios.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion3.DataGridLista_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ DataGridLista_MouseUp(), esta funcion devuelve la posición de la Fila,
+ a la que le hacemos Double Click.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion3.VolverGrilla">
+	<summary>
+ Esta funcion cambia los estados de los controles cuado se visualiza la Grilla.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion3.SelectMenu(System.Int32)">
+	<summary>
+ Esta funcion selecciona el Tabpage del tabControl a partir de la seleccion del MenuStrip.
+ </summary>
+	<param name="ItemMenu"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion3.CuadrarFormulario">
+	<summary>
+ Esta funcion cuadra todos los controles en RunTime, asi evitamos errores de Diseño en Herencias.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:INTEGRACION.FrmPlantillaFacturacion3">
+	<summary>
+ Esta Clase es el Formulario Padre para todo el Proyecto, de esta heredaran todos los formularios.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.frmNotaCredito.emitirComprobantesElectronicos(System.Data.DataRow,System.Data.DataRow,System.String,System.String,System.String,System.String,System.Data.DataTable)">
+	<summary>
+ Realiza la emision de los comprobantes electronicos - jabanto - 07/06/2016
+ </summary>
+	<param name="dataRowNota">Objeto DataRow que retorna el metodo que guarda la nota de credito en titan.</param>
+	<param name="dataRowFactura">Objeto DataRow que retorna el metodo que guarda la la factura/boleta en titan.</param>
+	<param name="tipo_documentoID">Identificador del tipo de documento del cliente, para la emision de la factura o boleta</param>
+	<param name="numero_documento">Numero de documento del cliente, para la emsion de la factura o boleta</param>
+	<param name="razon_social">Razon social del cliente, para emitir la factura o boleta.</param>
+	<param name="tipo_comprobanteId">Identificador del tipo de comprobante, para la emision de la factura o la boleta</param>
+</member><member name="M:INTEGRACION.FrmClienteSubcuenta.cargarDataGrid(System.Data.DataTable,System.Windows.Forms.DataGridView)">
+	<summary>
+ CARGA REGISTROS EN UN OBJETO DATAGRIDVIEW
+ </summary>
+	<param name="dt">DataTable con los registros a cargar</param>
+	<param name="dgv">Nombre del dataGridView en donde se cargaran los registros</param>
+</member><member name="M:INTEGRACION.FrmClienteSubcuenta.clearControlsMantenimiento">
+	<summary>
+ LIMPIA CONTROLES DEL MANTENIMIENTO DE SUB-CUENTAS
+ </summary>
+</member><member name="M:INTEGRACION.FrmClienteSubcuenta.cleanControlsListSubCuentas">
+	<summary>
+ LIMPIA CONTROLES DE LA LISTA DE SUB-CUENTAS
+ </summary>
+</member><member name="M:INTEGRACION.FrmClienteSubcuenta.enabledControlsMantenimiento(System.Boolean)">
+	<summary>
+ HABILITA O DESHABILITA LOS CONTROLES DEL MANTENIMIENTO DE LA SUBCUENTA
+ </summary>
+	<param name="enabled">estado del control (true, false)</param>
+</member><member name="M:INTEGRACION.FrmClienteSubcuenta.KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+	<summary>
+ PARA CAMBIAR EL FUCO EN FUNCIÓN A LA PULSACION LA TECLA ENTER POR EL USUARIO EN EL MANTENIMIENTO
+ </summary>
+</member><member name="M:INTEGRACION.Funciones.ExportarWord(System.Windows.Forms.DataGridView)">
+	<summary>
+ Escribe un documento en Microsoft Word a partir de un DatagridView
+ </summary>
+	<param name="DataGridLista"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.Funciones.HabilitarMenu(System.Windows.Forms.MenuStrip)">
+	<summary>
+ Esta Funcion deshabilita los MenuTabPage que no se le asigna su nombre, 
+ siempre debe ser invocada despues llenar la propiedas Text del
+ MenuStrip (MenuTabPage)
+ </summary>
+	<param name="MyMenuTab"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.Funciones.LlenarTreeView(System.Data.DataTable,System.Int32,System.Data.DataTable,System.Int32,System.String,System.Windows.Forms.TreeView)">
+	<summary>
+ MyDataTableA es el Contenedor de los Nodos Primarios (Column1,Column2,Column3...),
+ ColumnaA es el indice de la Columna que queremos que se llene al TreeView,
+ DataTableB es el Contenedor de los Nodos Secundarios (Column1,Column2,Column3...),
+ ColumnaAFiltro es la columna por la que filtraremos a ColumnaBFiltro,
+ ColumnaB es el indice de la columna de MyDataTableA por el que queremos filtrar a
+ la ColumnaBFiltro DataTableB. 
+ </summary>
+	<param name="MyDataTableA"></param>
+	<param name="ColumnaA"></param>
+	<param name="MyDataTableB"></param>
+	<param name="ColumnaAFiltro"></param>
+	<param name="ColumnaBFiltro"></param>
+	<param name="cTree"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.Funciones.EstableceTabIndexNatural(System.Windows.Forms.GroupBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.ComboBox,System.Windows.Forms.TextBox,ControlsTepsa.DataPickerMasked,System.Windows.Forms.TextBox,System.Windows.Forms.Button,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.RadioButton,System.Windows.Forms.RadioButton)">
+	<summary>
+ Muestra Los campos necesarios para en Ingreso de Persona Natural
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.Funciones.EstableceTabIndexJuridica(System.Windows.Forms.GroupBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.ComboBox,System.Windows.Forms.TextBox,ControlsTepsa.DataPickerMasked,System.Windows.Forms.TextBox,System.Windows.Forms.Button,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.TextBox,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.Label,System.Windows.Forms.RadioButton,System.Windows.Forms.RadioButton)">
+	<summary>
+ Muestra Los campos necesarios para en Ingreso de Persona Juridica
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.Funciones.Validaciones(System.Object)">
+	<summary>
+ Esta funcion permite las validaciona de campos de un Form, ojo que si  tenemos un 
+ TextBox con un Button para busquedas, en la declaracion del Object debemos de 
+ declararlas en forma consecutiva. 
+ Ademas valida solo TextBox simples, TextBox con Button de Busquedas, ComboBox y
+ DataPickerMasked.
+ </summary>
+	<param name="MyObligatorios"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.Funciones.ActualizarCheck(System.Windows.Forms.TreeNode,System.Boolean)">
+	<summary>
+ Este procedimiento realiza el checked masivo de nodos hijo respecto al nodo
+ padre.
+ </summary>
+	<param name="node"></param>
+	<param name="check"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.Funciones.LlenaTreeFuncionarios(System.Windows.Forms.TreeView)">
+	<summary>
+ Esta Funcion carga cualquier TreeView con todos los funcionarios Activos.
+ </summary>
+	<param name="MyTree"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.Funciones.CargarUnidades(System.Windows.Forms.DataGridView)">
+	<summary>
+ Carga las unidades para tarifario, como PESO y VOLUMEN
+ </summary>
+	<param name="MyDataGridLista"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.Funciones.CargarGrillaClientesSolicitudPendiente(System.Windows.Forms.DataGridView)">
+	<summary>
+  Carga a Clientes con Solicitudes de Credito Pendientes de Aprobacion y Aprobadas tambien.
+ </summary>
+	<param name="MyDataGridLista"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.Funciones.CargarGrillaClientesSolicitudPendiente(System.Windows.Forms.DataGridView,System.String)">
+	<summary>
+  Carga a Clientes con Solicitudes de Credito Pendientes de Aprobacion y Aprobadas tambien.
+ </summary>
+	<param name="MyDataGridLista"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:INTEGRACION.Funciones">
+	<summary>
+ En este Modulo se encuentran todas las funciones que se emplearan anivel del Proyecto.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FEManager.getNameTipoDoct(System.Object)">
+	<summary>
+ Busca el nombre del tipo de documento, segun el identificador de titan
+ </summary>
+	<param name="titanTipoDocumentoID">Identificador del tipo de documento, segun la db Titan</param>
+	<returns>Nombre de tipo de documento</returns>
+</member><member name="M:INTEGRACION.FEManager.getTipoDoctSunat(System.Object)">
+	<summary>
+ Busca el identificador tipo de documento, segun catalogo N° 1 de la Sunat
+ </summary>
+	<param name="titanTipoDocumentoID">Identificador del tipo de documento, segun la db Titan</param>
+	<returns>Identificador segun Catralogo Sunat</returns>
+</member><member name="M:INTEGRACION.FEManager.getTipoCompSunat(System.Object)">
+	<summary>
+ Busca el identificador tipo de documento, segun catalogo N° 6 de la Sunat
+ </summary>
+	<param name="titanTipoComprobanteId">Identificador tipoComprobanteID segun la DB en Titan</param>
+	<returns>Identificador segun Catralogo Sunat</returns>
+</member><member name="M:INTEGRACION.FEManager.createWSVenta(INTEGRACION.FEVenta)">
+	<summary>
+ Crea el objeto venta para luego ser enviado al servcio web
+ </summary>
+	<param name="venta">Instancia de la Clase FEVenta</param>
+	<returns>Class Venta</returns>
+</member><member name="M:INTEGRACION.FEManager.createWSNota(INTEGRACION.FENota,System.Boolean)">
+	<summary>
+ Crea el objeto Nota para luego ser enviado al servicio web
+ </summary>
+	<param name="note">Nueva instancia de la Clase FENote</param>
+	<param name="isNotaCredito">True si se trata de una nota de credito, false si es nota de debito</param>
+	<returns>Instancia de la Clase Nota</returns>
+</member><member name="M:INTEGRACION.FEManager.sendNota(INTEGRACION.FENota,System.Boolean)">
+	<summary>
+ Realiza el envio de una nota de credito y/o debito
+ </summary>
+	<param name="note">Class FENote</param>
+	<param name="isNotaCredito">True si se trata de una nota de credito, false si es nota de debito</param>
+	<returns>True si la nota fue aceptada, false lo contrario</returns>
+</member><member name="M:INTEGRACION.FEManager.sendNotaVenta(INTEGRACION.FENota,System.Boolean,INTEGRACION.FEVenta,System.Data.DataTable)">
+	<summary>
+ Realiza el envio de una nota de credito y/o debito, ademas de un nuevo comprobante (Factura/boleta)
+ </summary>
+	<param name="note">Class FENote</param>
+	<param name="isNotaCredito">True si se trata de una nota de credito, false si es nota de debito</param>
+	<param name="venta">Class FEVenta</param>
+	<returns>True si la nota fue aceptada, false lo contrario</returns>
+</member><member name="M:INTEGRACION.FEManager.reimprimirComprobante(INTEGRACION.FEVenta)">
+	<summary>
+ Realiza la reimpresion del comprobante
+ </summary>
+	<param name="feventa">Instancia de la venta</param>
+</member><member name="M:INTEGRACION.FEManager.buscarPrint">
+	<summary>
+ Busca la impresora para la impresion del comprobante
+ </summary>
+	<returns>DataTable con los datos de la impresora configurada</returns>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion.DataGridLista_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ DataGridLista_MouseUp(), esta funcion devuelve la posición de la Fila,
+ a la que le hacemos Double Click.
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion.VolverGrilla">
+	<summary>
+ Esta funcion cambia los estados de los controles cuado se visualiza la Grilla.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion.SelectMenu(System.Int32)">
+	<summary>
+ Esta funcion selecciona el Tabpage del tabControl a partir de la seleccion del MenuStrip.
+ </summary>
+	<param name="ItemMenu"></param>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmPlantillaFacturacion.CuadrarFormulario">
+	<summary>
+ Esta funcion cuadra todos los controles en RunTime, asi evitamos errores de Diseño en Herencias.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:INTEGRACION.FrmPlantillaFacturacion">
+	<summary>
+ Esta Clase es el Formulario Padre para todo el Proyecto, de esta heredaran todos los formularios.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.dtoLiquiOficinaSisVyr.command(System.String)">
+	<summary>
+ CREA EL COMANDO
+ </summary>
+	<param name="commandContex">Nombre del PKG Y/O SP</param>
+	<returns>command</returns>
+</member><member name="M:INTEGRACION.dtoLiquiOficinaSisVyr.buscarEstadoLiquidaciones(System.String,System.String)">
+	<summary>
+ Busca el estado de las cajas, según parámetros enviados.
+ </summary>
+	<param name="fechaLiquidacion">Fecha de la Liquidación</param>
+	<param name="codigoAgencia">Código de la agencia asociada al de la Agencia del Sisvyr</param>
+	<returns>Lista de estados de las cajas</returns>
+</member><member name="M:INTEGRACION.dtoLiquiOficinaSisVyr.buscarLiquidacionCerradasXAsociar(System.String,System.Int32)">
+	<summary>
+ Busca las liquidaciones cerras,segun fecha de liquidacion, pero que aun estan pendientes por asocial a la liquidacion de oficina.
+ </summary>
+	<param name="fechaLiquidacion">Fecha de la Liquidación</param>
+	<param name="codigoAgencia">Código de la agencia asociada al de la Agencia del Sisvyr</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.dtoLiquiOficinaSisVyr.buscarVentasTrans(System.Int32)">
+	<summary>
+ Realiza la busqueda de las ventas para luego transferir al TITAN - vrttrans_ventas_tmp
+ </summary>
+	<param name="idLiquidacion">Identificador de la liquidacion</param>
+	<returns>Lista de ventas</returns>
+</member><member name="M:INTEGRACION.dtoLiquiOficinaSisVyr.transfiereVentasTmp_Titan(System.Int64,System.Int64,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Int32,System.String,System.String,System.Int32,System.String,System.String,System.String,System.String,System.Int64,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int64,System.String,System.String,System.String,System.String,System.String,System.Int32,System.Int32,System.Int32,System.Int64,System.Int64,System.Double,System.Double)">
+	<summary>
+ REALIZA LA TRANSFERENCIA DE LAS VENTAS AL TITAN A LA TABLA TEMPORAL DENOMINADA "vrttrans_ventas_tmp"
+ </summary>
+	<param name="idVenta">Identificador de la Venta</param>
+	<param name="idPasajero">Identificador del pasajero</param>
+	<param name="apellidoPaternoPax">Apellido paterno del pasajero</param>
+	<param name="apellidoMaternoPx">Apellido materno del pasajero</param>
+	<param name="nombre1Pax">Primer nombre del pasajero</param>
+	<param name="nombres2Pax">Segundo nombre del pasajero</param>
+	<param name="nroDocumentoPax">Número de documento del pasajero</param>
+	<param name="idTipoDocumentoPax">Identificador del tipo de documento del pasajero</param>
+	<param name="idTipoComprobante">Identificador del tipo de comprobante "Boleto,Recivo de caja,etc" </param>
+	<param name="idFormaPago">Identificador de la forma de pago</param>
+	<param name="idTipoFormaPago">Identificador del tipo de form ad epago</param>
+	<param name="nroAsiento">Número de asiento</param>
+	<param name="montoBase">Monto base, que vendria a ser la tarifa del servicio</param>
+	<param name="recargo">Monto decargo</param>
+	<param name="descuento">Monto descuento</param>
+	<param name="penalidad">Monto penalidad</param>
+	<param name="montoTotal">Monto total, que vendria a ser el importe pagado por el Pasajero</param>
+	<param name="montoEfectivo_mixto">Monto pagado en efectivo, cuando es un pago mixto</param>
+	<param name="montoTarjeta_mixto">Monto pagado con tarjeta, cuando es un pago mixto</param>
+	<param name="idClase">Identificador de la clase, (Presidencial, Precidencial 40, etc.)</param>
+	<param name="codigoAgenciaVenta">Código de la agencia venta, es el código con el que se asocia la tabla Agencia del sisvyr con la del Titan.</param>
+	<param name="codigoAgenciaEmbarque">Código de la agencia donde se embarca el pasajero, es el código con el que se asocia la tabla Agencia del sisvyr con la del Titan.</param>
+	<param name="idOpeTarjeta">Identificador del operador de la tarjeta (Visa, MasterdCard, etc.)</param>
+	<param name="serie">Número de serie del boleto</param>
+	<param name="numeroBoleto">Número del boleto</param>
+	<param name="serieRef">Número de serie del boleto referencial o anterior</param>
+	<param name="numeroBoletoRef">Número de boleto referencial o anterior</param>
+	<param name="idCliente">Identificador del Cliente</param>
+	<param name="ruc">Número de ruc del cliente, solo cuando el boleto es impreso con RUC</param>
+	<param name="razonSocial">Razón social del cliente, solo cuando el boleto es impreso con RUC</param>
+	<param name="fechaVenta">Fecha en que se realiza la venta</param>
+	<param name="horaVenta">Hora en que se realiza la venta</param>
+	<param name="fechaViaje">Fecha en que el pasajero realizara el viaje</param>
+	<param name="horaSalida">Hora en que el pasajero realizara el viaje</param>
+	<param name="idUnidadOrigen">Identificador de la unidad agencia origen, a travez de este identificador se asocian las tablas Localidades en el Sisvyr y T_UnidadAgencia en el Titan.</param>
+	<param name="idUnidadDestino">Identificador de la unidad agencia destino, a travez de este identificador se asocian las tablas Localidades en el Sisvyr y T_UnidadAgencia en el Titan.</param>
+	<param name="codigoAgenciaOrigen">Código de la Agencia origen, es el código con el que se asocia la tabla Agencia del sisvyr con la del Titan.</param>
+	<param name="codigoAgenciaDestino">Código de la Agencia destino, es el código con el que se asocia la tabla Agencia del sisvyr con la del Titan.</param>
+	<param name="idUsuarioPersonal">Identificador del usuario que realiza la venta</param>
+	<param name="loginUsuario">Login del usuario que realiza la venta</param>
+	<param name="apellidoPartenoUsuario">Apellido paterbo del usuario que realiza la venta</param>
+	<param name="apellidoMaternoUsuario">Apellido materno del usuario que realiza la venta</param>
+	<param name="nombreUsuario">Nombres del usuario que realiza la venta</param>
+	<param name="codigoCuenta">Representa el RUC de la agencia o cliente credito</param>
+	<param name="idTipoMovimiento">Identificador del tipo de movimineto</param>
+	<param name="porcentajeDevo">Indica el porcentaje a la que equivale la devolución (80 100) </param>
+	<param name="esfechaAbirta">Indica si es un afecha abierta o una venta normal (1=fecha abierta;0=Venta normal)</param>
+	<param name="idPromocion">Identificador de la promocion</param>
+	<param name="idLiquidacion">Idenitificacior de la liquidacion</param>
+	<returns>Retona algun error que puede surjir durante la ejecucion del SP</returns>
+</member><member name="M:INTEGRACION.dtoLiquiOficinaSisVyr.procesarVentasTransferidas_titan(System.String,System.String)">
+	<summary>
+ REALIZA LA TRANSFERENCIA DE LA TABLA TEMPORAL "vrttrans_ventas_tmp" A LA TABLA T_VENTA_PASAJES
+ </summary>
+	<param name="fechaLiquidacion">Fecha de la liquidacion</param>
+	<param name="codigoAgenciaVenta">Código de la agencia donde se a realizado las ventas, es el código con el que se asocia la tabla Agencia del sisvyr con la del Titan.</param>
+	<returns>Retona algun error que puede surjir durante la ejecucion del SP</returns>
+</member><member name="M:INTEGRACION.dtoLiquiOficinaSisVyr.transfiereGastos_titan(System.Int64,System.Int64,System.Int32,System.Double,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+	<summary>
+ REALIZA LA TRANSFERENCIA DE LOS GASTOS DEL SISVYR AL TITAN
+ </summary>
+	<param name="idLiquidacionOficina">Identificador de la liquidacion de oficina, registrada en el TITAN</param>
+	<param name="idGastoSisyr">Identificador de la liquidacion de turno del Sisvyr</param>
+	<param name="idTipoGasto">Identificador del Gasto</param>
+	<param name="monto">Monto que asciende el gasto</param>
+	<param name="numeroDocumento">Numero de documento, si este es un peaje u otro sustendato con nro de documento</param>
+	<param name="nombrePiloto">nombre del pilo. Para los pasos de los peajes.</param>
+	<param name="codigoBus">Código de bus. Para el caso de los peajes</param>
+	<param name="consignado">Nombre del consignado. Es para los caso de pago de giros.</param>
+	<param name="observaciones">Observaciones sobre el gasto</param>
+	<param name="horaRegistro">Hora en se realiza el registro del gasto</param>
+	<param name="horaActualizacion">Hora en que se realiza la modificacion del gasto.</param>
+	<param name="fechaOperacion">Fecha a la que corresponde el gasto. Se toma de la fecha de la Liquidacion</param>
+	<param name="login">Login del usuario al que pertenece la liquidacion de turno</param>
+	<returns>Retona algun error que puede surjir durante la ejecucion del SP</returns>
+</member><member name="M:INTEGRACION.dtoLiquiOficinaSisVyr.actualizaFechaTransSisvyr(System.Int64)">
+	<summary>
+ Actualiza le campo fecha transferencia (d_fectra) en las tabla vrtvenpas en el Sisvyr
+ </summary>
+	<param name="idLiquidacion"></param>
+	<returns>Retona algun error que puede surjir durante la ejecucion del SP</returns>
+</member><member name="M:INTEGRACION.dtoLiquiOficinaSisVyr.actuliazaVentaSeguros(System.Int64,System.Int32,System.Int32,System.Double,System.Double)">
+	<summary>
+ Actualiza los campos que guardan las cantidades y totales de la venta de seguros en el TITAN
+ </summary>
+	<param name="idLiquidacion">Identificador de la liquidacion del Sisvyr</param>
+	<param name="cantidadPaxFree">Cantidad de ventas realizadas a Pasajeros Frecuentes</param>
+	<param name="cantidadPaxNor">Cantidad de ventas realizadas a Pasajeros normales</param>
+	<param name="totalPaxFree">Monto Total de ventas realizadas a Pasajeros Frecuentes</param>
+	<param name="totalPaxNor">Monto Total de ventas realizadas a Pasajeros normales</param>
+	<returns></returns>
+</member><member name="M:INTEGRACION.frmEquipajes.clearFrom(System.Boolean)">
+	<summary>
+ Limpia los datos del formulario
+ </summary>
+</member><member name="M:INTEGRACION.frmEquipajes.loadTiposDataGridview">
+	<summary>
+ Carga los diferentes tipos o formas de enviao (PESO, VOLUMEN, EQUIPAJE)
+ </summary>
+</member><member name="M:INTEGRACION.frmEquipajes.loadPameters(System.Int32)">
+	<summary>
+ Carga los parametros basicos para registrar los equipajes
+ </summary>
+	<param name="IdAgencia_">Identificador de la agencias que va registrar la recepcion de los equipajes</param>
+	<returns>true (Si los parametros se cargaron correctamente, false (lo contrario))</returns>
+</member><member name="M:INTEGRACION.frmEquipajes.boletoIsAsociado(System.String)">
+	<summary>
+ Realiza la busqueda del boleto para validar si esta ya fue registrado.
+ </summary>
+	<param name="boleto">Numero de boleto</param>
+	<returns>DataTable con la info del comprobante asociado al boleto</returns>
+</member><member name="M:INTEGRACION.frmEquipajes.getPax_titan(System.Int32,System.String)">
+	<summary>
+ Realiza la busqueda del pasajero/cliente en la base de datos Titan.
+ </summary>
+	<param name="searchBy">Indica si la busqueda debe ser por numero de documento (1), o por nombres (2)</param>
+	<param name="valorParameter">Valor a buscar (numero de documento o nombres del pasajero/cliente)</param>
+</member><member name="M:INTEGRACION.frmEquipajes.showPax(INTEGRACION.Boleto)">
+	<summary>
+ Muestra los datos del pasajero
+ </summary>
+	<param name="boleto">object Boleto</param>
+</member><member name="M:INTEGRACION.frmEquipajes.showBoleto">
+	<summary>
+ Muestra los datos del Boleto
+ </summary>
+</member><member name="M:INTEGRACION.frmEquipajes.getBoleto">
+	<summary>
+ Busca el Boleto en el Sisvyr
+ </summary>
+</member><member name="M:INTEGRACION.frmEquipajes.getTarifas(System.Int32)">
+	<summary>
+ Realiza la busqueda del tarifario
+ </summary>
+	<param name="idProducto">Identificador del producto</param>
+	<returns>Object dtoTarifasCargo</returns>
+</member><member name="M:INTEGRACION.frmEquipajes.round(System.String)">
+	<summary>
+ Realiza el redondeo para evitar dencimos.
+ </summary>
+	<param name="monto">Monto a dedondear</param>
+	<returns>Monto redondeado</returns>
+</member><member name="M:INTEGRACION.frmEquipajes.resetearVariables">
+	<summary>
+ Resetea las variables antes de guardar la venta
+ </summary>
+</member><member name="M:INTEGRACION.frmEquipajes.loadCorrelativo(System.Boolean,System.Int32)">
+	<summary>
+ Carga el correlativo
+ </summary>
+	<param name="forceSearch">True para forzar la consulta del correlativo, false evalua si es necesario consultar</param>
+	<param name="idTipoComprobanteSearch">Identificador del tipo de comprobante, cuando se desea forsar la busqueda del correlativo por este identificador</param>
+</member><member name="M:INTEGRACION.frmEquipajes.enabledContros(System.Boolean)">
+	<summary>
+ Habilita y/o deshabilita los controles
+ </summary>
+	<param name="enabled">True Habilita los controles, false Deshabilita los controles. </param>
+</member><member name="T:INTEGRACION.dtoCLIENTES">
+	<summary>
+ Data Transformation Object para el mantenimiento de Clientes.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmVentaContado.Emisionfe(System.String,System.Data.DataTable)">
+	<summary>
+ EMISON DE LA FACTURA/BOLETA ELECTRONICA - JABANTO - 18/05/2016
+ </summary>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.AgregaDireccion(System.Int32)">
+	<summary>
+ Agrega la dirección ingresada al cliente directamente a Oracle.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.GeneraDireccion">
+	<summary>
+ Crea la Grilla donde se plasmaran las Direcciones Ingresadas.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.AgregarTelefonosContacto(System.Int32)">
+	<summary>
+ Agrega Telefonos de Contacto a directamente a Oracle.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.GeneraDetalleTelefonos2009_eliminarlo(System.Windows.Forms.DataGridView)">
+	<summary>
+ Crea la Grilla para el Ingreso de Telefonos.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.GeneraDetalleContactos">
+	<summary>
+ Crea la Grilla para el Ingreso de Contactos.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.AgregarContactoJuridico(System.Int32)">
+	<summary>
+ Agrega el Contacto de la Persona Juridica Directamente a Oracle.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.AsignacionFuncionarioPasa(System.String)">
+	<summary>
+ Realiza la relación entre un funcionario de negocio con un Cliente en Oracle.
+ </summary>
+	<param name="MyCodigoClienteFuncionario"></param>
+	<remarks></remarks>
+  Private Sub AsignacionFuncionario(ByVal MyCodigoClienteFuncionario As String)
+ 
+
+</member><member name="M:INTEGRACION.FrmClientesPasajes.GrabaNatural">
+	<summary>
+ Inserta la Persona Natural en Oracle.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.GrabaJuridica">
+	<summary>
+ Inserta la Persona Juridica en Oracle.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.DeshabilitaControlesEdicion">
+	<summary>
+ Desahabilita los controles necesarios para la edicion de un Cliente ya existente.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.AccionesJuridica">
+	<summary>
+ Establece propiedades de Controles tras la Insercion o actualizacion de Clientes Juridicos.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.AccionesNatural">
+	<summary>
+ Establece propiedades de Controles tras la Insercion o actualizacion de Clientes Naturales.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.CargarListaContactos2009_eliminarlo">
+	<summary>
+ Carga con datos de Contactos a la Grilla para poder Actualizarlos.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:INTEGRACION.FrmClientesPasajes.CargarListaTelefonos2009_eliminarlo(System.Int32,System.Windows.Forms.DataGridView)">
+	<summary>
+ Carga la Lista de Telefonos del Contacto seleccionado en la Grilla.
+ </summary>
+	<param name="IDContacto"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

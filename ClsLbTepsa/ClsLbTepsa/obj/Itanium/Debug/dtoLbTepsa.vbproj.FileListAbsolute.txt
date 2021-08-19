@@ -1,0 +1,4 @@
+D:\Proyecto_Titan\ClsLbTepsa\ClsLbTepsa\obj\Itanium\Debug\dtoLbTepsa.vbprojResolveAssemblyReference.cache
+D:\Proyecto_Titan\ClsLbTepsa\ClsLbTepsa\obj\Itanium\Debug\dtoLbTepsa.vbproj.ResolveComReference.cache
+D:\Proyecto_Titan\ClsLbTepsa\ClsLbTepsa\obj\Itanium\Debug\ClsLbTepsa.FrmReport.resources
+D:\Proyecto_Titan\ClsLbTepsa\ClsLbTepsa\obj\Itanium\Debug\dtoLbTepsa.vbproj.GenerateResource.Cache

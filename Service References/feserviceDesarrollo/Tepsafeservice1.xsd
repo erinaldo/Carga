@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/FEService.Util" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/FEService.Util" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:59155/Tepsafeservice.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/FEService.Input" />
+  <xs:complexType name="Result">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="IsCorrect" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="barcode" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="barcode_QR" nillable="true" type="xs:base64Binary" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/FEService.Input" minOccurs="0" name="listDetalleVenta" nillable="true" type="q1:ArrayOfDetalleVenta" />
+      <xs:element minOccurs="0" name="pdf" nillable="true" type="xs:base64Binary" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Result" nillable="true" type="tns:Result" />
+</xs:schema>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="INTEGRACION2">
+</Property><Property Name="Solution File" Value="D:\Backup\integracion con roles\INTEGRACION2.sln">
+</Property><Property Name="Date" Value="Jueves, 28 de Abril de 2011">
+</Property><Property Name="Time" Value="20:31 p.m.">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="dtoLbTepsa" Source="ClsLbTepsa\ClsLbTepsa\dtoLbTepsa.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="dtoLbTepsa" Source="ClsLbTepsa\ClsLbTepsa\dtoLbTepsa.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="INTEGRACION2.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="INTEGRACION2.sln" Description="Converted">
+</Event></UpgradeLog>

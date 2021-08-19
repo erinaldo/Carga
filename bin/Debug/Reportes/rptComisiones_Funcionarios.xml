@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IDUSUARIO_PERSONAL" type="xs:decimal" minOccurs="0" />
+              <xs:element name="USUARIO_PERSONAL" type="xs:string" minOccurs="0" />
+              <xs:element name="TIPOFUN" type="xs:string" minOccurs="0" />
+              <xs:element name="DESFUNCI" type="xs:string" minOccurs="0" />
+              <xs:element name="CONCEPTO" type="xs:string" minOccurs="0" />
+              <xs:element name="ORIGEN" type="xs:string" minOccurs="0" />
+              <xs:element name="TIPO_COBRANZA" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTAL" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PORCENTAJE" type="xs:decimal" minOccurs="0" />
+              <xs:element name="COMISION" type="xs:decimal" minOccurs="0" />
+              <xs:element name="FECHA_INI" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FECHA_FINAL" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

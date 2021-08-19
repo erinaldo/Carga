@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+INTEGRACION_AD
+</name>
+</assembly>
+<members>
+<member name="M:INTEGRACION_AD.Cls_Subcuenta_AD.buscarSubCuenta(System.Int64,System.Int64)">
+	<summary>
+ REALIZA LA CONSULTA DEL CENTRO DE COSTO
+ </summary>
+	<param name="idCliente">Identificador del Cliente</param>
+	<param name="idCiudadCobertura">Identificador de la ciudad de cobertura</param>
+	<returns>listado de subCuentas</returns>
+</member><member name="M:INTEGRACION_AD.Cls_Subcuenta_AD.guardar(INTEGRACION_EN.Cls_ContactoCentroCosto)">
+	<summary>
+ GUARDA EL CENTRO DE COSTO
+ </summary>
+	<param name="contactoCentroCosto">Objeto Centro de consto</param>
+</member><member name="M:INTEGRACION_AD.Cls_Subcuenta_AD.anular(System.Int64,System.Int32,System.Int32,System.String)">
+	<summary>
+ REALIZA LA ANULACION DEL CENTRO DE COSTO
+ </summary>
+	<param name="idCentrocosto">Identificador del Centro de Costo</param>
+	<param name="idUsuario">Identificador del usuario que realiza la anulacion</param>
+	<param name="idRol">Identificador del rol con el que se esta realizando la anulacion</param>
+	<param name="ip">Numero de IP de la Pc de donde se esta realizando la anulacion</param>
+</member><member name="M:INTEGRACION_AD.Cls_TarifarioPerso_AD.BuscarTarifa(System.String,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ BUSCA TARIFARIO PERSONALISADO DE UN CLIENTE
+ </summary>
+	<param name="idPersona">Identificador del Cliente</param>
+	<param name="idOrigen">Identificador del Origen</param>
+	<param name="idDestino">Identificador del Destino</param>
+	<param name="idProducto">Idenficador del Producto</param>
+	<param name="idTipoTarifa">Idenficador del Tipo de tarifa</param>
+	<param name="idCentroCosto">Identificador del Centro de costo</param>
+	<returns>Listado de Tarifas (Objeto DataTable)</returns>
+</member><member name="M:INTEGRACION_AD.UtilData_AD.cargarCombos(System.String,System.Windows.Forms.ComboBox,System.Boolean,System.Data.DataTable,System.Int32,System.String,System.Int32,System.Int32)">
+	<summary>
+ CARGA LOS OBJETOS COMBOBOX
+ </summary>
+	<param name="table">Nombre de la tabla</param>
+	<param name="comboBox">Objeto comboBox</param>
+	<param name="todos">true se muestra al inicio del como "TODOS"; false "SELECCIONE"</param>
+	<param name="dataTable">Opcional, Objeto con el que se deben cargar los datos</param>
+	<remarks>jabanto</remarks>
+</member><member name="M:INTEGRACION_AD.UtilData_AD.buscarArticulos">
+	<summary>
+ BUSCA EL MAESTRO DE ARTICULOS
+ </summary>
+	<returns>Lista de articulos</returns>
+</member><member name="M:INTEGRACION_AD.UtilData_AD.cargarTipoVisibilidad(System.Windows.Forms.ComboBox,System.Boolean,System.Int32)">
+	<summary>
+ Determina si la tarifa publica creada es para atencion al publico en general (1) o para clientes corporativos (2).
+ </summary>
+</member><member name="T:INTEGRACION_AD.UtilData_AD">
+	<summary>
+ JOSE ABANTO ABANTO
+ </summary>
+</member><member name="P:INTEGRACION_AD.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:INTEGRACION_AD.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:INTEGRACION_AD.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:INTEGRACION_AD.ClsBuscarClienteAD.F_BuscarCliente_AD(System.String,System.String,System.Int32)">
+	<summary>
+ REALIZA LA BUSQUEDA DEL CLIENTE, POR RAZÓN SOCIAL O RUC
+ </summary>
+	<param name="pStr_Filtro">Razon social del Cliente</param>
+	<param name="ruc">Ruc del Cliente</param>
+	<returns>dataTable</returns>
+</member>
+</members>
+</doc>

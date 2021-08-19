@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Clases utilizadas para la implementacion de la Facturación Electronica">
+    <Position X="3.562" Y="0.5" Height="0.448" Width="2.679" />
+  </Comment>
+  <Class Name="INTEGRACION.FEManager">
+    <Position X="0.5" Y="1" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>kIAkgYKoWCGBSMhABjIBIAApDIgVBAJiABAgYKIESwI=</HashCode>
+      <FileName>FacturacionElectronica\Class\FEManager.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="INTEGRACION.FECliente">
+    <Position X="2.75" Y="1" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAgAAAAABAAAAAAAAAAAwAAAAAAAA=</HashCode>
+      <FileName>FacturacionElectronica\Class\FECliente.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="INTEGRACION.FEVenta">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAAiAAggBACEBQAAAAAABExIARAAACAGAABBQEBgI=</HashCode>
+      <FileName>FacturacionElectronica\Class\FEVenta.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="INTEGRACION.FEDetalleVenta">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAABAAAAAAAAAAAEAAAAAAAIAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>FacturacionElectronica\Class\FEDetalleVenta.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

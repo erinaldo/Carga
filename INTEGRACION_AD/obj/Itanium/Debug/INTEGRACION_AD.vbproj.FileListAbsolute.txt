@@ -1,0 +1,2 @@
+D:\Proyecto_Titan\INTEGRACION_AD\obj\Itanium\Debug\INTEGRACION_AD.Resources.resources
+D:\Proyecto_Titan\INTEGRACION_AD\obj\Itanium\Debug\INTEGRACION_AD.vbproj.GenerateResource.Cache

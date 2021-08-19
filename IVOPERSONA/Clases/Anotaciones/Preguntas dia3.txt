@@ -1,0 +1,39 @@
+Les envio las preguntas y ejercicios opcionales del dia 3. 
+
+1.¿Cuáles son las diferencias entre las validaciones a nivel de campo 
+y a nivel de formularios? 
+
+Las validaciones a nivel de campos se realizan conforme el cliente ingresa 
+los datos en cada campo y para lograr este fin utilizo el evento validating 
+del control.
+
+Las validaciones a nivel de formulario, verifica los datos despues que el 
+cliente haya ingresado los datos a todos los campos.
+
+2.¿Cuáles son los eventos que le permiten validar las pulsaciones de teclas?
+
+KeyDown
+KeyPress
+KeyUp
+
+3.¿Qué tipo de errores le ayuda a resolver el depurador?
+Nos ayuda a corregir Errores de sintaxis (ojo que en VB 2005 en tiempo de 
+diseño el IDE de VS 2005 nos marca los pedasos de codigo que tienen error 
+de sintaxis y nos muestra opciones de correxion), errores en RunTime 
+como cuando no hacemos una convercion explixita correcta y Errores Logicos.
+
+4.¿Cómo se utiliza un control ErrorProvider?
+Private Sub TextBox2_Validating(ByVal sender As Object, ByVal e As System.ComponentModel.CancelEventArgs) Handles TextBox2.Validating
+        Static a As New ErrorProvider
+        If Len(Trim(TextBox2.Text)) = 0 Then
+            a.SetError(TextBox2, "Ingrese un Texto")
+        Else
+            a.SetError(TextBox2, "")
+        End If
+End Sub
+
+5.¿Qué se recomienda hacer en el último bloque de una instrucción Try..Catch?
+Siempre Utilizar la instruccion FINALY, pues esta se realiza haya o no una 
+Excepcion. 
+
+

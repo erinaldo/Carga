@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Tepsafeservice" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://192.168.200.80:8085/Tepsafeservice.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://192.168.200.80:8085/Tepsafeservice.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://192.168.200.80:8085/Tepsafeservice.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/FEService.Input" />
+      <xsd:import schemaLocation="http://192.168.200.80:8085/Tepsafeservice.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/FEService.Util" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ITepsafeservice_setVenta_InputMessage">
+    <wsdl:part name="parameters" element="tns:setVenta" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setVenta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setVentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setNota_InputMessage">
+    <wsdl:part name="parameters" element="tns:setNota" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setNota_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setNotaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setBajas_InputMessage">
+    <wsdl:part name="parameters" element="tns:setBajas" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setBajas_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setBajasResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setResumenes_InputMessage">
+    <wsdl:part name="parameters" element="tns:setResumenes" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setResumenes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setResumenesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setUpdateStatusCDR_InputMessage">
+    <wsdl:part name="parameters" element="tns:setUpdateStatusCDR" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setUpdateStatusCDR_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setUpdateStatusCDRResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setBajaDocumento_InputMessage">
+    <wsdl:part name="parameters" element="tns:setBajaDocumento" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setBajaDocumento_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setBajaDocumentoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setNotaVenta_InputMessage">
+    <wsdl:part name="parameters" element="tns:setNotaVenta" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setNotaVenta_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setNotaVentaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setEnviarComprobantesSunat_InputMessage">
+    <wsdl:part name="parameters" element="tns:setEnviarComprobantesSunat" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setEnviarComprobantesSunat_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setEnviarComprobantesSunatResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_getRepresentacionImpresa_InputMessage">
+    <wsdl:part name="parameters" element="tns:getRepresentacionImpresa" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_getRepresentacionImpresa_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getRepresentacionImpresaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_searchOperacionesBySendMail_InputMessage">
+    <wsdl:part name="parameters" element="tns:searchOperacionesBySendMail" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_searchOperacionesBySendMail_OutputMessage">
+    <wsdl:part name="parameters" element="tns:searchOperacionesBySendMailResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setUpdatePdf_InputMessage">
+    <wsdl:part name="parameters" element="tns:setUpdatePdf" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setUpdatePdf_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setUpdatePdfResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_buscarDetalleComprobante_InputMessage">
+    <wsdl:part name="parameters" element="tns:buscarDetalleComprobante" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_buscarDetalleComprobante_OutputMessage">
+    <wsdl:part name="parameters" element="tns:buscarDetalleComprobanteResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setConsultarCDR_InputMessage">
+    <wsdl:part name="parameters" element="tns:setConsultarCDR" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_setConsultarCDR_OutputMessage">
+    <wsdl:part name="parameters" element="tns:setConsultarCDRResponse" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_searchOperacionesByConfirmar_InputMessage">
+    <wsdl:part name="parameters" element="tns:searchOperacionesByConfirmar" />
+  </wsdl:message>
+  <wsdl:message name="ITepsafeservice_searchOperacionesByConfirmar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:searchOperacionesByConfirmarResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ITepsafeservice">
+    <wsdl:operation name="setVenta">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/setVenta" message="tns:ITepsafeservice_setVenta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/setVentaResponse" message="tns:ITepsafeservice_setVenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setNota">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/setNota" message="tns:ITepsafeservice_setNota_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/setNotaResponse" message="tns:ITepsafeservice_setNota_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setBajas">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/setBajas" message="tns:ITepsafeservice_setBajas_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/setBajasResponse" message="tns:ITepsafeservice_setBajas_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setResumenes">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/setResumenes" message="tns:ITepsafeservice_setResumenes_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/setResumenesResponse" message="tns:ITepsafeservice_setResumenes_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setUpdateStatusCDR">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/setUpdateStatusCDR" message="tns:ITepsafeservice_setUpdateStatusCDR_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/setUpdateStatusCDRResponse" message="tns:ITepsafeservice_setUpdateStatusCDR_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setBajaDocumento">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/setBajaDocumento" message="tns:ITepsafeservice_setBajaDocumento_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/setBajaDocumentoResponse" message="tns:ITepsafeservice_setBajaDocumento_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setNotaVenta">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/setNotaVenta" message="tns:ITepsafeservice_setNotaVenta_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/setNotaVentaResponse" message="tns:ITepsafeservice_setNotaVenta_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setEnviarComprobantesSunat">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/setEnviarComprobantesSunat" message="tns:ITepsafeservice_setEnviarComprobantesSunat_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/setEnviarComprobantesSunatResponse" message="tns:ITepsafeservice_setEnviarComprobantesSunat_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getRepresentacionImpresa">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/getRepresentacionImpresa" message="tns:ITepsafeservice_getRepresentacionImpresa_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/getRepresentacionImpresaResponse" message="tns:ITepsafeservice_getRepresentacionImpresa_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="searchOperacionesBySendMail">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/searchOperacionesBySendMail" message="tns:ITepsafeservice_searchOperacionesBySendMail_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/searchOperacionesBySendMailResponse" message="tns:ITepsafeservice_searchOperacionesBySendMail_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setUpdatePdf">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/setUpdatePdf" message="tns:ITepsafeservice_setUpdatePdf_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/setUpdatePdfResponse" message="tns:ITepsafeservice_setUpdatePdf_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="buscarDetalleComprobante">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/buscarDetalleComprobante" message="tns:ITepsafeservice_buscarDetalleComprobante_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/buscarDetalleComprobanteResponse" message="tns:ITepsafeservice_buscarDetalleComprobante_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="setConsultarCDR">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/setConsultarCDR" message="tns:ITepsafeservice_setConsultarCDR_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/setConsultarCDRResponse" message="tns:ITepsafeservice_setConsultarCDR_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="searchOperacionesByConfirmar">
+      <wsdl:input wsaw:Action="http://tempuri.org/ITepsafeservice/searchOperacionesByConfirmar" message="tns:ITepsafeservice_searchOperacionesByConfirmar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ITepsafeservice/searchOperacionesByConfirmarResponse" message="tns:ITepsafeservice_searchOperacionesByConfirmar_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ITepsafeservice" type="tns:ITepsafeservice">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="setVenta">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/setVenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setNota">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/setNota" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setBajas">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/setBajas" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setResumenes">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/setResumenes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setUpdateStatusCDR">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/setUpdateStatusCDR" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setBajaDocumento">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/setBajaDocumento" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setNotaVenta">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/setNotaVenta" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setEnviarComprobantesSunat">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/setEnviarComprobantesSunat" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getRepresentacionImpresa">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/getRepresentacionImpresa" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="searchOperacionesBySendMail">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/searchOperacionesBySendMail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setUpdatePdf">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/setUpdatePdf" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="buscarDetalleComprobante">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/buscarDetalleComprobante" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="setConsultarCDR">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/setConsultarCDR" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="searchOperacionesByConfirmar">
+      <soap:operation soapAction="http://tempuri.org/ITepsafeservice/searchOperacionesByConfirmar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Tepsafeservice">
+    <wsdl:port name="BasicHttpBinding_ITepsafeservice" binding="tns:BasicHttpBinding_ITepsafeservice">
+      <soap:address location="http://192.168.200.80:8085/Tepsafeservice.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

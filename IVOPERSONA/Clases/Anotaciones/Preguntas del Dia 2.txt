@@ -1,0 +1,68 @@
+Hola!!!                         
+
+Estas son las preguntas y ejercicios NO obligatorios del dia 2.
+
+1.- Cómo hacer para que en una aplicación MDI solo se abra una instancia de un formulario hijo? 
+Verifiquen su respuesta antes de enviarla.
+
+	''' <summary>
+    ''' Funcion que detecta la Instancia Inicializada de Cualquier Form, contenida dentro de un Panel.
+    ''' </summary>
+    ''' <param name="MyForm"></param>
+    ''' <returns></returns>
+    ''' <remarks></remarks>
+    Private Function FormAbierto(ByVal MyForm As Form) As Boolean
+        For Each MyForm In Me.SplitContainer1.Panel2.Controls
+            If TypeOf MyForm Is Form Then
+                MyForm.Activate()
+                Return True
+            End If
+        Next
+        Return False
+    End Function
+    
+    Private Sub PruebaOpacidadToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PruebaOpacidadToolStripMenuItem.Click
+        If Not FormAbierto(Prueba) Then
+            Dim a As New Prueba
+            a.MdiParent = Me
+            SplitContainer1.Panel2.Controls.Add(a)
+            a.Show()
+        End If
+    End Sub
+    
+2.- Al desarrollar una aplicación windows, agregas un nuevo formulario llamado frmSIoNO. 
+Este formulario mostrará un mensaje y permitirá al usuario responder dando click al botón btnSI 
+o al botón btnNO. El formulario será mostrado utilizando el método ShowDialog. 
+Utilizando el mínimo de código, que deberias hacer para que al dar click al botón btnSI 
+o al botón btnNO se cierre el formulario y se envie la respuesta seleccionada a la aplicación?
+
+Codigo del FormDialog:
+
+Public Class Prueba2
+
+    Public Respuesta As String
+
+    Private Sub Si_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Si.Click
+        Me.DialogResult = Windows.Forms.DialogResult.Yes
+        Respuesta = "SI"
+        Me.Close()
+    End Sub
+
+    Private Sub No_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles No.Click
+        Me.DialogResult = Windows.Forms.DialogResult.No
+        Respuesta = "NO"
+        Me.Close()
+    End Sub
+End Class
+
+Codigo del Form Que llama al Dialog.
+
+Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        Dim a As New Prueba2
+        Dim resp As DialogResult = a.ShowDialog()
+        If resp = Windows.Forms.DialogResult.Yes Then
+            MessageBox.Show(a.Respuesta)
+        ElseIf resp = Windows.Forms.DialogResult.No Then
+            MessageBox.Show(a.Respuesta)
+        End If
+End Sub

@@ -1,0 +1,1757 @@
+﻿  ID CLIENTE	CODIGO CLIENTE	        RAZON SOCIAL          
+  ----------	--------------	------------------------------
+    52172   	00213737      	CAMPAÑA IZQUIERDO ARACELI                                   
+    360443  	00218840      	GELACIO APARICIO MOGOLLON GUERRERO                          
+    13262   	00499181      	CCAJMA MOROCCO BELTRAN                                      
+    182511  	08735543      	HERNAN LA TORRE NEYRA                                       
+    495962  	10002031537   	GUILLERMO ALBERTO LA TORRE REYNA                            
+    3386    	10002107371   	ESTRADA VARHEN JOSE LUIS                                    
+    799559  	10002188401   	GELACIO APARICIO MOGOLLON GUERRERO                          
+    309547  	10002492364   	JHON OLIVOS VARGAS                                          
+    311672  	10004478946   	RONY VELEZ PACO                                             
+    369047  	10004684953   	MAMANI CHURA MATIAS                                         
+    2827    	10004906395   	MARIA ELIZABETH VEGA JIMENEZ                                
+    369092  	10004967041   	CAÑI LOPEZ JUANA                                            
+    209870  	10004991813   	CCAJMA MOROCCO BELTRAN                                      
+    369045  	10005002694   	MAMANI COAQUIRA JESUSA                                      
+    397279  	10005128825   	ROBERTO CUETO CALANI                                        
+    255239  	10010165381   	TEODORO ISMAEL ALVA PEREZ                                   
+    781735  	10013391039   	ADELA L. HUANCA CAHUAYA                                     
+    280089  	10023608095   	ELIAS SUCASACA VALENCIA                                     
+    469197  	10023955976   	HUGO ARAGON GALLEGOS                                        
+    358449  	10024072628   	PAREDES MACHACA MARIANO ROSO                                
+    326644  	10024364769   	ITO ARIAS JOSE LUIS                                         
+    275717  	10027764938   	JENNY ELIZABETH ATO GALLO                                   
+    275282  	10033084639   	ADRIANZEN CIENFUEGOS MANUEL YGNACIO                         
+    2850    	10033531171   	APICOLA PRODUCTOS DEL BOSQUE EIRL                           
+    107810  	10036358055   	ZAPATA CHUNGA JUAN                                          
+    106799  	10036723616   	GUTIERREZ ADRIANZEN MANUELA JOSEFINA                        
+    3750    	10038953457   	LAURA LAMA ALEMAN                                           
+    337861  	10044093079   	RUEDA YATO OSCAR EFRAIN                                     
+    372507  	10046242497   	CHAVEZ VELASQUEZ AURELIO E.                                 
+    258873  	10046358347   	CCOTALUQUE MONROY BENITA CIRILA                             
+    3105    	10046480665   	LOVON LLAIQUE SONALID ISABEL                                
+    144634  	10054023311   	YAICATE TAMANI KETTY LILEY                                  
+    243402  	10065194339   	CALMET BETANCOURT GERARDO FEDERICO                          
+    401473  	10067052230   	CUNNINGHAM ZABATTA MARIA DEL CARMEN                         
+    394413  	10067191701   	ROSA LUZ GARCIA GARCIA                                      
+    518280  	10067320145   	CHAVEZ PERALTA SAMUEL EDUARDO                               
+    400867  	10067674940   	ROJAS PIEDRA VICTOR                                         
+    337633  	10069614529   	ABRAHAM WENCESLAO BALDEON MENDOZA                           
+    326206  	10070187961   	NORBIL ROMERO HERNANDEZ                                     
+    354025  	10070923241   	JOSE DONATO MAMANI VIZA                                     
+    350634  	10070937706   	PUMA QUISPE SEBASTIAN                                       
+    351466  	10071016167   	MARIO APAZA LAMPA                                           
+    356693  	10071026995   	BERNARDINA VIZA QUISPE  VDA DE MAMANI                       
+    209729  	10072593974   	AGUIRRE MATTOS GUSTAVO MARTIN                               
+    213076  	10073424793   	CRISTOBAL PAUCAR DOMINGO                                    
+    213318  	10073608991   	MARQUEZ MORON JAVIER NICOLAS                                
+    209738  	10073732706   	MARIA VARGAS MUÑOS                                          
+    211482  	10073936409   	PATAZCA GUTIERREZ LUIS ALBERTO                              
+    236371  	10074203405   	ACOSTUPA MALLMA URSULA                                      
+    275175  	10074265982   	FALCON CHAMORRO LUIS ALBERTO                                
+    212286  	10074337886   	ROMAN AQUISE WALTER ASCENCIO                                
+    24178   	10074814471   	RUBEN SINCHI CACERES                                        
+    376102  	10074838311   	MERCADO ARCOS MARCO                                         
+    363459  	10074867044   	MAMANI ALMENDRA ELSA                                        
+    254395  	10075054306   	CARLOS TAQUIRE CANO                                         
+    369101  	10075251331   	VELASQUEZ QUISOCALA ELSA                                    
+    498932  	10075386392   	CRUZ VELASQUEZ SONIA ROSI                                   
+    363684  	10077469783   	YERBA ZELA TEODOCIA                                         
+    386760  	10078446507   	SANTIAGO SILVA                                              
+    38496   	10079490356   	TREXA E.I.R.L.                                              
+    648409  	10079570724   	PEDRO PONCE PACORICONA                                      
+    3787    	10079771304   	RODRIGO VELI VELASQUEZ                                      
+    207405  	10080425681   	VEGA HUAYHUAPUMA MERCEDES                                   
+    351110  	10080640701   	TORRES SULLCA LUCIO                                         
+    350646  	10080819523   	PAUCAR MORENO SEBASTIANA ISABEL                             
+    136387  	10081024362   	FLORES MOTTA PITTER DAVID                                   
+    242595  	10081372808   	PACORICUNA TAQUILA OSCAR                                    
+    376647  	10081629248   	JIMENEZ MAYS TEOFILO JOAN                                   
+    266500  	10082313228   	LARRAÑAGA LEONHARDT MARIA ROCIO                             
+    217912  	10082545773   	VILELA GAMBOA LICETI                                        
+    364809  	10083229077   	TORRES OSORIO ROSA EUGENIA                                  
+    618819  	10084581831   	RAMIREZ PAREDES EDUARDO LUCAS                               
+    99505   	10085194408   	ARMANDO RODRIGUEZ RABANAL                                   
+    709894  	10085585938   	OSCAR ALFREDO LUCERO CHURRANGO                              
+    348925  	10086527575   	NORMA RIVERO CONTRERAS                                      
+    213078  	10088195847   	LARRAURI HUAMAN ANTONIO                                     
+    351124  	10089057651   	QUISPE PALOMINO DONATO                                      
+    194810  	10090075646   	PABLO HUARCAYA AROTINCO                                     
+    517810  	10090753873   	SALAZAR GARCIA CARMEN                                       
+    360710  	10091251952   	JUSTINO ACHO CAÑARI                                         
+    3197    	10091723137   	ROSA ROMERO REYES                                           
+    4542    	10092400633   	EFRAIN MONRROY GUTIERREZ                                    
+    206382  	10093726991   	ROSA GAYTAN RUIZ                                            
+    108125  	10094897900   	AQUINO QUINTANA JOSE ALEJANDRO                              
+    354995  	10095011832   	ASTULLE AQUISE JULIANA ELSA                                 
+    363761  	10095489074   	YENY B. CHULLUNCUY CHAVEZ                                   
+    344173  	10095691132   	CORDOVA PALOMINO LOURDES                                    
+    466503  	10095782456   	JUAN RODRIGUEZ GALVEZ                                       
+    376065  	10096605434   	MARLENE ALVAREZ CCASO                                       
+    356945  	10096708667   	FREDDY ROMANI LINARES                                       
+    23380   	10096990346   	TEOFILO CHAVEZ MONTES                                       
+    255218  	10097274873   	CAMACHO CARRILO RICARDO                                     
+    275695  	10097670051   	ROSANA RUIZ LOAYZA                                          
+    214040  	10097700856   	ARCE QUISPE NINOSHKA                                        
+    279894  	10097982533   	CONFECCIONES BRIMATS                                        
+    106784  	10098055636   	POMA VICENTE MOISES                                         
+    353639  	10098114942   	CCALLA RODRIGUEZ FRANCISCO                                  
+    351129  	10098388279   	MARTINEZ ORTIZ LUIS ANGEL                                   
+    359113  	10100284249   	ABRAHAM PAUCAR M.                                           
+    369106  	10100346945   	AVENDAÑO CHURA MARIA                                        
+    349042  	10100363424   	YOLANDA APCHO QUISPE                                        
+    364819  	10100401504   	DAMIANO HUAYANA FAVIO                                       
+    63860   	10100735224   	AEROMUNDO                                                   
+    562503  	10100876189   	VIVAR VALENZUELA GUILLERMO JAIRO                            
+    351128  	10101167882   	MACHACA HUMPIRE ALICIA LUZMILA                              
+    363685  	10101241756   	GAGO CARDENAS RUTH LEONOR                                   
+    221619  	10102008532   	LLERENA LARRAÑAGA MARIO OSWALDO                             
+    106797  	10102671517   	MUÑOZ GALINDO JUAN CARLOS ALEXIS                            
+    350639  	10102797570   	YTO ARIAS OSCAR WILLY                                       
+    263433  	10103046152   	CHAMBILLA INOCENTE LUIS EDDY                                
+    106840  	10103474341   	VIDAL VIDAL ZOILA                                           
+    369099  	10104169444   	CANCHUMANI HUARACA ESTHER GLADYS                            
+    3845    	10105385795   	ABAD FLORES HEBERT                                          
+    338697  	10105781429   	GLADYS TIPULA CONDEZO                                       
+    364816  	10105782689   	HUMPIRE TORRES VICTOR CIPRIANO                              
+    351112  	10106777654   	LENES MEDINA YANET                                          
+    213347  	10107025745   	MAMANI COARITA WILLY                                        
+    238539  	10107193681   	SILVA GONZALES HAIDEE                                       
+    242485  	10107223814   	SICLLA CONTRERAS JOSE LUIS                                  
+    584220  	10107561906   	ANGULO HINOSTROZA MIGUEL ANGEL                              
+    345539  	10108606407   	CATACORA QUISPE EDGAR                                       
+    105673  	10159760117   	HURTADO SAAVEDRA JUAN JOSE ALEXANDER                        
+    3321    	10159869861   	LUZ VALVERDE FLORES                                         
+    361765  	10164632054   	NEGOCIOS Y SERVIUCIOS GENERALES LIMAR                       
+    518282  	10164858516   	GARCIA ANGULO ANTONIO HERNAN                                
+    347575  	10166500414   	INVERCIONES DEL NORTE                                       
+    5618    	10166927981   	DONGO AVALO JOSE RAMON                                      
+    253518  	10175886538   	SALDAÑA SERQUEN EDWIN YOVANI                                
+    213324  	10176038000   	BONILLA ACOSTA MAGDALENA DEL SOCORRO                        
+    411345  	10176224628   	QUEVEDO MARTINEZ MIGUEL ANGEL                               
+    456132  	10180227194   	LUIS HUAMANCHUMO SICHE                                      
+    799128  	10180661927   	ACADEMIA DE MARINERA CHIO ABANTO                            
+    369037  	10188701791   	SALDAÑA MENDOZA JUAN MIGUEL                                 
+    356825  	10199056668   	ADRIAN REYES CURILLA                                        
+    689183  	10199139890   	ZARATE MADRID PASTOR RICARDO                                
+    314050  	10199582726   	FLORES CHOQUE RICHARD ALEJANDRO                             
+    482176  	10200517704   	QUINTE RAMON RAUL ANGEL                                     
+    364821  	10215440511   	ALONZO YARANGA AUGUSTO                                      
+    398844  	10238345541   	R.H REPRESENTACIONES DE RUBEN DE SOMOCURCIO                 
+    340363  	10255118621   	DULANTO ARTEAGA BLANCA RUTH                                 
+    244857  	10256952071   	GONZALES COAGUILA JUAN ERNESTO                              
+    369050  	10266400361   	SAENZ LUNA MARIA LIBERTAD                                   
+    369049  	10266403297   	CHUQUITUCTO VIGO VICTOR ORLANDO                             
+    240591  	10277393790   	DELGADO TINOCO JOSE V.                                      
+    4450    	10292313450   	GERMAN JAVIER OCHOA VELASCO                                 
+    363723  	10292525686   	OJEDA DE OCHARAN MIRIAM DAISY                               
+    5233    	10292840328   	ROBERTO A. EDUARDO ZUÑIGA                                   
+    1484    	10293969634   	MARIA CELIA TOLEDO DE GARCIA                                
+    284306  	10295510256   	APAZA COAQUIRA RENE                                         
+    300631  	10296405979   	ELVIRA LUPO ALCCAMARI                                       
+    2335    	10304030017   	HELBERT SAMALVIDES DONGO                                    
+    545931  	10308390930   	PRUEBA JURIDICO                                             
+    691024  	10316746107   	SANCHEZ RODRIGUEZ DE BEJARANO ELIZABETH                     
+    398908  	10316770903   	ITO HUANCA EUSEBIO                                          
+    2616    	10325455875   	JOSE MARCELO PRADO                                          
+    268291  	10402552129   	ACEVEDO ROMERO MARINA AMALIA                                
+    239268  	10403207352   	LEYTON ASENCIO GULIANA YANET                                
+    348927  	10403499248   	BELLA VERDE FERNANDEZ                                       
+    212312  	10403706847   	CHURA CHURA LUCHO                                           
+    332373  	10403821751   	HAYDEE CASTRO QUISPE                                        
+    369053  	10404222924   	ORE TORANZO GIOVANNA ELIZABETH                              
+    226036  	10404481865   	GILMER SANCHEZ BALBIN                                       
+    369073  	10404938318   	CHIPANA CAPAQUIRA OLGA BEATRIZ                              
+    363744  	10406171901   	HUAMAN SURCO EDITH                                          
+    281052  	10406519266   	APARCANA CORDOVA MARIA                                      
+    106735  	10407187747   	RODRIGUEZ ROMERO MARIELLA DEL CARMEN                        
+    280965  	10408063367   	TUESTA TOMANGUILLA ROSA                                     
+    2483    	10408155202   	MIGUEL ANGEL CORDOVA ABAD                                   
+    191900  	10409806461   	JANETH CAROL TELLO                                          
+    344818  	10410543554   	YAMILETH NOELIA PORTILLA ANDIA                              
+    252518  	10410599738   	CALDERON CALDERON EDINSON MARTIN                            
+    320906  	10411324121   	GEANNINE SILVA ALVARADO                                     
+    369104  	10411693096   	TAQUILA NINA JUAN OCTAVIO                                   
+    267412  	10412287121   	ROXANA TICONA HUALLPA                                       
+    213353  	10412369659   	HUAMAN CJUMO WILDE                                          
+    215003  	10412380008   	PRADO DE LA CRUZ VIOLETA                                    
+    329888  	10413822071   	ALEJANDRO OTOYA GUTIERREZ                                   
+    321239  	10413827227   	BETTCY TITO MACHACA                                         
+    666540  	10414921570   	EDUARDO OLIVA VASQUEZ                                       
+    106837  	10414944286   	ZAPATA VARGAS HENRY ALEXANDER                               
+    311102  	10415232883   	FRISS FLORISA RAMIREZ TORRES                                
+    235119  	10415855198   	LOPEZ ACOSTUPA DICK                                         
+    179216  	10416811810   	ISAURA C. BRITO RODRIGUEZ                                   
+    361993  	10416924592   	YOVANA GLADIS CHAMA CALIZAYA                                
+    295436  	10419826397   	DE LA CRUZ ACEVEDO AUGUSTO                                  
+    4310    	10421427271   	ROMERO GAMARRA JULIO CESAR                                  
+    805278  	10422397618   	ALQUIZAR GUTIERREZ MARYLI LISSETTE                          
+    802440  	10425883807   	CESAR R. ANGULO HIDALGO                                     
+    347235  	10428676748   	EVELIN ROCIO GOICOCHEA CONTRERAS                            
+    263511  	10429987551   	TITO MACHACA VILMA MARTHA                                   
+    353935  	10430338167   	RENE EDGAR CHOQUE UCHARICO                                  
+    267223  	10440324407   	LICERA BASTANTE MILAGROS                                    
+    369031  	10443541034   	NUÑEZ DEL PRADO PINO CLAUDIA                                
+    359142  	10445975406   	PAULINO HIDALGO RUBEN ANGEL                                 
+    289901  	10446780340   	ALFARO PASTOR LUCY                                          
+    676685  	10463221303   	MERCEDES SALDAÑA DEIBY JUNIOR                               
+    508865  	10706188881   	DEZA ALVAREZ RAMON EDGAR ALFREDO                            
+    216764  	10800723782   	HENRY CONTRERAS TUNI                                        
+    256968  	10800961110   	TENORIO BARRA GLADYS                                        
+    397764  	10801215268   	TANIA BARRIENTOS HUILLCA                                    
+    423989  	10803304501   	HERNAN MANUEL CHAMBE FLORES                                 
+    271406  	10805571409   	CABRERA ARHUATA HUGO                                        
+    107073  	10805680992   	CAMPOS WONG IVAN DICK                                       
+    632851  	15203576908   	HUAMAN CHALCO NIVER CANDELARIO                              
+    63873   	15508124217   	MIGUEL ESCALANTE (TUR AL)                                   
+    8607    	20100002036   	KOMFORT S.A.                                                
+    38498   	20100002206   	ESTABLECIMIENTO INCA S.A.C                                  
+    38499   	20100006376   	BASF PERUANA S.A.                                           
+    1465    	20100006538   	MARCO PERUANA S.A.                                          
+    38500   	20100007429   	TRIANON S.A.C-                                              
+    70973   	20100010136   	COSMOS AGENCIA MARITIMA SAC.                                
+    232684  	20100010217   	NEPTUNIA S.A.                                               
+    1364    	20100011884   	CERTIFICACIONES DEL PERU S.A.                               
+    1337    	20100016681   	IMPORTACIONES HIRAOKA S.A.C                                 
+    107633  	20100016843   	GRUPO RPP S.A.                                              
+    76604   	20100018625   	MEDIFARMA S. A.                                             
+    38506   	20100019940   	DELCROSA S.A.                                               
+    38395   	20100024862   	A. TARRILLO BARBA S.A.C                                     
+    1469    	20100027292   	FERREYROS S.A.A.                                            
+    26133   	20100028850   	FIBRAS INDUSTRIALES SA                                      
+    2371    	20100030595   	BANCO DE LA NACION                                          
+    17571   	20100031214   	EQUIPOS MECANICOS S.A.                                      
+    4108    	20100036101   	ACEROS BOEHLER DEL PERU SA.                                 
+    22419   	20100038146   	CONTINENTAL SAC                                             
+    21068   	20100039207   	RANSA COMERCIAL S.A.                                        
+    106988  	20100040043   	LIMA TOURS S A                                              
+    2661    	20100041520   	EXIMPORT DISTRIBUIDORES DEL PERU SA                         
+    4405    	20100047722   	INDUSTRIAS VENCEDOR SA                                      
+    112799  	20100049181   	TAI LOY S.A.                                                
+    1395    	20100052050   	PERUFARMA S.A.A.                                            
+    802629  	20100054001   	M. ELECTRO S.A.                                             
+    38526   	20100055237   	ALICORP S.A.                                                
+    5822    	20100058503   	PURATOS PERU S.A.                                           
+    282333  	20100060150   	HERSIL SA                                                   
+    35861   	20100061474   	REPRESENTACIONES DECO S.A.C                                 
+    76609   	20100061717   	LABORATORIOS TRIFARMA S.A.                                  
+    38527   	20100065381   	SALCHICHERIA ALEMANA W & K S.A.                             
+    2668    	20100066867   	MSA DEL PERU S.A.C.                                         
+    5892    	20100067839   	TUBOPLAST S.A.                                              
+    75117   	20100070970   	SUPERMERCADOS PERUANOS S.A.                                 
+    145257  	20100072247   	ASOCIACION EDITORIAL BRUÑO                                  
+    1341    	20100073219   	JORVEX SA                                                   
+    2273    	20100073723   	CPPQ  S.A.                                                  
+    1296    	20100077044   	HERMES TRANSPORTES BLINDADOS S.A                            
+    4155    	20100079501   	CIA DE MINAS BUENAVENTURA S.A.A.                            
+    2287    	20100082391   	COSAPI S.A.                                                 
+    20020   	20100082714   	PRIMAX SA                                                   
+    38537   	20100083362   	COSAPI DATA S.A.                                            
+    18225   	20100084504   	CONSTRUCTORA DE ACUMULADORES PERUANA S.A.                   
+    25204   	20100084920   	BRAILLARD S.A.                                              
+    308671  	20100085063   	AJINOMOTO DEL PERU S.A.                                     
+    1290    	20100085225   	QUIMICA SUIZA S. A.                                         
+    2026    	20100086388   	ALFA LAVAL S.A.                                             
+    9450    	20100087945   	EMPRESA PERIODISTICA NACIONAL SA                            
+    1348    	20100091543   	GRUNENTHAL PERUANA S.A.                                     
+    195750  	20100094054   	SOLDEXA SA                                                  
+    3412    	20100094216   	CONSORCIO ENERGETICO DE HUANCAVELICA S.A.                   
+    600850  	20100095450   	LAIVE S.A.                                                  
+    3109    	20100095531   	G & N ROJAS S.A.                                            
+    38541   	20100099951   	UNISYS DEL PERU                                             
+    224449  	20100102090   	PHILIPS PERUANA S.A.                                        
+    101030  	20100106915   	E WONG S.A.                                                 
+    543215  	20100108616   	ADAMS S.A.                                                  
+    287288  	20100108705   	EL SA                                                       
+    3334    	20100113610   	U.C.P.  BACKUS Y JOHNSTON S.A.A                             
+    1271    	20100114349   	SGS DEL PERU SAC                                            
+    8297    	20100117526   	ENOTRIA S.A,                                                
+    38549   	20100118417   	E LAU CHUN S.A.                                             
+    38557   	20100119065   	XEROX DEL PERU S.A.                                         
+    6762    	20100119227   	3M PERU S.A.                                                
+    4053    	20100121043   	FILTROS LYS S.A..                                           
+    1664    	20100121981   	SANDOVAL S.A                                                
+    108048  	20100123763   	CETCO S.A.                                                  
+    124607  	20100128056   	SAGA FALABELLA S.A                                          
+    102889  	20100132754   	PERUANA DE PETROLEO S.R.L.                                  
+    1298    	20100133050   	DISTRIBUIDORA BOLIVARIANA S.A.                              
+    1524    	20100134617   	LABORATORIOS ROEMMERS S.A.                                  
+    1284    	20100135699   	GEOTEC S.A.                                                 
+    3061    	20100141583   	FARMEX S.A.                                                 
+    1473    	20100142989   	SHOUGANG HIERRO PERU S.A.A.                                 
+    3364    	20100145813   	SERVICIOS FRIGORIFICOS S.A.                                 
+    2247    	20100148162   	CIA. DE SEGURIDAD PROSEGUR S.A.                             
+    340249  	20100151970   	REFASA S.A.C.                                               
+    11884   	20100152941   	KIMBERLY CLARK PERU SRL                                     
+    1335    	20100153832   	GRAÑA Y MONTERO PETROLERA S.A.                              
+    1275    	20100154057   	G Y M S.A.                                                  
+    4387    	20100154138   	AUTOREX PERUANA S.A.                                        
+    1451    	20100155371   	ORUS S.A.                                                   
+    249801  	20100157315   	CORPORACION LA SIRENA SAC                                   
+    1367    	20100165504   	BEIERSDORF S.A.C.                                           
+    11454   	20100172543   	MOVITECNICA S.A.                                            
+    18796   	20100174759   	AGUNSA                                                      
+    1407    	20100175640   	INDUSTRIAS DEL CARTON S.A.                                  
+    1766    	20100179772   	GRUPO SINDICATO PESQUERO DEL PERU S.A.                      
+    3117    	20100180210   	FARMAGRO S.A.                                               
+    1293    	20100181534   	YOBEL SCM LOGISTICS S.A.                                    
+    285584  	20100181615   	CONDUCTORES ELECTRICOS PERUANOS SA                          
+    292233  	20100187494   	MANUEL MUÑOZ NAJAR SAC                                      
+    24771   	20100190797   	GLORIA S.A.                                                 
+    38563   	20100192650   	MICHEL CIA S.A.                                             
+    1387    	20100199743   	INCA TOPS S.A.                                              
+    1345    	20100204330   	LABORATORIOS PORTUGAL S.R.L.                                
+    1332    	20100211115   	FABRICA DE CHOCOLATES LA IBERICA S.A.                       
+    1333    	20100231817   	FRANKY Y RICKY S.A.                                         
+    3676    	20100232031   	ROBERTS Y CIA S.A.                                          
+    1410    	20100233356   	EMPRESA DE TRANSPORTES DEL CARPIO SCRL                      
+    142432  	20100247497   	MODEPSA S. A. C.                                            
+    3728    	20100248621   	RECOLSA S.A                                                 
+    3006    	20100257298   	ARIS INDUSTRIAL S.A.                                        
+    107711  	20100265479   	ITICSA                                                      
+    1308    	20100266874   	BUENAVENTURA INGENIEROS S.A.                                
+    54990   	20100274621   	TAI HENG SA                                                 
+    16611   	20100283370   	COMPAÑIA PERUANA DE BATERIAS SA                             
+    38572   	20100305101   	BATERIAS VOLTA S.A.                                         
+    211100  	20100310288   	PRODUCTOS INDUSTRIALES ARTI SA.                             
+    35865   	20100318262   	CONSTRUCTORA ARCO S.A.                                      
+    1456    	20100322456   	IMPORTADORA DE RODAMIENTOS S.A.C                            
+    4057    	20100331528   	DORICH & WATKIN S.A.C.                                      
+    58841   	20100333491   	PROTECCION PERSONAL SA                                      
+    38576   	20100352525   	RIVELSA S.R.L                                               
+    10507   	20100363641   	COOP DE TRAB Y FOM DEL EMPLEO STO DOMING                    
+    23029   	20100364701   	ARSAC CONTRATISTAS GENERALES SRL                            
+    1444    	20100366151   	SANTILLANA S.A                                              
+    4090    	20100370779   	GIANFARMA S.A.                                              
+    38607   	20100372551   	PERFILES METALICOS PRECOR S.A.                              
+    38609   	20100380065   	CHOICE CARGO S.A.C                                          
+    137533  	20100412366   	SAVAR AGENTES DE ADUANAS S.A.                               
+    148072  	20100412447   	UNIMAR S.A.                                                 
+    341316  	20100435731   	SERICROM S.A.C,                                             
+    4112    	20100447747   	B.M.P. INGENIEROS                                           
+    4142    	20100460255   	KOSTEC  S.R.L.                                              
+    2621    	20100478201   	CIA.DIST.NAC.DE REVISTAS S.A.C.                             
+    1457    	20100511771   	IMPORTADORA EXPORTADORA FERRETERA S.A.C                     
+    38611   	20100521149   	LIMA PLAST S.A.                                             
+    243505  	20100583250   	SOC INDUSTRIAL E COPELLO S R LTDA                           
+    1468    	20100588642   	HIDROQUIMICA INDUSTRIAL S.A                                 
+    39727   	20100639654   	CONSORCIO AGROPECUARIO AMERICANO S.A.C.                     
+    2336    	20100654025   	CORPORACION DE INDUSTRIAS PLASTICAS S.A.                    
+    38612   	20100665817   	PLASTICOS REY S.A.C                                         
+    853     	20100686814   	OLVA COURIER S.A.C.                                         
+    9439    	20100691818   	ABELIN SA                                                   
+    38619   	20100712599   	EPLI S.A.C                                                  
+    4068    	20100722128   	METALES ANDINOS S.A.                                        
+    321855  	20100764807   	MANUFACTURAS AMERICANAS S.A.C                               
+    719706  	20100853907   	PERU OFFSET EDITORES EIRL                                   
+    401492  	20100894417   	COOP DE SERVICIOS MULTIPLES KUKULI                          
+    24079   	20100901481   	J Y V RESGUARDO SAC                                         
+    2453    	20100903858   	VIPROSEG S.A.                                               
+    1767    	20100971772   	TECNOLOGICA DE ALIMENTOS S.A.                               
+    106984  	20101004881   	CARRUSEL REPRESENTACIONES S.A.C                             
+    4497    	20101008283   	PLANINVEST S.A.                                             
+    2326    	20101015492   	JORPESA                                                     
+    101300  	20101024645   	CORPORACION JOSE R. LINDLEY S.A.                            
+    1991    	20101026001   	CERAMICA LIMA S.A.                                          
+    142461  	20101030882   	VALDITEX SA                                                 
+    203178  	20101031773   	PERFUMERIAS UNIDAS S.A.                                     
+    1449    	20101054714   	PROYECTOS Y SERVICIOS EMPRESARIALES S.A.                    
+    208581  	20101057144   	PETROPOLIS SOCIEDAD ANONIMA                                 
+    1958    	20101082840   	AY P INTERNACIONAL S.A.C.                                   
+    1445    	20101128777   	DHL EXPRESS PERU S.A.C.                                     
+    27051   	20101155588   	PROSEGURIDAD S.A.                                           
+    1584    	20101158927   	TRANSBER S.A.C.                                             
+    472734  	20101190065   	INTERNA S.A                                                 
+    107632  	20101240429   	RADIO COMAS TELEVISION S.R.LTDA.                            
+    175966  	20101258638   	COOP DE SERVICIOS MULTIPLES DE LA POLICIA NACIONAL DEL PERU - VIPOL
+    553604  	20101266819   	CAMARA DE COMERCIO DE LIMA                                  
+    31951   	20101269834   	CORPORACION MEDCO S.A.C.                                    
+    421154  	20101277349   	COOP.DE SERV.MULT.TRAB.SECTOR PUB.Y PRIVADO                 
+    3345    	20101283403   	ALLPA S.A.C.                                                
+    235224  	20101292658   	TEKNOQUIMICA S.A.                                           
+    338446  	20101300341   	ALIANZA METALURGICA                                         
+    255391  	20101303285   	FAB ALIMENT DIET ESP Y AFIN FADEA SCRL                      
+    363373  	20101314724   	ROTAPEL SA                                                  
+    135082  	20101334750   	CEPCO SAC                                                   
+    222281  	20101341535   	C.P.S. DE INGENIERIA S.A.C.                                 
+    1544    	20101363008   	SCANIA DEL PERU S.A.                                        
+    1343    	20101364152   	LABORATORIOS INDUQUIMICA S.A.                               
+    1406    	20101369898   	TRITON TRADING S.A.                                         
+    4421    	20101391397   	COMERCIAL INDUSTRIAL DELTA S.A.                             
+    279832  	20101392954   	APOLO SERVICE EIRL                                          
+    1405    	20101395031   	TRABAJOS MARITIMOS S.A.                                     
+    38621   	20101414273   	INDUSTRIAL LIMA S.A.                                        
+    177904  	20101461786   	MOTOREX S.A                                                 
+    38627   	20101462081   	GRUPO LA REPUBLICA S.A.                                     
+    254359  	20101571450   	COMERCIAL ZEBOLI SRL                                        
+    106015  	20101620256   	TERMO SISTEMAS S.A.C                                        
+    2999    	20101636411   	RADIADORES FORTALEZA S.A.                                   
+    5133    	20101676120   	PRODUCTOS ENCURTIDOS S.A.                                   
+    4406    	20101759173   	DEMEM S.A.                                                  
+    129484  	20101796532   	NATURA COSMETICOS S.A.                                      
+    49674   	20101849679   	JOHESA                                                      
+    1458    	20101869947   	ALERT DEL PERU S.A.                                         
+    82981   	20101920721   	COMERCIAL MONT SAC                                          
+    1455    	20101936997   	COLEC EIRL                                                  
+    1746    	20101951872   	EMPRESAS COMERCIALES S.A.                                   
+    364715  	20101988288   	DROGUERIA ACTIVITY CENTER SAC                               
+    224646  	20102002882   	FLUIDTEK S R L                                              
+    432579  	20102027010   	AUSA ADUANAS SA                                             
+    193059  	20102032951   	A.JAIME ROJAS REPRESENTACIONES GENERALES SA                 
+    1316    	20102078781   	SAN MARTIN CONTRATISTAS GENERALES S.A.                      
+    63582   	20102193025   	ICE INGENIEROS CONSULTORES Y EJECUTORES                     
+    156565  	20102237502   	FAMEDKI S.R.L.                                              
+    4179    	20102279256   	CORMEI CONTRATISTAS GENERALES SA                            
+    101710  	20102287437   	M Y M CONSULTORES SRL                                       
+    1269    	20102295961   	TRADEL SERVICE S.R.L.                                       
+    149709  	20102399154   	CONTACT TOURS S.A.C.                                        
+    487356  	20102562322   	ELEODORO QUIROGA RAMOS S.R.L.                               
+    4473    	20102881347   	CAJA MUNICIPAL DE SULLANA S.A                               
+    129409  	20102961022   	TRANSPORTES GILBERTO LAVALLE O EIRL                         
+    108720  	20103098913   	CAMARA DE COMERCIO Y PRODUCCION DE LAMBAYEQUE               
+    2307    	20103117560   	ELECTRO NORTE S.A.                                          
+    2059    	20103342091   	SAN ROQUE S.A.                                              
+    255093  	20103560757   	COLEGIO SAN AGUSTIN                                         
+    106810  	20103647364   	COOPERATIVA DE SERV MULT CAPAC YUPANQUI                     
+    1414    	20103733015   	HONDA DEL PERU S.A.                                         
+    229128  	20103973245   	BAKER HUGHES OILFIELD OPER. INC,SUC PERU                    
+    384692  	20104985204   	UNIVERSIDAD TECNOLOGICA DE LOS ANDES                        
+    25163   	20105352477   	DRODICOME SRL                                               
+    33630   	20105528265   	GEOWELL SAICYF SUCURSAL PERUANA                             
+    3056    	20106498386   	INTERTEK TESTING SERVICES PERU S.A.                         
+    2446    	20106515906   	TOPOEQUIPOS T&T S.R.L                                       
+    6275    	20106522783   	INVERSIONES VETERINARIAS S.A.                               
+    71309   	20106782181   	EMPRESA PESQUERA EXTRACTIVA  SRL                            
+    65884   	20106832111   	G.C.A.Q. INGENIEROS CIVILES S.A.C.                          
+    116970  	20106897914   	NEXTEL DEL PERU SA                                          
+    4472    	20107099892   	C.C.R. S.A.                                                 
+    221616  	20107463705   	CLINICA SAN PABLO S.A.C.                                    
+    273384  	20107536354   	DISTRIBUIDORES TELLO MC EVOY SA                             
+    118171  	20107603485   	EL TUMI PERU S.R.L.                                         
+    63876   	20107751913   	CARSLON WAGONLIT                                            
+    227315  	20108018772   	DECORLUX SAC                                                
+    26936   	20108068281   	CAJA DE PENSIONES MILITAR POLICIAL                          
+    495439  	20108383471   	UNIVERSIDAD INCA GARCILASO DE LA VEGA                       
+    3408    	20108505096   	J.RAMON DEL PERU S.A.C.                                     
+    4365    	20108568845   	R.BERROCAL S.A.C.                                           
+    13002   	20108578212   	LASAPONARA DISTRIBUIDORA                                    
+    3069    	20108625580   	FOREVER LIVING PRODUCTS PERU SRL.                           
+    248882  	20108813742   	ASCENSORES ANDINOS INGENIEROS S.A.                          
+    63877   	20108967031   	ALOHA                                                       
+    3491    	20108983583   	DISTRIBUIDORA DROGUERIA ALFARO SAC                          
+    689496  	20109153177   	ASOCIACION PERUANA DE OPTICA Y OPTOMETRIA                   
+    1809    	20109235491   	SERVICIOS TRANSDATA SOCIEDAD ANONIMA                        
+    70814   	20109492621   	AVANTEC S.A.C.                                              
+    329884  	20109544109   	COLMENARES SAN JOSE SRL                                     
+    227042  	20109613518   	MATERIALES Y VENTAS GENERALES SA                            
+    2786    	20109968219   	CIA MINERA SAN NICOLAS S.A.                                 
+    213817  	20110082321   	CONSORCIO DE EJECUCION Y CONSULTORIA SA                     
+    1998    	20110133091   	TECNASA                                                     
+    3738    	20110191881   	CUSCO INTERNATIONAL S.R.LTDA.                               
+    44777   	20110200201   	INNOVA ANDINA S.A.                                          
+    63869   	20110206829   	VIRREYNAL TOURS                                             
+    477100  	20110231181   	EXPORTIMO SAC                                               
+    2759    	20110345519   	NEWMONT PERU SRL                                            
+    108127  	20110442638   	TRANSPORTES GLOBAL S.A                                      
+    25131   	20110513241   	IMPORTADORA EXPORTADORA DELTA SAC                           
+    402809  	20110522151   	CONSTRUTORA ANDRADE GUTIERREZ S.A. SUC. PERU                
+    510031  	20110598646   	INDUSTRIAS UNIDAS DEL PERU SA                               
+    1321    	20110768151   	UNIVERSIDAD PERUANA CAYETANO HEREDIA                        
+    266520  	20110804483   	CANDELA PERU                                                
+    159957  	20110964928   	SICCSA                                                      
+    122232  	20111023108   	CLUB DEPARTAMENTAL MOQUEGUA                                 
+    212274  	20111074608   	HEMAJEN S.R.L.                                              
+    6331    	20111165077   	CATHODIC PROTECTION OF PERU SAC                             
+    1338    	20111280097   	INOUE CARGO S.A.                                            
+    443431  	20111378909   	ROMERO TRADING SA                                           
+    240044  	20111446165   	GRADE                                                       
+    3498    	20111802131   	DON ITALO S.A.                                              
+    33572   	20111876097   	CONSULTORA Y EQUIPADORA MEDICA S.A.                         
+    1645    	20112182021   	PSV CONSTRUCTORES S.A..                                     
+    167315  	20112273922   	MAESTRO HOME CENTER S.A.                                    
+    517705  	20112949101   	FUNDACION DEL LIBRO UNIVERSITARIO-LIBUN                     
+    205652  	20113050838   	MALBOMIZ IMPORT EXPORT S.R.L.                               
+    3002    	20113612852   	PERUANA DE PERFORACION S.A.                                 
+    38725   	20113616688   	OPERACIONES MARINAS S.A.                                    
+    704650  	20114747212   	FABRICA CHOCOLATES LA CONTINENTAL SRLTDA                    
+    56565   	20114876616   	DON JOSE REPRESENTACIONES S.R.L                             
+    66117   	20115713796   	ESMYCO LA NACIONAL S.R.L.                                   
+    3781    	20115729528   	ANTONIO BIONDI E HIJOS S.A.C                                
+    53118   	20115788885   	EL PORTILLO S.R.L.                                          
+    2987    	20115866355   	TECNOSUR S.A.                                               
+    1312    	20117322751   	CIME COMERCIAL S.A.                                         
+    16006   	20117331823   	GRUPO BONNETT S.A                                           
+    132802  	20117592899   	TECSUP Nº 1                                                 
+    3390    	20117751954   	PROCESADORA S.A.C.                                          
+    252720  	20117788793   	POLLOS SERVICES EXPRESS S.R.L.                              
+    25185   	20117792634   	INSTITUTO DE INVESTIGACION NUTRICIONAL                      
+    4050    	20117891292   	CORPORACION ELECTRICA Y ELECTRONICA S.A.                    
+    2681    	20117920144   	SECURITAS S.A.C.                                            
+    497373  	20118332505   	CEGNE WALDORF LIMA                                          
+    3692    	20118986378   	AGENCIA DE ADUANA ULTRAMAR S.A                              
+    230342  	20119917698   	UNIVERSIDAD PRIVADA DE TACNA                                
+    3690    	20120046307   	ROAYA S.A.C CONTRATISTAS GENERALES                          
+    2617    	20121978025   	EMPRESA DE TRANSPORTES NACIONALES  HUMBOLT S.A.             
+    217921  	20122193692   	VIAJES ROXANA S.A.C.                                        
+    217179  	20122377238   	DISTRIBUIDORA SUMON SRL                                     
+    63875   	20122391494   	BARRANCO TOURS                                              
+    106790  	20122554466   	RADIO Z ROCK & POP SOCIEDAD ANONIMA CERRADA                 
+    367702  	20122618961   	DISTRIBUIDORA MAVI S.R.LTDA.                                
+    414804  	20122667741   	SAK S.A                                                     
+    331015  	20123110367   	DISTRIBUIDORA EKAMA SA                                      
+    26815   	20123222751   	GEN PLAST SA                                                
+    331321  	20123468679   	CONTOMETROS ESPECIALES S.A.C                                
+    44276   	20123485506   	PROMOT.DE INTGR.Y DE TURIS.EDUC.JUVENIL                     
+    4474    	20123723539   	MIEL DE ABEJAS Y DERIVADOS EIRL                             
+    1604    	20123751664   	PROVERSAL SRL                                               
+    158722  	20123816898   	HIDRAUTOM EIRL                                              
+    9203    	20123848234   	MONTAJES BERROSPI S.A.                                      
+    106850  	20123929404   	COOP.DE AHORRO Y CREDITO EL SOL LTDA                        
+    1470    	20124227764   	ZETA BOOKSTORE S.R.L.                                       
+    2658    	20124317755   	TREXSA E.I.R.L.                                             
+    704723  	20124395390   	CEGNE DANIEL ALCIDES CARRION                                
+    1401    	20124704368   	T.G.I. S.A.                                                 
+    2073    	20125684441   	T-COPIA S.A.C.                                              
+    252368  	20125791019   	CONFECCIONES YAT S.R LTDA                                   
+    108069  	20126225386   	EL RAYO SERVICIO DE MENSAJERIA SAC                          
+    63888   	20126339632   	COSTAMAR TRAVEL CRUISE & TOURS S.A.C.                       
+    106816  	20126349948   	INDUSTRIAS PECUARIAS S.A                                    
+    138600  	20127580066   	HI-TECH REGRIGERACION SA                                    
+    367672  	20127664243   	DL LIMPIEZA ENVASADORA SCRL                                 
+    153772  	20127671703   	FORO EDUCATIVO                                              
+    75820   	20127705969   	BEAGLE AGENTES DE ADUANAS S.A.                              
+    558438  	20130081674   	HOLIDAY SUITES SA                                           
+    316126  	20130462473   	CLUB SUDAMERICANO DE EXPLORADORES                           
+    5995    	20131257750   	SEGURO SOCIAL DE SALUD ESSALUD                              
+    347818  	20131263130   	INSTITUTO NACIONAL SALUD                                    
+    69371   	20131354950   	JAVI S.A                                                    
+    2399    	20131370301   	MINISTERIO PUBLICO                                          
+    28607   	20131370998   	MINISTERIO DE EDUCACION                                     
+    245261  	20131371617   	MINISTERIO DE JUSTICIA                                      
+    34753   	20131372931   	MINISTERIO DE AGRICULTURA                                   
+    581318  	20131377224   	MUNICIPALIDAD DE MIRAFLORES                                 
+    9209    	20131529008   	SEKUR PERU S.A.                                             
+    41041   	20131694548   	E & R SA CONTRATISTAS GENERALES                             
+    198855  	20132058335   	CHACON TOURS S.A.C.                                         
+    191974  	20132060666   	GUILLERMO WONG JOO E.I.R.L.                                 
+    52293   	20132243230   	CAJA MUNICIPAL DE AHORRO Y CREDITO DE TRUJILLO SA           
+    56715   	20132373958   	CHIMU AGROPECUARIA S.A.                                     
+    180048  	20132377783   	EMPRESA AGROINDUSTRIAL LAREDO S.A.A.                        
+    38726   	20132381624   	YUGOCORP S.A.C                                              
+    570130  	20132509795   	COOPERATIVA AGRARIA CAFETALERA JOSE OLAYA LTDA              
+    570129  	20132526703   	COOPERATIVA AGRARIA CAFETALERA SANTA ANA                    
+    1464    	20132627216   	LA FRAGATA S.A.                                             
+    135275  	20132644650   	ROSILLO TOUR S.A.C                                          
+    1959    	20132689084   	COMERCIAL ROAL S.C.R.L.                                     
+    3925    	20132697427   	COLEGIO STA MARIA DE LA FRONTERA                            
+    187780  	20132707597   	FANTASIA S.A.C                                              
+    2268    	20132712086   	CORPORACION REFRIGERADOS INYSA                              
+    3394    	20134690080   	FAMAI SEAL JET S.A.C.                                       
+    179385  	20134923874   	LIBRERIA PERUANO BRITANICA SRL                              
+    76601   	20135222438   	SETAKE SAC                                                  
+    227155  	20135627845   	HECTOR GONZALES SANDI AG.AF.DE ADUANAS S.A.                 
+    184297  	20135897044   	INSTITUTO PERUANO DEL DEPORTE                               
+    4734    	20136009614   	EMPRESA AGROINDUSTRIAL TUMAN SAA                            
+    1268    	20136165667   	PESQUERA HAYDUK S.A                                         
+    353347  	20136251407   	EMPRESA MUNICIPAL INMOBILIARIA SAC                          
+    107621  	20136270614   	STAR GLOBAL COM S.A                                         
+    30278   	20136424867   	DERRAMA MAGISTERIAL                                         
+    2678    	20136663268   	OLIMPEX S.A.C                                               
+    71335   	20136704045   	ISOPETROL S.A.                                              
+    1976    	20136720911   	PESQUERA VIRGEN DEL VALLE S.A.C.                            
+    276239  	20136833368   	GEOCONSULT S.A.                                             
+    77356   	20136836545   	ARDILES IMPORT S.A.C                                        
+    1400    	20136974697   	SUPEMSA                                                     
+    1280    	20137021014   	ALCATEL DEL PERU S.A.                                       
+    234198  	20137254205   	INSTITUTO PERUANO DE ACCION EMPRESARIAL                     
+    2671    	20137291313   	MINERA YANACOCHA SRL                                        
+    689473  	20137455952   	ASOCIACION IGLESIA BIBLICA EMMANUEL                         
+    244830  	20138073379   	CTRO EDUC INIC PRIM NO ESTAT LUZ DIVINA                     
+    4134    	20138149022   	UNIVERSIDAD DE SAN MARTIN DE PORRES                         
+    689443  	2013870594    	UNIVERSIDAD NACIONAL DEL CALLAO                             
+    236468  	20138705944   	UNIVERSIDAD NACIONAL DEL CALLAO                             
+    240674  	20140441083   	TIRESOL S.A.C.                                              
+    2723    	20140762041   	DERI-PETROL S.A.C                                           
+    3747    	20140764419   	SERGEMARE S.R.L.                                            
+    106993  	20141226992   	FEDERACION DEPORTIVA PERUANA DE TENIS                       
+    101227  	20141718780   	AGROINDUSTRIAS SUPE S.AC.                                   
+    104227  	20142586712   	B.H. I. O. DEL PERU S.A                                     
+    34751   	20142920558   	IMECON S.A.                                                 
+    4139    	20143229816   	EMPRESA EDITORA EL COMERCIO S.A.                            
+    2323    	20143920764   	FEJUCY SAC                                                  
+    1504    	20144364059   	FUERZA AEREA DEL PERU-ESOFA                                 
+    54975   	20144538570   	LAS ASAMBLEAS DE DIOS DEL PERU                              
+    587972  	20144812906   	SOCIEDAD PERUANA DE PROTESIS DENTAL Y MAXILOFACIAL          
+    108031  	20144895411   	COOPERATIVA DE AHORRO Y CRED.ELECTRO COO                    
+    223085  	20145558892   	CENTRO EDUC DE GEST NO ESTATAL GELICICH                     
+    28636   	20145915164   	ASPERSUD                                                    
+    482047  	20146751327   	CEP NUESTRA SEÑORA DE LOURDES                               
+    217883  	20146849050   	QOSQO MISTICO S.R.LTDA.                                     
+    155567  	20147170212   	COLEGIO DE INGENIEROS DEL PERU C.D.L.L.                     
+    6729    	20147736739   	COLEGIO DE PSICOLOGOS DEL PERU                              
+    106808  	20147977698   	COOP.DE SERVICIOS MULTIPLES MIGUEL                          
+    28605   	20148092959   	EJERCITO DE SALVACION                                       
+    6563    	20148313041   	ALDEAS INFANTILES SOS PERU ASOC NAC                         
+    3071    	20153014907   	CONTRUCCIONES MODERNAS WP SRL.                              
+    1283    	20153275450   	GENFAR PERU S.A.                                            
+    189928  	20153354082   	ENTER S.A.C.                                                
+    730644  	20153363154   	CERCIL                                                      
+    1466    	20153408191   	MARINA DE GUERRA DEL PERU                                   
+    217926  	20153557943   	ASOCIACION IGLESIA EVANGELICA PRESBITERIANA DEL PE          
+    107814  	20154489895   	MUNICIPALIDAD PROVINCIAL DE AREQUIPA                        
+    1627    	20155611147   	CMTE.ADM.FDO.ASIST.Y ESTIM.TRAB.SECT.EDU                    
+    1459    	20155695901   	SISTEMAS ANALITICOS S.R.L.                                  
+    1273    	20157036794   	AFP INTEGRA                                                 
+    2302    	20159473148   	PESQUERA DIAMANTE S.A.                                      
+    32079   	20159981216   	PODER JUDICIAL                                              
+    2298    	20160286068   	NISSAN MAQUINARIAS S.A.                                     
+    530324  	20160600382   	CLUB ALIANZA LIMA                                           
+    1288    	20160641810   	LABORATORIOS BAGO DEL PERU S.A.                             
+    458537  	20160696631   	COLEGIO SS. CC. RECOLETA                                    
+    26915   	20161749126   	CONGRESO DE LA REPUBLICA                                    
+    175968  	20163646499   	UNIVERSIDAD NACIONAL DE SAN AGUSTIN                         
+    679030  	20164370349   	MUNICIPALIDAD DISTRITAL DE CHINCHERO                        
+    3823    	20165503458   	CONFECCIONES Y PUBLICIDAD FERRITEX S.R.L.                   
+    1365    	20165544995   	TABLEROS PERUANOS  S.A.                                     
+    2032    	20165555253   	PERUSAT                                                     
+    106844  	20165925794   	CONCEJO DISTRITAL DE SALITRAL                               
+    115818  	20166012687   	ODEBRECHT PERU ING. Y CONSTRUCCION SAC                      
+    192055  	20167884491   	PROSAC S.A.                                                 
+    35081   	20169004359   	UNIVERSIDAD NACIONAL DE INGENIERIA UNI                      
+    75395   	20170040938   	DANPER TRUJILLO S.A.C                                       
+    296458  	20170072465   	SOCIEDAD MINERA CERRO VERDE S.A.A.                          
+    243465  	20170262833   	CEGNE NINO JESUS                                            
+    458584  	20170717261   	RUMI IMPORT SA                                              
+    64127   	20172557628   	UNIVERSIDAD  NACIONAL  DE  TRUJILLO                         
+    3727    	20172980466   	CENTRO DIESEL DEL PERU S.A.                                 
+    484414  	20173014971   	ARGENPER S.A                                                
+    52192   	20174399957   	CONSTRUCTORA RIVERA FEIJOO SAC                              
+    3686    	20174829803   	MARTINS SERVICES REP.S.R.L.                                 
+    244833  	20174950971   	UNIV.NAC.DE EDUC. ENRIQUE GUZMAN Y VALLE                    
+    368407  	20175031627   	CLUB UNIERSITARIO DE DEPORTES                               
+    500641  	20175459902   	SEMINARIUM PERU SA                                          
+    106831  	20177815374   	CAMARA DE COMERCIO E INDUSTRIAS DE TALARA                   
+    489311  	20179252962   	C.E INCA GARCILASO DE LA VEGA                               
+    2697    	20179299411   	IBA INTERNAT.BUSSINESS ASOC.SRL.                            
+    84557   	20180966332   	COLEGIO DE ABOGADOS DE LAMBAYEQUE                           
+    112422  	20180992252   	CONFECCIONES Y ESTAMPADOS ALFA & OMEGA EIRL.                
+    806827  	20181508168   	EMUFEC                                                      
+    159574  	20183379080   	INSTITUTO HIJAS DE MARIA INMACULADA                         
+    3734    	20183618092   	SENSORMATIC DEL PERU S.A.                                   
+    275290  	20188026606   	CARITAS DIOCESANA CHUQUIBAMBILLA GRAU AP                    
+    1889    	20189145811   	INTERLACE SERVICE S.R.L.                                    
+    350829  	20189279699   	SERRY SRL                                                   
+    696974  	20189562765   	CEGNE MARIA DE MAEZTU                                       
+    518149  	20189705035   	SEMAGEIN SAC                                                
+    38745   	20191094531   	PERUKO S.A.                                                 
+    27289   	20191503482   	SILVESTRE PERU S.A.C.                                       
+    93171   	20192779333   	COMPAÑIA MINERA ARES SAC                                    
+    107816  	20193107959   	ASOCIACION MUTUALISTA DE TRANSPORTES Y COMUNICACIO          
+    404900  	20196720007   	IBERPERU S.A                                                
+    2433    	20197705249   	UNILENE SAC                                                 
+    106871  	20199179595   	RADIO DIFUSORA EL PORVENIR E.I.R.LTDA.                      
+    699271  	20201609772   	INCA S CONNECTION AG VIAJES TURISMO EIRL                    
+    690687  	20201689946   	UNIVERS. CENTROS EDUCAT. Y CULT.                            
+    2271    	20203058781   	SAVIA PERU S.A                                              
+    3393    	20204157546   	PESQUERA ASTURIAS S.A                                       
+    275109  	20204441007   	JOHNSON & JOHNSON DEL PERU S A                              
+    798284  	20204621242   	TALMA SERVICIOS AEROPORTUARIOS S.A.                         
+    38746   	20206432692   	LATINOAMERICANA EIRL                                        
+    570312  	20207167623   	MINERA ANACONDA PERU SA                                     
+    329180  	20207178315   	JTS CONTRATISTAS GENERALES S.R.L.                           
+    12539   	20207190285   	MATHIESEN PERU SAC                                          
+    495356  	20207190951   	CEGNE CORAZON DE MARIA                                      
+    108140  	20207770796   	ORIFLAME PERU SA                                            
+    433106  	20207845044   	FRUTOS Y ESPECIAS SAC                                       
+    328367  	20207931471   	GROVE PERU SAC                                              
+    679727  	20208101146   	AUSA OPERACIONES LOGISTICAS S.A.                            
+    1274    	20208388925   	GRAMECO S.A.C                                               
+    89798   	20209239541   	UNIVERSIDAD PARTICULAR  DE CHICLAYO                         
+    691025  	20209311675   	CLUB SOCIAL, DEPORTIVO Y CULTURAL LATINO AMISA              
+    250112  	20211040352   	QUIMICOS GOICOCHEA SAC                                      
+    4229    	20212561534   	ALCON PHARMACEUTICAL DEL PERU S.A.                          
+    60641   	20212574199   	DISTRIBUIDORA SUYO E.I.R.L                                  
+    341120  	20212964817   	BYR PACIFIC TRADING SRL                                     
+    401482  	20215232086   	CASA DE CONVIVENCIAS JUAN PABLO II                          
+    233556  	20215528791   	DECOR CENTER S.A                                            
+    59305   	20215636411   	HELICOPTEROS DEL CUSCO SA                                   
+    338829  	20216072155   	OSIPTEL                                                     
+    2276    	20217265674   	VALVULAS INDUSTRIALES S.A.                                  
+    26122   	20220964869   	ALS  PERU S.A.                                              
+    107798  	20220964940   	ILLARY TOUR Y EXCURSIONES E.I.R.LTDA.                       
+    1810    	20220965750   	INDUSTRIA PLASTICA GIANNINI S.A.C                           
+    163647  	20221084684   	REDONDOS S.A.                                               
+    634064  	20224131128   	CLUB DEPORTIVO ATLETICO TORINO                              
+    2296    	20224748711   	CORPORACION PESQUERA INCA SAC                               
+    1994    	20226013939   	ZARPE DEL PERU S.A.C                                        
+    223330  	20226069721   	ASOCIASION CIVIL EDUCATIVA ANMACI                           
+    107636  	20227496682   	SKY VIAJES Y TURISMO AREQUIPA EIRL                          
+    464703  	20228441211   	CITRICOS DEL CHIRA SAC                                      
+    198874  	20231819836   	AMA TOURS AGEN DE VIAJES Y TURISMO SRL                      
+    21076   	20250122323   	APLIC.DE ING. Y CONST S.A.C.APICSA S.A.C                    
+    302029  	20250183977   	SERPEL PERU S.A.                                            
+    1339    	20251000264   	INTERNACIONAL LATINOAMERICANA D SERV S.A                    
+    3045    	20251637025   	DESERT SPORT RACING S.A.C.                                  
+    308669  	20251715191   	CORREO PRIVADO SAC                                          
+    1342    	20251749095   	KNIGHT PIESOLD CONSULTORES S.A.                             
+    44692   	20251995967   	PERUANA DE MOLDEADOS S.A                                    
+    2637    	20252497472   	EDITORIAL IBEROAMERICANA  S.R.LTDA                          
+    280961  	20252849417   	BOCADITOS EIRL                                              
+    270952  	20253154480   	DELGADO CULTRERA SRL                                        
+    244815  	20253401673   	SOC. MUTUAL. MILITAR POLICIAL DEL PERU                      
+    514628  	20253739011   	A ESPIRITUAL NAC DE LOS BAHAIS DEL PERU                     
+    137254  	20254014843   	PROMOCIONES DIEZ VEINTE Y UNO S.R.L.                        
+    1997    	20254305066   	SIKA PERU S.A.                                              
+    243510  	20254687082   	DIVAN S.A.C.                                                
+    556566  	20254813720   	CHAVIN DE HUANTAR EIRL.                                     
+    1325    	20255322363   	CORPORACION MISKI S.A.                                      
+    368921  	20255361695   	LABORATORIOS AMERICANOS S.A.                                
+    2351    	20255718607   	EL LIBERTADOR S.R.L.                                        
+    38240   	20255993225   	BANCO DEL TRABAJO                                           
+    1297    	20256136865   	SERVICIOS POSTALES DEL PERU S.A.                            
+    681685  	20256528607   	AGENCIA DE ADUANA SANTA ISABEL S.A.C.                       
+    2657    	20256581087   	ISLA BELLA S.A.C.                                           
+    2669    	20257094465   	AGENCIA DE ADUANA MACROMAR S.A.                             
+    4940    	20257364608   	BOART LONGYEAR SAC                                          
+    150588  	20257615619   	SEVEIM E.I.R.L.                                             
+    31423   	20258007370   	DIPROXER E.I.R.L.                                           
+    433963  	20258429011   	HOFFTRADEL S.A                                              
+    1289    	20259033072   	PERUANA DE COMBUSTIBLES S.A.                                
+    38301   	20259496412   	GRUPO LEAFAR S.A.C.                                         
+    4184    	20259659907   	PROCABLES  S.A.                                             
+    8560    	20260047567   	WALSH PERU S.A.                                             
+    3723    	20260995449   	INVERSIONES PERU PACIFICO SA                                
+    91558   	20261180937   	BRITISH AMERICAN TOBACCO DEL PERU SAC                       
+    1398    	20261239923   	SEDISA S.A.C.                                               
+    474395  	20262412190   	MOULD MADE S.A                                              
+    1282    	20262786511   	DROKASA PERU S.A.                                           
+    165101  	20262996329   	FARMINDUSTRIA SA                                            
+    77862   	20263322496   	NESTLE PERU S.A.                                            
+    111547  	20263770642   	PSV PETTY E.I.R.L.                                          
+    221624  	20263981856   	CEGNE DAVID WILKERSON                                       
+    684307  	20264169900   	CEGNE CHRISTIAN BARNARD DE VILLA                            
+    218941  	20264197784   	LEXUS EDITORES S.A.C.                                       
+    38314   	20264617741   	SMITH INTERNATIONAL  INC SUC DEL PERU                       
+    592349  	20264695385   	TELMEX PERU S.A                                             
+    320067  	20265195602   	ALGAS MARINAS SRL                                           
+    232471  	20265376739   	D-TECH INGENIEROS S.A.C.                                    
+    5453    	20265633561   	TALLERES HIDRAULICOS S.A.C.                                 
+    577059  	20265733515   	ACEROS Y TECHOS S.A.                                        
+    3501    	20266024836   	ENLACE CORREO S.A.                                          
+    520525  	20266128534   	EMPRESA DE TRANSPORTES CENTRAL SA                           
+    3156    	20266614803   	DIVERSEY PERU SAC                                           
+    63013   	20267163228   	TECH DATA PERU S.A.C                                        
+    2672    	20267196746   	WONG Y CIA S.A.                                             
+    24490   	20267436721   	ELERCO COMERCIAL OLIVOS SRL                                 
+    321323  	20267721689   	PESQUERA KIMI E.I.R.L.                                      
+    377989  	20268589091   	COMPAÑIA AGROINDUSTRIAL PUNTA DEL SUR S.R.L.                
+    4094    	20268784625   	PROCAMPO S.A.                                               
+    2648    	20269074541   	COTECNO SRL                                                 
+    3344    	20269085666   	CIMM PERU S.A                                               
+    108046  	20269216272   	AMERITEC PERU S.R.LTDA                                      
+    34127   	20269361108   	SVC INGENIERIA Y CONSTRUCCION SA                            
+    12145   	20269493519   	ENVIRONMENTAL LABORATORIES PERU S.A.C.                      
+    155329  	20269764211   	ICC PERU S.A.C.                                             
+    107706  	20272990086   	COLONIAL TOURS SRL                                          
+    1409    	20273841700   	ROMELIZA S.A.C,                                             
+    376810  	20278966004   	PESQUERA CENTINELA S.A.C                                    
+    32849   	20285939535   	TECNOLOGIA Y QUIMICA SA                                     
+    4556    	20287783923   	EMPACADORA NAUTILIUS S.A.C.                                 
+    296024  	20288878685   	CORPORACION MINERA SAN SEBASTIAN S.A.                       
+    181428  	20290171157   	C & M COMMAIN S.A.                                          
+    36036   	20290314799   	OMNILIFE PERU S.A.C                                         
+    4153    	20290409668   	ECOLAB S.R.L.                                               
+    1452    	20290961123   	TRANSFORMACIONES METALURGICAS ANDINAS S.R.L.                
+    3191    	20292571837   	ALLOK S.A. TL. 2222620                                      
+    498803  	20292632640   	JG CISTEM SA                                                
+    106695  	20292783265   	SOCIEDAD CIENTIFICA DE SAN FERNANDO                         
+    1963    	20293331066   	PRECISION PERU S.A.                                         
+    152934  	20293440604   	PEOPLE SERVICE S.A.                                         
+    1411    	20293503967   	QUALITY PRODUCTS S.A.                                       
+    4311    	20293655716   	FOTO PANAMERICANA DE PERU LTDA.S.A.C.                       
+    108038  	20293728535   	INFORMATING SYSTEMS COMPUTERS SRLTDA                        
+    3133    	20293755770   	SAKANA DEL PERU S.A.                                        
+    376075  	20293847038   	TEXTILES CAMONES S.A.                                       
+    27260   	20294349309   	UNIFORM SAC                                                 
+    278758  	20294921312   	SIGT S.A.                                                   
+    257457  	20295085691   	BOSS STABIL SERVICE EIRL                                    
+    684583  	20295346591   	EDITORIAL COVENAS SAC                                       
+    108066  	20296189333   	NATURE'S SUNSHINE PRODUCTS DEL PERU S.A                     
+    38594   	20296453707   	INTER WELDING S.A.                                          
+    251145  	20296897338   	MICHELLE BELAU SAC                                          
+    685952  	20297631862   	CONS D ONG'S PROM D LA MUJER Y D LA COM - PROMUG            
+    411649  	20297995554   	SOL INDUSTRIA SRL                                           
+    2182    	20299360483   	CYGSA S.R.L.                                                
+    4467    	20300166611   	METALES INGENIERIA Y CONSTRUCCION S.A.C.                    
+    326214  	20301405082   	EFICIENCIA LABORAL SA                                       
+    192385  	20301494590   	PISOPAK PERU SAC                                            
+    439639  	20301552115   	AMERIKA PROMASER SRL                                        
+    2673    	20301821388   	TUBISA S.A.C                                                
+    278898  	20301954345   	LIGHT LINE S.A.C.                                           
+    24077   	20301956470   	LEON Y RUSSO INGENIEROS SAC                                 
+    2675    	20302083666   	INSPECTRA S.A.                                              
+    1272    	20302241598   	KOMATSU - MITSUI MAQUINARIAS PERU S.A                       
+    17307   	20302507610   	INGENERIA DE TRAFICO CONTRATISTAS SRL.                      
+    104274  	20302629219   	BOTICA TORRES DE LIMATAMBO S.A.C.                           
+    2625    	20303063766   	UNIVERSIDAD ALAS PERUANAS SA.                               
+    2712    	20303115405   	INVERSIONES DINAMICAS M&W S.A.                              
+    1399    	20303180720   	SIEMENS S.A.C.                                              
+    243397  	20303431234   	DIREMASA EIRL                                               
+    1454    	20304312271   	EXPLORACIONES MILENIO S.A.                                  
+    2645    	20305146618   	CONSTRUCTORES INTERAMERICANOS S.A.C.                        
+    228592  	20305541240   	TERMOREP S.A.                                               
+    3137    	20305948277   	APIMAS SAC                                                  
+    33715   	20307146798   	CERAMICA SAN LORENZO S.A.C.                                 
+    3040    	20307150981   	TECNOLOGIA QUIMICA Y COMERCIO S.A.                          
+    203783  	20307235545   	EDICIONES COREFO S.A.C.                                     
+    110185  	20307328471   	DHL DANZAS AIR                                              
+    340252  	20307697832   	ASOCIACION ISLAMICA DEL PERU                                
+    302258  	20307847745   	KIEL INTERNATIONAL SAC                                      
+    3637    	20307944198   	ALAS PERUANAS S.A.                                          
+    107631  	20311687086   	WASI TOUR S.C.R.LTDA.                                       
+    2357    	20313463631   	ANDINA DE SALUD S.A                                         
+    117506  	20316998438   	K&C SERVICES S.A.C.                                         
+    155402  	20321585443   	CABLE CLUB SCRL                                             
+    2303    	20324235401   	CONGELADOS PACIFICO S.A.C.                                  
+    383472  	20327152905   	DISTRIBUCIONES JO HY SRL                                    
+    1402    	20328845980   	TECNO TRADING .S.A.                                         
+    1291    	20330444372   	BSH ELECTRODOMESTICOS S.A.C.                                
+    1270    	20330822661   	HENKEL PERUANA S.A.                                         
+    154865  	20330978326   	CONSORCIO MECANICO COMERCIAL S.A.C.                         
+    1266    	20331066703   	ECKERD PERU S.A.                                            
+    176631  	20331430448   	MEDI-DIAGNOSIS SA                                           
+    91008   	20331955249   	LEVAPAN DEL PERU SAC                                        
+    4536    	20332165217   	LABORATORIOS KAITA DEL PERU S.A.C.                          
+    2740    	20333020531   	EIGER                                                       
+    22712   	20333363900   	ENERSUR S.A.                                                
+    192038  	20334539149   	ORIENT EXPRESS PERU S.A.                                    
+    692779  	20334788441   	ASOCIACION EDUCATIVA OXFORD                                 
+    195189  	20335315759   	PLUS COSMETICA SA                                           
+    208412  	20335396147   	PUL.L CREATIVO SRLTDA.                                      
+    63870   	20335643926   	CALYPSO REPS                                                
+    1331    	20336286922   	EATHISA PERU SA                                             
+    1967    	20336951527   	MINISTERIO DE LA MUJER Y DESARROLLO SOCIAL                  
+    156222  	20337096175   	ZERMAT PERU S.A.                                            
+    52428   	20337564373   	TIENDAS POR DEPARTAMENTO RIPLEY S.A.                        
+    2634    	20338054115   	AUSTRAL GROUP S.A.A.                                        
+    344700  	20338996706   	TEXTIL ANAHUI SAC                                           
+    213435  	20340155115   	VENTURA HERMANOS SRL                                        
+    345542  	20340530064   	LABORATORIO HOFARM S.A. C.                                  
+    38380   	20341283249   	BAVARIA INTERNACIONAL S.R.L                                 
+    427478  	20341841357   	LAN PERU S.A.                                               
+    85718   	20342046836   	EMPRESA TECNOLOGIA ELECTROMEDICA SAC                        
+    1989    	20342103571   	DAVISCO S. A.                                               
+    299240  	20342315837   	GEPROIN SAC                                                 
+    3362    	20342855602   	ISLA DE ONS S.A.C.                                          
+    4093    	20343148888   	E.C.J.TECHNOLOGY S.A.                                       
+    466211  	20344506842   	OVO PRODUCTOS DEL SUR S.A                                   
+    1461    	20344877158   	SOCIEDAD UNIFICADA AUTOMOTRIZ DEL PERU S.A.                 
+    260408  	20345128922   	CORPORA TRES MONTES PERU SAC                                
+    36337   	20345446894   	PIGA S.A.                                                   
+    357005  	20346761602   	QUIMICA TEXTIL Y AGREGADOS SRLTDA                           
+    177403  	20346949318   	DMS PERU SAC                                                
+    103594  	20347258611   	CORPORACION GRAFICA NAVARRETE S.A.                          
+    692780  	20348054407   	CONGREGACION DE LAS HERMANAS MISIONERAS EUCARISTIC          
+    2278    	20348511824   	SAMITEX S.A. TLF, 442 5280                                  
+    234651  	20348535685   	MINERA GOLD FIELDS PERU SA                                  
+    280237  	20348735692   	PANIFICADORA BIMBO DEL PERU SA                              
+    1389    	20348792653   	JAP SERVICIOS GENERALES S.A.                                
+    1453    	20348817401   	CIA MINERA ORO CANDENTE S.A.                                
+    277196  	20349961050   	CAPEGA ING. CONTATES S.A.                                   
+    106794  	20352957390   	RADIO TV REAL E.I.R.L.                                      
+    315496  	20357021058   	ASOC. PRODUCT.DE MANGO DEL VALLE ALTO PI                    
+    1978    	20357259976   	SKANSKA DEL PERU S.A.                                       
+    680249  	20358460004   	AGENCIA DE VIAJES Y TURISMO CARMEN EIRL                     
+    112558  	20358856684   	ACUARIUS OPTICAL SAC                                        
+    276751  	20361092202   	PESQUERA HAMER SA                                           
+    4646    	20364089792   	EDU DISTRIBUCIONES EIRL LTDA.                               
+    255064  	20366873555   	ASOCIACION REGIONAL DE CESANTES Y JUBILADOS DE EDU          
+    117571  	20368358691   	EDPYME CREDITOS DE ALCANCE REG.TACNA S.A                    
+    247114  	20369532848   	IMPORTACIONES BLACK Y WHITE S.R.L.                          
+    1412    	20370146994   	CORPORACION ACEROS AREQUIPA S.A                             
+    159582  	20370646709   	ZAA CONTRATISTAS Y SERVICIOS GENERALES                      
+    337964  	20370816710   	FARMACEUTICA DEL SUR SRL                                    
+    328151  	20370859877   	GERENCIA REGIONAL DE TRANSPORTES Y COMUNICACIONES           
+    1413    	20372919869   	CSI PERU LOGISTICA S.A.C                                    
+    2000    	20374343964   	CORPORACION WAMA S.A.C.                                     
+    4488    	20375114985   	POLINOMIO S.R.L.                                            
+    108129  	20375755344   	LG ELECTRONICS PERU S.A.                                    
+    320509  	20376365680   	SHERFARMA SAC                                               
+    1467    	20377668444   	GRUPO MASTERCOM S.A.C.                                      
+    3029    	20377761902   	ITALMECAN S.A.                                              
+    284246  	20378198241   	PROBAS                                                      
+    518262  	20378361410   	GAMAPLAST SAC                                               
+    11020   	20378890161   	RASH PERU S.A.C.                                            
+    1334    	20379163581   	GOOD FOODS S.A.                                             
+    360936  	20379401601   	ASOCIACION DE GUIAS OFICIALES DE TURISMO                    
+    21761   	20379430377   	TRANSPORTES CORPORATIVOS S.A                                
+    293025  	20379739041   	SERVICIOS INDUSTRIALES TIVARSA SRL                          
+    38392   	20380734941   	GUT TRADING S.A.                                            
+    2677    	20380795907   	PROGRAMA DE EDUCACION BASICA PARA TODOS                     
+    38396   	20381396909   	INVERSIONES COMINDUSTRIA S.A.                               
+    38399   	20381405231   	LOGISTICA EJECUTIVA S.A.                                    
+    1424    	20382042116   	NATIONAL OILWELL VARCO PERU S.A.                            
+    324110  	20382170114   	CECI FARMA IMPORT SRL                                       
+    1319    	20382631294   	CONSORCIO TERMINALES                                        
+    4237    	20383380643   	ELEKTRA DEL PERU SA                                         
+    601612  	20383773378   	SONDA DEL PERU S.A.                                         
+    16695   	20384727558   	JAB MANTENIMIENTOS GRLES. SAC                               
+    35871   	20384891943   	BOTICAS Y SALUD S.A.C                                       
+    192167  	20385246821   	APAN Y CIA S.R.L.                                           
+    3695    	20385739771   	INSPECTORATE SERVICES PERU SAC                              
+    3809    	203859588065  	EMPRESA DE TRANSPORTES DON MANUEL SAC                       
+    1346    	20387377167   	MACRO POST S.A.C.                                           
+    160329  	20388068664   	PRODE INSTAL S.A.C.                                         
+    106747  	20389161811   	RADIO UNO S.A.C.                                            
+    2264    	20389173666   	CORPORACION MARA S.A.                                       
+    3578    	20389230724   	SODIMAC PERU S.A.                                           
+    1403    	20390132400   	TERBOL PERU S.A.C.                                          
+    4013    	20390258331   	LOGICORP SA                                                 
+    16804   	20390605235   	PHONIX WORLD SAC                                            
+    153041  	20390670649   	MINERA PANORO PERU SAC                                      
+    5238    	20390680016   	AIS PERU S.A.                                               
+    3796    	20390899123   	AH INSPECTWELD NDT E.I.R.L.                                 
+    4644    	20391622371   	WERNHER VON BRAUN IEP SRL                                   
+    328114  	20391643882   	GELCE INTERNATIONAL S.A.                                    
+    3417    	20392064550   	CORPORACION ROOTS S.A.                                      
+    160611  	20394862704   	ALTOMAYO PERU SAC                                           
+    83457   	20395492129   	UNIVERSIDAD CATOLICA SANTO TORIBIO DE MOGROVEJO             
+    20663   	20395820312   	JPM Y COMPAÑIA S.A.C                                        
+    720939  	20395820584   	GANADO ESTABULADO SEMBRIOS AGRICOLA SAC                     
+    136408  	20397249442   	CONSORC.TURIST. DEL NORTE TRUJILLO EIRL.                    
+    106892  	20397940986   	IMAGEN 2000 S.R.LTDA                                        
+    106745  	20398884591   	SERV. E INVERSIONES GNRALES DENNYS EIRL                     
+    99969   	20400046027   	INVERSIONES GASTRONOMICAS S.A.C                             
+    482046  	20404720296   	PERU S.R.L.                                                 
+    712082  	20406377025   	IMPORTACIONES ALTIPLANO DEL PERU EIRL                       
+    629827  	20409246398   	EMP DE ESPECT Y SERVICIOS GENERALES GEMINIS SRL             
+    297277  	20412344155   	INDUSTRIAS Y SERVICIOS SRL                                  
+    106852  	20413864799   	MARAVILLAS PERUANAS TRAVELS E.I.R.L.                        
+    38406   	20413914303   	JASABUS TRADING S.A.C                                       
+    144176  	20414664645   	G Y F  CON METAL SA                                         
+    108047  	20414679162   	FARMAVAL PERU S.A                                           
+    4120    	20414766308   	SODEXO PERU S.A.C.                                          
+    2798    	20414948163   	CKS S.A.C.                                                  
+    38408   	20414955020   	RIMAC INTERNACIONAL EPS                                     
+    689489  	20415932376   	COCA-COLA SERVICIOS DE PERU S.A                             
+    76033   	20416027758   	MEGA ESTRUCTURAS S.A.                                       
+    108052  	20416274411   	IDEART PERU S.A.C                                           
+    411776  	20416915491   	PERSONAL PRODUCTS S.A                                       
+    3715    	20417170333   	ATAC S.A.C.                                                 
+    18681   	20417180134   	LABORATORIOS UNIDOS S. A.                                   
+    1388    	20417378911   	INTRADEVCO INDUSTRIAL S.A.                                  
+    244859  	20417511009   	PROSEIDSAC                                                  
+    193127  	20417573705   	TECNO FAST ATCO S.A.C                                       
+    21078   	20417926632   	MOTORES DIESEL ANDINOS S.A. - MODASA                        
+    335608  	20417940627   	CASTILLO TEXTILES SRLTA                                     
+    16312   	20418662841   	DACMA S.A.C.                                                
+    351131  	20419018377   	DISTRIBUIDORA MISSTELA SRL                                  
+    128490  	20419269701   	DOMINIO CONSULTORES EN MARKETING S.A.C                      
+    1808    	20419323170   	PUIG PERU S.A.                                              
+    198109  	20419335771   	CONSTRUCTORA POWER MACHINER Y EQUIP EIRL                    
+    38410   	20419653471   	ALTERNATIVA TECNOLOGICA S.A.C                               
+    6570    	20419908305   	UPS SCS PERU SRL                                            
+    3451    	20419949591   	DIPEMAR ASOCIADOS S.A.                                      
+    362130  	20419986284   	GAMACOM SAC                                                 
+    1786    	20420039728   	TODINNO S.A.C                                               
+    264556  	20420711701   	QUESTO S.A.C.                                               
+    2320    	20421165999   	SSK MONTAJES E INSTALAC.SAC.                                
+    3079    	20421278769   	FERTILIZACION TECNICA S.A.                                  
+    65903   	20422023802   	POLINSUMOS S.A.                                             
+    2986    	20422293699   	G4S PERU S.A.C                                              
+    3594    	20422403893   	PRODUCTOS KERRY S S.R.L.                                    
+    509196  	20423061937   	ALCANCE MUNDIAL PERU                                        
+    134281  	20423195119   	GILAT TO HOME PERU S.A.                                     
+    258572  	20424045277   	BABY MAX S.R.L.                                             
+    3464    	20424721400   	ESKE S.R.L                                                  
+    357003  	20425122062   	TEXTIL MISTER DANNY S.A.C.                                  
+    417261  	20425243013   	OUTSOURCING PERU SAC                                        
+    229127  	20425661109   	F Y B REPRESENTACIONES SAC                                  
+    38412   	20426596815   	MANGUERAS HIDRAULICAS S.A.C                                 
+    106802  	20426599831   	VISUAL SOLUTIONS E.I.R.L.                                   
+    355004  	20427113656   	TEXSORSA S.A.C                                              
+    2683    	20427862331   	SHERWIN WILLIAMS PERU S.R.L.                                
+    1347    	20427919111   	AXUR S.A..                                                  
+    705712  	20428651767   	NUNURA SAC                                                  
+    268737  	20428776110   	ICR PERU S.A.                                               
+    14421   	20428860099   	EBB PERU S.A.C.                                             
+    321202  	20428982364   	LABORATORIO ROSCIANY S.R.L.                                 
+    38418   	20429435332   	DIARIO EXPRESO S.A.                                         
+    202704  	20429683581   	CINEPLEX S.A.                                               
+    369299  	20429785821   	APLICA PERU S.A.C.                                          
+    38420   	20430105818   	SCHARFF AGENTES AFIANZADOS DE ADUANAS S.A.                  
+    1344    	20430500521   	MC AUTOS DEL PERU S.A.                                      
+    445838  	20431003946   	HEIDELBERG PERU S.A.                                        
+    313306  	20431062870   	COMEXA COMER. EXTRANJERA SA SUC.DEL PERU                    
+    4988    	20431923298   	PRO QUALITY S.A.C.                                          
+    378285  	20432075631   	AIXA PERU SAC                                               
+    347809  	20432399291   	FABRICA DE CHOCOLATES ANDINA SAC                            
+    94514   	20432421563   	GRUPO DE SOPORTE CEZ SA                                     
+    193408  	20432625053   	LOGISTIC PARTNERS S.A.C.                                    
+    244784  	20432861539   	ASOCIACION CIVIL EDUCATIVA SACO OLIVEROS                    
+    1330    	20432939074   	CEVA LOGISTICS PERU SRL                                     
+    108043  	20432994768   	PIVEG DEL PERU SAC                                          
+    575211  	20433270461   	CONADIS                                                     
+    3842    	20439442744   	REPUESTOS Y ACCESORIOS EL PARAISO EIRL                      
+    258810  	20439978822   	TEXTIL DEL CARMEN SAC                                       
+    106885  	20440124136   	GRUPO MATISSE S.A.C.                                        
+    149410  	20440207422   	CURTIDURIA ORION SAC                                        
+    3866    	20440376704   	INTERAMERICANA TRUJILLO S.A.                                
+    1450    	20440815716   	VENUS PERUANA S.A.C.                                        
+    4304    	20441097604   	MOTO REPUESTOS AB S.A.C.                                    
+    1488    	20441490446   	SERVICE JACKSON SRL                                         
+    56542   	20441759755   	AGROPECUARIA MARITIMA E.I.R.L.                              
+    2314    	20441766883   	IMI DEL PERU S.A.C.                                         
+    32999   	20442241431   	SOLTEL  SCRL                                                
+    415281  	20445214311   	MULTICINES BAHIA SAC                                        
+    2806    	20445414833   	SOLUCIONES MARITIMAS S.A.C.                                 
+    1486    	20445470156   	VEG INVERSIONES E.I.R.L.                                    
+    363457  	20445623599   	HOGAR DECORACIONES SAC                                      
+    232848  	20445640680   	SERMUGEN SAC                                                
+    538486  	20445766195   	PESQUERA DON ABELARDO SAC                                   
+    18612   	20446225309   	PESQUERA ZEMAR S.A.C.                                       
+    98711   	20447466547   	PROCESADORA DE PRODUCTOS MARINOS SA                         
+    317473  	20447524415   	SERVICIOS GENERALES ARAGON S.A.C.                           
+    93544   	20449247061   	FLOR DEL MAR PERU EIRL                                      
+    217210  	20449284349   	TOPSHOP IMPORT EXPORT E.I.R.L.                              
+    397834  	20449296274   	EXPORTACIONES TACNA LISE EIRL                               
+    173606  	20449304803   	MAR DEL SUR S.R.L.                                          
+    397696  	20449425694   	IMPORT Y EXPORT BET-EL                                      
+    458458  	20449442190   	PRIMO SAC                                                   
+    709913  	20450684474   	ANDEAN AMAZON E.I.R.L.                                      
+    552620  	20450707865   	ASOCIACION HORMIGA                                          
+    807766  	20450713245   	GRUPO AREANOVA CREATIVOS SAC                                
+    4360    	20451871286   	NATUCULTURA S.A.                                            
+    266630  	20452270065   	PERU NASCA TOURS S.R.L.                                     
+    136404  	20452467870   	VIAJES Y NEGOCIOS S.A.C.                                    
+    557122  	20453650261   	PLANTA QUESERA CHUGUR QUESOS E.I.R.L.                       
+    252714  	20453676812   	FLECHA BUSS SRL                                             
+    3668    	20453704611   	AUTOCENTRO CAJAMARCA S.R.L.                                 
+    112287  	20453727824   	EMPRESA DE ALIMENTOS HUACARIZ EIRL                          
+    8105    	20453756689   	LIBERTEL E.I.R.L.                                           
+    107645  	20453920829   	AVA TOURS SRL.                                              
+    2882    	20453930620   	GRUPO APOLO SAC                                             
+    12492   	20454009216   	TRANSPORTES SUR EXPRESS EIRL                                
+    5468    	20454088094   	NATURA INN E.I.R.L.                                         
+    12647   	20454097166   	INSTALACIONES MECANICAS SUR S.A.C.                          
+    517710  	20454106505   	CUMBRES ANDINAS SOCIEDAD ANONIMA CERRADA                    
+    506635  	20454118341   	LAFARCAL S.R.L                                              
+    401476  	20454208090   	PARROQUIA SAN PEDRO NOLASCO                                 
+    504970  	20454231075   	SORUM S.R.L.                                                
+    3242    	20454258275   	AB ARTES SRL.                                               
+    107023  	20454310374   	PERU BOLIVIA SAC                                            
+    229337  	20454435665   	IMPERIAL CROWN ALPACA LTDA. SAC                             
+    316423  	20454509707   	AROMAS & COLORANTES DE LOS ANDES S.A.C                      
+    415403  	20454829442   	AREQUIPA CARGO EXPRESS SAC                                  
+    153610  	20456673083   	ALTA MONTAÑA SAC                                            
+    341099  	20458129950   	LABORATORIO TECNICO INDUSTRIAL S.A.C                        
+    38423   	20458697761   	AKITA JAPAN CORPORATION S.A.                                
+    1279    	20458714101   	WESTFIRE SUDAMERICA SCRL                                    
+    544878  	20458746720   	ARAMARK PERU SAC.                                           
+    63848   	20459123882   	ABALITUR                                                    
+    1397    	20459821652   	RANBAXY-PRP (PERU) S.A.C.                                   
+    360818  	20461309527   	G Y G KONTRATA S.A.C                                        
+    4968    	20462620421   	PACIFICO SUR CONSTRUCCIONES GENERALES SA                    
+    267758  	20462924055   	CORPORACION CERVANTES SRL                                   
+    1447    	20462984627   	SMITH INTERNATIONAL SOUTH AMERICA                           
+    3466    	20463262293   	HAARSLEV INDUSTRIES S.A.C.                                  
+    38424   	20463958590   	SCHARFF LOGISTICA INTEGRADA S.A.                            
+    108045  	20464045997   	CONECTA S.A.C.                                              
+    264192  	20465062356   	SUPLACORP S.A. C.                                           
+    192207  	20465976561   	ALISUR SAC                                                  
+    806935  	20466261255   	GRUPO SYPSA SAC                                             
+    66674   	20466316505   	NEXOS COMERCIALES S.A.C.                                    
+    38428   	20466447278   	ALFANO IMPORTACIONES S.A.C                                  
+    417399  	20466460029   	PST SERVICIOSSAC                                            
+    441332  	20467305931   	DOLPHIN TELECOM DEL PERU SAC                                
+    128549  	20467675436   	OPTICAS GMO PERU S.A.C                                      
+    302972  	20467675941   	SERIMA SRL                                                  
+    98528   	20467860179   	CORPORACION IRE SAC                                         
+    187602  	20468095301   	GRAMSA DISTRIBUCIONES SAC                                   
+    769593  	20469820531   	CECOSAMI PREPENSA E IMPRESION DIGITAL SA                    
+    3151    	20470059738   	ENERGIA PERUANA S.A.C.                                      
+    1303    	20470234599   	A K DRILLING INTERNATIONAL S.A.                             
+    328784  	20470789469   	THE CURL S.A.C.                                             
+    705714  	20470789973   	TALLERES SURF                                               
+    398996  	20471355837   	INTERCOS PERU S.A.                                          
+    82475   	20471505073   	BASF CONSTRUCTION CHEMICALS PERU SA                         
+    1292    	20471724620   	JOSFEL ILUMINACION S.A.C.                                   
+    1277    	20471808483   	SERVICIO EXPRESO S.A.                                       
+    1366    	20471939316   	THE AIR BUS SERVICES CARGO S.A.C                            
+    149230  	20472757254   	QUALITY PHARMA EIRL                                         
+    211393  	20472936426   	FASE DOS SAC                                                
+    601760  	20472988817   	ASOCIACION PERUANA DE TELEVISION POR CAB                    
+    318836  	20473171938   	LABORATORIOS BELLEFEM S.A.C                                 
+    80028   	20473806186   	NOKIA PERU S.A.                                             
+    22612   	20473938929   	INDURA S.A PERU                                             
+    108050  	20474456049   	GENCOPHARMACEUTICAL S.A.C.                                  
+    28861   	20474529291   	E-BUSINESS DISTRIBUTION PERU S.A                            
+    3921    	20474691986   	AURANDINA SAC                                               
+    179675  	20474868312   	SC INGENIERIA  Y CONSTRUCCION S.A.C.                        
+    188837  	20475300328   	VENPRIM SAC                                                 
+    52186   	20475428634   	ESTANTERIAS METALICAS JRM SAC                               
+    1396    	20475927550   	JHON DEERE WATER SA                                         
+    308670  	20476289620   	DROGUERIA FARBO S.A.                                        
+    636608  	20478120207   	JMS EXPRESS SAC                                             
+    671698  	20479062022   	PLANTA QUESERAS S'CHUGUR S.R.L                              
+    107036  	20479512087   	TRAVESIA SRL                                                
+    298959  	20479547972   	OPCION POST SAC.                                            
+    718391  	20479885860   	MBN EXPORTACIONES LAMBAYEQUE Y CIA.SRL                      
+    21063   	20479898171   	DERIVADOS LACTEOS DEL NORTE S.A.C.                          
+    295836  	20479921505   	NET WORKING SOLUTIONS S.A.C.                                
+    452983  	20480001851   	COMERCIALIZADORA FRUPER SAC                                 
+    46051   	20480090269   	RUNA MASI S.A.C                                             
+    345819  	20480133171   	MAGNOLIA DE ACERO IMPOR EXPORT                              
+    157072  	20480175680   	JACAMI E.I.R.L                                              
+    290639  	20480234953   	CONSORCIO VIAL AMAZONAS                                     
+    562648  	20480332963   	CLM PRODUCCIONES                                            
+    452980  	20480427590   	COMPAÑIA REGIONAL DE DISTRIBUCIONES S.A.C.                  
+    105068  	20480522070   	FRUTOS DEL AGRO EIRL                                        
+    181686  	20480940319   	TECNOBUS                                                    
+    4537    	20481036934   	PERVOL SAC                                                  
+    258806  	20481148066   	METALBUS S.A.                                               
+    116357  	20481193011   	UKEI  BRITANICO                                             
+    399852  	20481366993   	ABEJITAS INPORT  S.R.L                                      
+    260067  	20481464499   	DANPER AREQUIPA S.A.C.                                      
+    468182  	20481925216   	CONEXION CARGO S.A.C.                                       
+    38429   	20483412984   	SUPERMERCADOS DEL NORTE S.A.C                               
+    207319  	20483802804   	SERVICES COMPANY E.I.R.L                                    
+    511736  	20483831812   	AGROINPEX EIRL                                              
+    5012    	20483894814   	ECOACUICOLA SAC                                             
+    2072    	20483895896   	CITE CERAMICA                                               
+    56496   	20483986263   	RSUR INVERSIONES S.A.C.                                     
+    3847    	20483998270   	INTERAMERICANA NORTE S.A.C                                  
+    290707  	20484002992   	GSRMH                                                       
+    387130  	20484065480   	SANTA LUCIA S.A.C                                           
+    149125  	20484103837   	APICJMIEL EIRL.                                             
+    337668  	20484107239   	CONSERGESUL S.R.L.                                          
+    2767    	20484136689   	ACUICOLA SANTA ISABEL SAC                                   
+    34468   	20484154741   	COOP DE AHORRO Y CRED CREDIAHORRO TALARA                    
+    3463    	20484216798   	AGROPETSA S.A.C.                                            
+    395981  	20484260002   	COMERCIALIZADORA DE PERNOS Y AFINES S.A.C                   
+    3998    	20484282235   	SANTODIO EXPORT SERVICIOS GENERALES SRL                     
+    3546    	20484291145   	LIFTOIL S.A.SUCURSAL PERU                                   
+    401480  	20484347205   	CETICOS PAITA                                               
+    91006   	20486230003   	ENTRETENIMIENTOS DEL CENTRO S.A.C.                          
+    814040  	20487357465   	SERV. DE LAB. DE SUELOS Y PAVIMENTO SAC                     
+    48046   	20488667191   	PESQUERA Z Y T SAC                                          
+    557372  	20489414270   	INGENIERIA AMAZONICA SAC                                    
+    689442  	20492009947   	L&Z TOURS S.A.C. REPRESENTACIONES DE TURISMO                
+    792223  	20492010104   	LHS BOX  S.A.C                                              
+    806227  	20492027929   	MAQUINARIAS BRICHI SAC                                      
+    460957  	20492077861   	CABINZA SAC                                                 
+    767772  	20492277445   	SANTINO S.A.C                                               
+    536971  	20492307026   	AGROINDUSTRIAL VILLA ANDINA SAC                             
+    566072  	20492346609   	CONSORCIO NUEVO OYOTUN                                      
+    496634  	20492524124   	CUPIDOSTRAVEL E.I.R.L. - CUT E.I.R.L.                       
+    571826  	20492821927   	EL NEGRITO SAC                                              
+    563531  	20492852997   	CERAMICAS KANTU SAC                                         
+    433237  	20493118774   	VISION XXI EIRL                                             
+    1368    	20495627307   	OLVA EXPRESS E.I.R.L.                                       
+    4591    	20495648215   	INVERSIONES BALORA SAC.                                     
+    123735  	20495743986   	E & G COURIER EIRL                                          
+    45744   	20496900538   	PRODUCTS COVER & COMFORT AQP S.A.                           
+    2139    	20497219940   	PROVEEDORES MINEROS S.A.C.                                  
+    107642  	20498037616   	KANTATIRY TOUR E.I.R.L.                                     
+    1327    	20498042296   	DELSO S.A.C.                                                
+    107013  	20498048731   	MAVE S.A.C                                                  
+    489776  	20498081356   	AQP IMPORT EIRL                                             
+    1826    	20498103937   	EM S.A.C.                                                   
+    77679   	20498130071   	H&R REPRESENTACIONES E.I.R.L                                
+    107006  	20498194045   	EDU TRAVEL E.I.R.L.                                         
+    9379    	20498207988   	CENTROS COMERCIALES TURISTICOS SA                           
+    107646  	20498315799   	EMP. DE TURISMO TOP-TOUR AREQUIPA S.R.L.                    
+    748340  	20498515020   	ALTER EGO EIRL                                              
+    107640  	20498523634   	ACUARIUS TRAVEL TOUR OPERATOR EIRL.                         
+    1625    	20498574115   	CHACHANI TEXTILES INDUSTRIALES S.A.C                        
+    56744   	20498637991   	INSUMOS VETERINARIOS E.I.R.L                                
+    4128    	20498752234   	NAVALES S.A.C.                                              
+    292084  	20499442093   	PERU LOGISTIC SAC                                           
+    24840   	20499935286   	DEUTSCHE PHARMA S.A.C.                                      
+    1278    	20500641585   	SERVICIOS PERSONALES COURIER SAC                            
+    1446    	20501057682   	TRADING FASHION LINE S.A.                                   
+    8836    	20501437086   	SISTEMAS REDES Y EQUIPOS S.A.C.                             
+    40648   	20501439020   	OBRAS DE INGENIERIA S.A.                                    
+    3465    	20501511740   	SYNGENTA CROP PROTECTION S.A. SUCURSAL PERU                 
+    3784    	20501515818   	BENETTON INDUSTRIAL SUPPLY S.A.                             
+    4232    	20501521036   	VDG DEL PERU SAC                                            
+    673937  	20501618897   	EXITEC S.A.C.                                               
+    5407    	20501732321   	JGS COURIER SERVICE E.I.R.L.                                
+    352479  	20501774325   	GOMA EVENTOS Y PUBLICIDAD SAC                               
+    2018    	20501790011   	IPROMECC SAC                                                
+    42169   	20501803520   	INNOVA PERU S.A.C.                                          
+    275508  	20501827623   	TELEFONICA GESTION DE SERVICIOS COMPARTIDOS                 
+    286520  	20501837009   	BERGELUND SAC                                               
+    2884    	20501902421   	MEDSTYLE PERUANA S.A.C.                                     
+    266522  	20501956512   	PERUVIAN TOURS REPRESENTACIONES S.A.C.                      
+    246433  	20502010230   	AMPASIN S.A.C                                               
+    154718  	20502026586   	PATT FRESH SAC                                              
+    175993  	20502090161   	TRIANON CO-PRODUCTION PARTNERSHIP S.A.                      
+    3828    	20502093771   	BALANZAS MERCEDES S.A.C.                                    
+    268884  	20502148347   	DERMODIS SAC                                                
+    243265  	20502203461   	PERUVIAN NATURE S & S S.A.C                                 
+    63900   	20502233379   	R&R TOURS                                                   
+    4442    	20502257634   	PERUPEZ SAC                                                 
+    27967   	20502329562   	SERVICIOS TECNICOS INDUSTRIALES BEJARANO S.R.L              
+    2220    	20502343557   	RIJ COMERCIALIZADORA INDUST.SAC.                            
+    115865  	20502353943   	ACE NETWORKS PERU SAC                                       
+    511410  	20502371097   	AAISLACORP 2000 S.A.C                                       
+    516702  	20502421531   	INVERSIONES EDUCATIVAS HIPOLITO UNANUE S.A.C.               
+    1294    	20502454545   	SERVICIOS LOGISTICOS DE COURIER DEL PERU S.A.C.             
+    318341  	20502482751   	NEO CONSULTING S.A.C.                                       
+    682165  	20502484291   	FARMACIA  LA CLINICA SAC                                    
+    363055  	20502491157   	ECROMSA INDUSTRIAL S.A.C                                    
+    16761   	20502494253   	PROYECTOS Y EXPORTACIONES INTERNACIONALE                    
+    344176  	20502516168   	EDYGLAS COMPANY E.I.R.L.                                    
+    247911  	20502545699   	K.C. TRADING S.A.C.                                         
+    12651   	20502574109   	CONSORCIO DHMONT Y CG Y M SAC                               
+    42176   	20502588312   	INTERNATIONAL MINING PRODUCTS S.A.C.                        
+    111094  	20502610342   	CONFECCIONES INDUSTRIALES 2001 SAC                          
+    2429    	20502647009   	AGRONEGOCIOS GENESIS S.A.C.                                 
+    588300  	20502664353   	UNION PERUANA DE PRODUCTORES FONOGRAFICOS                   
+    42180   	20502691083   	SCHARFF S.A                                                 
+    713141  	20502758765   	AFE TRANSPORTATION S.R.L.                                   
+    20887   	20502811674   	MEDINET S.A.C.                                              
+    4477    	20502842391   	GOALCO PROYECTOS S.A                                        
+    130806  	20502846460   	EDEMSA PERU                                                 
+    63015   	20502875648   	PEARSON EDUCACION DE PERU S.A.                              
+    106763  	20502938313   	PIRAMIDE PRODUCCIONES DE TV S.A.C                           
+    263337  	20502953541   	DEKATEC SAC.                                                
+    117636  	20502965396   	EMPRESA S. LAGOS E.I.R.L                                    
+    15873   	20502976916   	RURAL TELECOM S.A.C.                                        
+    244827  	20502984933   	CENTRO INTERNACIONAL DE ESPECIALIZACION PROFESIONA          
+    244828  	20502984935   	CENTRO INTERNACIONAL DE ESPECIALIZACION PROFESIONA          
+    234475  	20502995465   	OMMIANAVAL EIRL                                             
+    1564    	20502997832   	REPUESTOS EXPRESS S.A.C.                                    
+    358164  	20503049229   	MINERALES NO METALICOS S.A.C.                               
+    517721  	20503065186   	FEDERACION DEPORTIVA PERUANA DE TAE KWON DO                 
+    1304    	20503076111   	ANNEXUS MARKETING & VENTAS EIRL                             
+    599501  	20503095093   	COFRADIA DE LA SANTISIMA CRUZ DE CHALPON DE MOTUPE          
+    618815  	20503102481   	APLIC. TECNOLOGICAS ELECTROMEC. S.R.L.                      
+    5887    	20503131669   	TACIOS SAC                                                  
+    507770  	20503176760   	ELECTRO COMERC.FERRET.ANDREA SAC                            
+    1307    	20503258901   	MAQUINARIA NACIONAL S.A. PERÚ                               
+    250909  	20503281121   	ORKLEMAN ENTERPRISES SAC                                    
+    332918  	20503300363   	MUNDO VINOS SAC                                             
+    2389    	20503334004   	CORREA Y SAAVEDRA S.A.C.                                    
+    47807   	20503362121   	HYHE CONTRATISTAS GENERALES SAC                             
+    227146  	20503376009   	SOLUCIONES DE EMPAQUE S.A.C.                                
+    214701  	20503381771   	NEGOCIACION AGRICOLA JAYANCA S.A.                           
+    2012    	20503382742   	LA LLAVE S.A                                                
+    1318    	20503388601   	FARMACEUTICA DEL PACIFICO S.A.                              
+    10971   	20503458234   	ITT WATER & WASTEWATER PERU S.A.                            
+    3771    	20503490391   	TECNA PERU S.A.C.                                           
+    3850    	20503601215   	MINING AND DRILLING SERVICES S.A.C.                         
+    4511    	20503646405   	INVERSIONES NAVIERAS S.A.C                                  
+    182329  	20503673046   	ARQUITOTAL S.A.C                                            
+    281569  	20503758114   	GAS NATURAL DE LIMA Y CALLAO S.A.                           
+    112871  	20503799902   	AGENCIA PARA EL DESARROLLO INTERNACIONAL USAID              
+    130692  	20503828856   	VERA ROCHA S.A.C.                                           
+    406187  	20503916712   	TGT LAB SAC                                                 
+    108072  	20503921554   	EX COURIER S.A.C.                                           
+    1340    	20503931274   	J & A CARGA Y SERVICIOS S.A.C.                              
+    353754  	20503976375   	ALLIN RUNA S.A.                                             
+    27372   	20504002803   	STASOIL SAC                                                 
+    106833  	20504008089   	SANTO DOMINGO CONSULTORES S.A.C                             
+    133470  	20504044808   	M.C.L.M.AGENCIA ADUANA SAC                                  
+    209750  	20504073069   	LABORATORIOS DROGAVET SAC                                   
+    469082  	20504126791   	ARQUILUZ S.R LTDA                                           
+    15342   	20504136753   	E Y P TECNOLOGIA SAC                                        
+    1285    	20504183751   	HGM SOPORTE Y SOLUCIONES DE SISTEMAS SAC                    
+    2444    	20504192157   	MAPLE ETANOL S.R.L. TL. 6114043                             
+    436364  	20504197035   	PERAC                                                       
+    144563  	20504201326   	NETCORPERU S.A.C.                                           
+    257896  	20504205232   	EXECUTIVE  SOLUTION S.A                                     
+    1326    	20504267858   	DEAL SOLUTIONS E.I.R.L.                                     
+    91870   	20504344275   	EMEMSA SERVICIOS SA                                         
+    2842    	20504389295   	AQUAMATQUIM S.A.                                            
+    384270  	20504396585   	QCP -QUALITY CERTIFICATE PERU SAC                           
+    2096    	20504549322   	ASEPSIS PERU S.R.L.                                         
+    107202  	20504562345   	TEAM PUBLICITARIO S.A.C.                                    
+    92368   	20504574947   	CORPORACION LOGISTICA RAYO DOBLE 10 S.R.L.                  
+    2360    	20504587844   	DROGUERIA LABORATORIO BAXLEY GROUP                          
+    267162  	20504589031   	MUTANT SNAX SAC                                             
+    5996    	20504595863   	PESQUERA CANTABRIA S.A.                                     
+    802499  	20504619983   	HUISA EIRL                                                  
+    39835   	20504639402   	RENFISH  EIRL                                               
+    1299    	20504644074   	EECOL ELECTRIC PERU S.A.C.                                  
+    3600    	20504653065   	RCP LABORATORIOS EIRL                                       
+    138687  	20504730663   	J.R. VERSAC                                                 
+    3533    	20504743561   	GMC ENGINEERING SOLUTIONS SAC                               
+    328139  	20504779590   	JKL CONTRATISTAS INTERNATIONAL SAC                          
+    33850   	20504784089   	LAFRANCOL PERU S.A.                                         
+    108149  	20504794637   	MINISTERIO DE LA PRODUCCION                                 
+    143607  	20504923623   	FITOSANA                                                    
+    291488  	20504946241   	PANORO APURIMAC S.A.                                        
+    42187   	20504986978   	SUEZ ENERGY PERU S.A.                                       
+    39177   	20505075723   	DIMAHISAC                                                   
+    280848  	20505120613   	LA CASA DE LAS BATERIAS SAC                                 
+    56602   	20505120702   	TECNICA AVICOLA S.A.                                        
+    394633  	20505212810   	COLD MIX S.A.C.                                             
+    280498  	20505243537   	ZTE CORPORATION PERU                                        
+    116487  	20505342357   	COMERCIAL FERRETERA BYC  SAC                                
+    333651  	20505359080   	SYNIXTOR S.A.C.                                             
+    2369    	20505360762   	M H M INVERSIONES SAC                                       
+    1471    	20505411421   	CMR. INVERSIONES E.I.R.L.                                   
+    3487    	20505482442   	CARSIL TRADING S.A.C.                                       
+    213638  	20505517335   	ASESORES DE SEGURIDAD EN LOGISTICA DRACO S.A.C              
+    4504    	20505607831   	PESQUERA RIBAUDO S.A.                                       
+    242585  	20505612753   	PT MARKET S.R.L.                                            
+    634988  	20505774141   	BUSINESS AND MARKETING SAC                                  
+    42188   	20505777914   	AK MIRAFLORES S.A.C                                         
+    646848  	20505781601   	ASOCIACION ETC ANDES                                        
+    52439   	20505883862   	STRINGNET  MULTIMEDIA SYSTEM SAC                            
+    283575  	20505937202   	PERU WOODS S.A.C.                                           
+    308574  	20505987137   	CETAGUA-PERU S.A.                                           
+    1311    	20506006024   	AUTOMOTORES GILDEMEISTER PERU SA                            
+    1287    	20506035121   	INTRALOT DE PERU SAC                                        
+    1320    	20506065110   	CONTINENTAL EXPRESS CARGO EIRL                              
+    244856  	20506137129   	PRODUCTORA IMAGEN & EVENTOS S.A.C.                          
+    281505  	20506175993   	IP NET SAC                                                  
+    437758  	20506178071   	CADBURY ADAMS PERU S.A                                      
+    279056  	20506194947   	LA CASA DEL EXTINTOR S.A.                                   
+    2080    	20506219796   	NEWS TOURS S.A.C.                                           
+    711870  	20506220298   	WAYRA SRL                                                   
+    1313    	20506228515   	COMPAÑIA CERVECERA AMBEV PERU S.A.C.                        
+    493947  	20506245878   	COCOMAR SAC                                                 
+    354185  	20506324239   	INVERSIONES CHAOS BOIS SAC                                  
+    2795    	20506363480   	LUMINA COPPER S.A.C.                                        
+    1295    	20506440735   	URBANO EXPRESS PERU SA                                      
+    166718  	20506471703   	RED VERDE PERU SAC                                          
+    627705  	20506497761   	CALIDAD DE IMPACTO SAC                                      
+    78977   	20506562172   	COVIAN SAC                                                  
+    401183  	20506575151   	MAKAR CORPORATION SAC                                       
+    4578    	20506579067   	MEFLO S.A.C.                                                
+    333103  	20506682232   	MARYSALLY COMERCIO Y SERVICIOS S.R.L.                       
+    143407  	20506729051   	TAMBOFOODS S.A.C                                            
+    42194   	20506774862   	UNITED PRODUCTS S.A.C                                       
+    35968   	20506803633   	NATURMEDIZIN SAC                                            
+    273375  	20506825874   	CREACIONES LEONSITO S.A.C.                                  
+    255864  	20506859779   	RENZ S.A.C.                                                 
+    6773    	20506862567   	CSD GLOBAL SERVICES S.A.C.                                  
+    243761  	20506922217   	CORPORACION NATURAL LIFE DEL PERU S.A.C                     
+    3196    	20506934061   	KEYFARM SAC                                                 
+    327908  	20506947473   	PLAYA GRANDE S.A.C.                                         
+    108026  	20506980764   	GRUPO INGENIERIA & MARKETING CONSULTORES ASOCIADOS          
+    698218  	20506994986   	JHODAAL S.A.C.                                              
+    4553    	20507012559   	GRUPO EDITORIAL REGIONES SCRL                               
+    689493  	20507022601   	QUINTILES PERU S.R.L.                                       
+    189923  	20507102035   	CIA NACIONAL DE SERVICIOS Y EMPAQUES SAC                    
+    3904    	20507108581   	HERMANAS CAMARENA SAC                                       
+    275354  	20507123466   	ACITERM S.A.C.                                              
+    421815  	20507173561   	SIERRA VERDE PERU TOUR OPERADOR SAC                         
+    108055  	20507200801   	CARRETERO EXPRESS E.I.R.L.                                  
+    187315  	20507238018   	CONSTRUCTORA ALDEBARAN SAC                                  
+    257127  	20507334670   	DRAKSTAR COMPANY PERU SAC                                   
+    2101    	20507428143   	EXPLOANDES SAC                                              
+    1328    	20507468102   	DIEBOLD PERU S.R.L.                                         
+    3888    	20507533443   	GRUPO 12 INVERSIONES Y SERVICIOS S.A.C.                     
+    254586  	20507559248   	PRODUCTOS NEGRITO S.A.C.                                    
+    2508    	20507624082   	FUNDACION CAYETANO HEREDIA                                  
+    33636   	20507628231   	AWS CONSULTING SAC                                          
+    24878   	20507728961   	PNUD-PROYECTOS ASPROBOS                                     
+    106759  	20507750380   	PRODUCCIONES PROTV SOCIEDAD ANONIMA CERRADA                 
+    357785  	20507822470   	MASCOTAS DEL PERU SAC                                       
+    449533  	20507822712   	INVERSIONES JHON SAC                                        
+    63868   	20507825819   	VISION TRAVEL                                               
+    42196   	20507855645   	SHELL LUBRICANTES DEL PERU S.A.                             
+    213075  	20507857427   	TEXTINORTH S.A.C.                                           
+    376824  	20507859713   	SARLO INDUSTRIAS SAC                                        
+    708548  	20507896163   	MC SERVICIOS DE SANEAMIENTO AMBIENTAL SAC                   
+    797962  	20507939580   	SOLPACK SAC                                                 
+    2102    	20507975977   	MINERA LA ZANJA S.R.L.                                      
+    797958  	20507987983   	GRAFIC SOLUTIONS SAC                                        
+    15900   	20508007761   	YICHENG LOGISTICS PERU SAC                                  
+    42201   	20508022566   	ANDES EXPRESS S.A.C                                         
+    340423  	20508056975   	CREACIONE SNICOLL ROSSI SAC                                 
+    254521  	20508204087   	INDEJEBE  S.R.L                                             
+    265508  	20508215101   	OXO SAC                                                     
+    1472    	20508242680   	OBRAS Y SERVICIOS PETROLEROS S.A.C.                         
+    1605    	20508279419   	DISTRIBUIDORA PRISMA DEL PERU SAC                           
+    2192    	20508304201   	ETHNIQUE TRADING COMPANY SAC                                
+    1276    	20508335939   	CAYPE IMPORTADORA SAC                                       
+    326727  	20508394358   	CREACIONES MANFOR SAC                                       
+    354809  	20508409487   	SABINO TEXTILES SAC                                         
+    3608    	20508432462   	ARPI SERVICIOS PUBLICITARIOS SAC                            
+    1460    	20508460245   	SAYLI COURIER SRL                                           
+    3125    	20508555629   	LSA ENTERPRISES PERU SAC                                    
+    67644   	20508558997   	V & C CORPORATION SAC                                       
+    107824  	20508583835   	ESFERA TRAVEL S.A.C.                                        
+    104292  	20508667851   	OPERADOR LOGISTICO ANDREA S.A.C.                            
+    360873  	20508676418   	AGENCIA DE ADUANAS J & N ASOCIADOS SA.                      
+    134079  	20508687886   	GNR Y  ASOCIADOS S.A.                                       
+    209191  	20508703911   	MATH CONSTRUCCION Y CONSULTORIA SAC                         
+    227074  	20508818221   	ROCKWELL AUTOMATION DEL PERU S.A                            
+    243577  	20508825359   	MEGA INTERNACIONAL SERVICE S.A.C.                           
+    16704   	20508843764   	CONTI PAPER S.R.L                                           
+    768491  	20508879874   	AUSMUD & DRILLING SUPPLIES SAC                              
+    106778  	20508904062   	PACHAINKA E.I.R.L.                                          
+    677065  	20508908998   	SPAZIO PERU S.A.C.                                          
+    631892  	20508959801   	INVERSIONES CASA BLANCA SAC                                 
+    4572    	20508972734   	MARCOBRE SAC                                                
+    23464   	20508994622   	TORPEDO COURRIERS EIRL                                      
+    1386    	20508996323   	INCA COURIER S.A.                                           
+    106813  	20509015997   	E.P.S. COMERCIALIZADORA DE RESIDUOS SAC                     
+    4194    	20509036722   	XO S.A.C.                                                   
+    1336    	20509072010   	H Y S INTERNATIONAL S.A.                                    
+    554314  	20509103187   	D PERU VIAJES Y SERVICIOS SAC                               
+    393848  	20509168637   	A.C.CONSTRUCCIONES SAC                                      
+    1286    	20509174360   	INDUSTRIAS DE ALIMENTOS Y HELADOS S.A.C.                    
+    592563  	20509185132   	COSENZA SAC.                                                
+    145433  	20509203050   	INGENIERIA EN CARTONES Y PAPELES S.A.C.                     
+    781000  	20509242977   	GLOBAL IT SOLUTIONS SAC                                     
+    392685  	20509243604   	OCEANIC C Y P IMPORT & EXPORT S.A.                          
+    200045  	20509244244   	CORP.LAS DOS TORRES SAC                                     
+    789653  	20509281441   	RECURSOS OCEANICOS AEREOS PERU SAC                          
+    191621  	20509338222   	LAPCY PERU S.A.C                                            
+    9122    	20509409260   	CAFE BRITT PERU S.A.C.                                      
+    486527  	20509476706   	TECHVALUE PERU SAC                                          
+    42213   	20509507199   	BANCO DE COMERCIO                                           
+    3286    	20509510149   	SISTEMA METROPOLITANO DE LA SOLIDARIDAD                     
+    331283  	20509513598   	ECO CUPS SA                                                 
+    328162  	20509553034   	PERCOSM PERU S.A.C.                                         
+    341685  	20509563935   	CIANO TRADING SERVICES S.A.C.                               
+    1305    	20509608114   	BIOLIFE PERU S.A.C.                                         
+    1281    	20509629111   	DISTRIMED S.A.C                                             
+    3523    	20509664618   	AXLE S.A.                                                   
+    271528  	20509667129   	PARRILLADAS PERUANAS SOCIEDAD ANONIMA                       
+    313911  	20509723304   	SERTECPECT S.A                                              
+    787321  	20509734411   	LOGIST-K FREIGHT SAC                                        
+    3832    	20509735655   	PRIVATE MARKETING S.R.L                                     
+    118490  	20509777145   	CLUTE SA.                                                   
+    354878  	20509778460   	EXPORT & IMPORT ALGAMªS SAC                                 
+    490425  	20509788422   	ASOCIACION CIVIL EDUCATIVA GENES                            
+    257336  	20509818518   	INVERSIONES MIGUEL ANGEL SAC                                
+    806985  	20509830640   	AGROINDUSTRIAS ALIMENTICIAS NATURA E.I.R.L                  
+    239215  	20509849316   	MADEMOLD SAC                                                
+    404583  	20509862843   	AGP PERU SAC                                                
+    4266    	20509905917   	ENERGROUP S.A.                                              
+    341339  	20509918148   	APILAB S.A.                                                 
+    8302    	20509959766   	RENTAEQUIPOS LEASING PERU S.A.                              
+    129161  	20509992038   	DIC CRUCES Y AVENIDAS S.A.C                                 
+    63350   	20509999041   	AMETRA S.A.                                                 
+    42216   	20510060033   	FISHING & SAFEGUARD PERU S.A.C                              
+    4185    	20510070004   	PALMACASONA S.A.C..                                         
+    427170  	20510125186   	IQ CORPORATION S.A.C                                        
+    310318  	20510125348   	CORPORACION CC PERU S.A.C                                   
+    816949  	20510139136   	AMERICA LOGISTICA DISTRIBUCION Y TRANSPORTE DEL PE          
+    802664  	20510150377   	KAM SAU SAC                                                 
+    277480  	20510151420   	BABYMODAS SAC                                               
+    32457   	20510306130   	HL INGENIEROS S.A.                                          
+    334456  	20510347243   	GRUPO EDITORIAL  NORMA S.A.C                                
+    258446  	20510431201   	PRODUCTOS NATURALES SRI GOVINDA S.A.C.                      
+    207172  	20510528540   	GLOBE SEAWEED  INTERNATIONAL S.A.C.                         
+    253153  	20510540833   	TRAVELONE INTERNATIONAL NETWORK PERU SAC                    
+    267427  	20510561831   	METROCOM S.A.C.                                             
+    690996  	20510591233   	PORTOFINO LOGISTCS SAC                                      
+    227277  	20510600755   	LOGISTICA DE PARTES INTEGRALES EIRL                         
+    42220   	20510601565   	PACIFIC FOOD COMPANY S.A.                                   
+    2134    	20510602375   	A.S.L.  S.A.C.                                              
+    311113  	20510638132   	PICA PICA EVENTOS S.A                                       
+    6297    	20510653107   	T-SHIRT STORE S.A.C.                                        
+    5814    	20510671857   	IMA SUMAC S.A.                                              
+    79084   	20510694555   	CORPORACION ORO VERDE S.A.C.                                
+    182309  	20510750218   	ECKO-MODA EIRL                                              
+    58321   	20510781440   	J&J TECH SAC.                                               
+    307191  	20510795581   	PERU AGRO PARTNERS S.A.C.                                   
+    326123  	20510858094   	DAWUS SAC                                                   
+    360608  	20510893833   	COMERCIAL Y PUNTO EIRL                                      
+    47775   	20510913371   	COINREFRI AIR SAC                                           
+    42226   	20510957319   	ANYPSA PERU S.A.                                            
+    293270  	20510981881   	CONCEG SAC                                                  
+    63896   	20510988621   	REP TRAVEL                                                  
+    700493  	20511004251   	CONCESIONARIA IIRSA NORTE SA                                
+    35922   	20511017581   	COMERCIAL MANTI SAC                                         
+    7607    	20511023476   	EXMEK PHARMACEUTICAL S.A.C.                                 
+    341280  	20511026815   	INVERSIONES J & J TEXTIL SAC                                
+    4613    	20511029083   	APITRADE S.A.C.                                             
+    233427  	20511041377   	COMERCIALIZADORA J.H.S. E.I.R.L.                            
+    30355   	20511046689   	SINIS SAC                                                   
+    328148  	20511089493   	UTILITARIOS S.A.C.                                          
+    273929  	20511102775   	PROYECTOS ESPECIALES CAT S.A.C.                             
+    426699  	20511133816   	JGC GLEND S.A.C.                                            
+    689446  	20511202729   	CONSORCIO VIAL CHAVIN                                       
+    127232  	20511271453   	PORT LOGISTICS S.A.C                                        
+    59354   	20511296952   	DEAUDIO PERU SAC                                            
+    42227   	20511312079   	HAVANA BAY BEBERAGE COMPANY                                 
+    270380  	20511336091   	DEPCONST                                                    
+    368993  	20511372489   	CANDENELLY SAC                                              
+    621795  	20511416877   	GLOBAL SOURCING SAC                                         
+    589970  	20511447161   	GOLOSINAS NAKALI SA.                                        
+    445995  	20511457395   	NORCOR SAC                                                  
+    482051  	20511484368   	ELICA TRAVEL SOCIEDAD ANONIMA CERRADA                       
+    798286  	20511520186   	INMOBILIARIA KORICANCHA S.A.                                
+    110521  	20511568545   	LAMICENTER SAC                                              
+    374065  	20511578770   	MILLENIUM GRASS S.A.C.                                      
+    267197  	20511590478   	EMPRESA MANGOS VALLA E.I.R.L.                               
+    229666  	20511623821   	CREARPE S.A.C                                               
+    506610  	20511682241   	CORPORACION C & S SAC                                       
+    328663  	20511705551   	FENIX EXPRESS CARGO SA                                      
+    367673  	20511741948   	CREACIONES TAYTA S.A.C.                                     
+    63882   	20511811237   	DY ORO                                                      
+    275059  	20511902623   	REQCAM SAC                                                  
+    358385  	20511908231   	GALIZI PRODUCCIONES Y REPRESENTACIONES S                    
+    493419  	20511915873   	I.E. N1278 'MIXTO LA MOLINA'                                
+    5875    	20511974535   	LIBRERIA CIENTIFICA DEL PERU EIRL                           
+    32216   	20511977712   	SKC RENTAL SAC                                              
+    242546  	20512002090   	MIFARMA SAC                                                 
+    132757  	20512014853   	MINERA SANTA MARINA S.A.                                    
+    3890    	20512034374   	CONSORCIO PROGESTION                                        
+    349107  	20512038019   	EVELYN FASHION SAC                                          
+    1462    	20512049991   	CONSORCIO CONSTRUCTOR IIRSA NORTE                           
+    2132    	20512054219   	DCA GROUP SAC                                               
+    233761  	20512056858   	SOLEI DISEÑO E.I.R.L.                                       
+    3558    	20512068511   	BISETEL S.A.C.                                              
+    122296  	20512113916   	CONSORCIO CPS DE INGENIERIA SAC-COPREX SA                   
+    17144   	20512119795   	CHECK TRADING SAC                                           
+    486084  	20512124101   	PACHA CONECTION S.R.L.                                      
+    679369  	20512144552   	GRAFICA LUCERO S.A.C.                                       
+    350467  	20512224238   	DECO STORE E.I.R.L.                                         
+    254181  	20512278320   	HOME POWER S.A.C.                                           
+    63893   	20512327045   	TURISMO Y AVENTURAS PERU                                    
+    4286    	20512340220   	IRUDIAK S.A.C.                                              
+    304732  	20512350292   	ACEROS ESTRUCTURALES UBC SAC.                               
+    372599  	20512356657   	CORPORACION BIOTEC SAC                                      
+    143987  	20512365648   	RIO TINTO MINERA PERU LIMITADA S.A.C.                       
+    189760  	20512366962   	DROGUERIA KFARMA SAC                                        
+    63902   	20512371702   	KRAM INVERSIONES GENERALES SRL                              
+    2222    	20512373071   	INVERSIONES ALTO PIURA SAC                                  
+    106786  	20512433821   	MARKETING ALTERNO PERU SAC                                  
+    266525  	20512535586   	ESCUELA SUPERIOR DE ADUANA S.A.C.                           
+    796970  	20512568085   	ORBATEX PERU SAC                                            
+    5226    	20512568913   	AMERSHAM SAC                                                
+    795823  	20512576690   	BELCORP INTERNACIONAL S.A.                                  
+    223817  	20512581936   	CLIMATIC COMPANY SAC                                        
+    421359  	20512609458   	SALUS LABORIS SAC                                           
+    308241  	20512613056   	POOL BTL SRL                                                
+    28709   	20512637401   	CORPORACION MINERA SINCHAO SAC                              
+    63891   	20512722262   	J&M CAMPOVERDE                                              
+    5032    	20512868046   	CFG INVESTMENT SAC                                          
+    798250  	20512937897   	MOSOQ PERU S.A.C.                                           
+    369081  	20512952772   	CREACIONES KATTY AMINIC S.R.L.                              
+    88515   	20513023201   	MINERA APOQUINDO PERU S.A.C                                 
+    482049  	20513051086   	PRIMER COLEGIO NACIONAL ROSA DE SANTA MARIA                 
+    234003  	20513081236   	PRO LIFE BIOTEC S.A.C.                                      
+    254512  	20513152435   	SANITARY SOLUTIONS S.A.C.                                   
+    4764    	20513231220   	COMERC.Y DISTRIB.HIROME S.R.L.                              
+    363897  	20513272686   	GAMING SOLUTIONS INTERNATIONAL SAC                          
+    367714  	20513276835   	IMPORT Y EXPORT EDISON TEXTIL S.R.L                         
+    288773  	20513328738   	LCK REDES EIRL                                              
+    395299  	20513354496   	LABORATORIO DE INVESTIGACION TEATRAL                        
+    131776  	20513369922   	FAESMET S.A.C                                               
+    620610  	20513380730   	WONG FAT SAC                                                
+    795825  	20513396571   	ODEBRECHT PERU INVERSIONES Y INFRAESTRUCTURA                
+    333688  	20513405741   	EDMMA MODA TEXTIL SAC                                       
+    292315  	20513452153   	PESQUERA NATALIA S.A.C                                      
+    779550  	20513456493   	SANTA ROSA DE QUIVES COUNTRY CLUB                           
+    63878   	20513505451   	GAMARRA TOURS                                               
+    446700  	20513574933   	FABRIPET S.A.C                                              
+    765260  	20513609150   	PROYECTOS & DETALLES SAC                                    
+    688318  	20513669560   	AVENTURA PLAZA S.A.                                         
+    369103  	20513683988   	AMERICANINO FASHION S.A.C.                                  
+    429509  	20513684101   	DYCLASS DE PERU SRL                                         
+    259999  	20513713135   	FARMARECETAS S.A.C.                                         
+    365761  	20513843934   	ALBA TRADE SAC                                              
+    35933   	20513987693   	BALTRA SAC                                                  
+    247162  	20514019488   	CORPORACION REMOSA S.A.C.                                   
+    64957   	20514075639   	AARON INDUSTRIES SAC                                        
+    643129  	20514088293   	SIEMENS ENTERPRISE COMMUCATIONS SAC                         
+    1845    	20514245909   	GRUPO LUMAT S.A.C                                           
+    352169  	20514350281   	WORLD WIDE SAC                                              
+    781042  	20514376752   	COSTA PACIFICO SEA FOOD SAC                                 
+    25495   	20514420913   	VCN CONTRATISTAS S.A.C.                                     
+    74473   	20514430552   	AGALOBRAS SAC                                               
+    30616   	20514443531   	EDECO PERU SAC                                              
+    359309  	20514510742   	M Y A INNOVA SAC                                            
+    242081  	20514514497   	CORPORATE  SERVICE CONSULTING SAC                           
+    341087  	20514534765   	DROGUERIA BELLEZA SALUD SAC (DROBELSA)                      
+    400851  	20514542351   	SALA VALC S.A.C                                             
+    398846  	20514545376   	SOLUCIONES Y TECNOLOGIAS INTEGRALES SAC                     
+    585726  	20514584789   	COMPAÑIA NACIONAL DE CHOCOLATES DE PERU S.A.                
+    179232  	20514641502   	CONSORCIO PRISMA MURGISA                                    
+    156959  	20514688720   	RASS TELECOMUNICACIONES SAC                                 
+    723701  	20514737364   	SANIHOLD S.A.C.                                             
+    371788  	20514752240   	INVERSIONES DEL SOL Y LUNA SAC                              
+    175963  	20514815420   	ASOCIACION DE JUBILADOS DEL BANCO CENTRAL DE RESER          
+    227179  	20514920134   	CORPORACION C&C TRACTOR SRL                                 
+    109036  	20514951528   	INKAFERT SAC                                                
+    684577  	20514976431   	GRUPO COVEÑAS                                               
+    363716  	20514994413   	D'KADS MODE INTERNATIONAL S.A.C.                            
+    224419  	20515019422   	COMPAÑIA DE EXPLORACIONES ORION SAC                         
+    225200  	20515032798   	BY CREACIONES CHUQUIS EIRL                                  
+    142399  	20515032950   	CORPORACION BASAURI S.A.C.                                  
+    360942  	20515103211   	POP ART PERU MANAGEMENT, BOOKING & RECORDS S.A.C.           
+    452338  	20515106821   	STEBO PERU SRL                                              
+    192392  	20515108794   	COLOMBINA DEL PERU S.A.C                                    
+    351132  	20515150219   	DZJ NUEVA LINEA S.A.C.                                      
+    240379  	20515221175   	MONTAJE REPARACION Y SERVICIO M Y D SRL                     
+    203248  	20515233343   	MANUFACTURAS INFANTILES SJOM E.I.R.L                        
+    398934  	20515263099   	LA MAQUINA DE EXPRESS SAC                                   
+    72972   	20515342631   	LOGISTICA ILIMITADA MULTIMODAL SOCIEDAD ANONIMA CERRADA     
+    576417  	20515346113   	CORPORACION BOTICAS PERU SAC                                
+    409423  	20515351541   	DINETPERU SA                                                
+    227333  	20515352199   	CALANDRIA TRANSPORTES Y REPRESENTACIONES S.A.C.             
+    248620  	20515394436   	PMC LOGISTICS SAC                                           
+    359269  	20515430921   	VISUAL PRESENCE Y CIA LTDA                                  
+    198091  	20515434594   	GLOBAL EXPRESS COURRIER SAC                                 
+    271522  	20515444808   	MALUPLAST SAC                                               
+    363692  	20515474464   	CRESELSA IMPORT EIRL                                        
+    329357  	20515541323   	GEOMAIL S.A.C.                                              
+    209226  	20515584138   	ARCAMAR SAC                                                 
+    270283  	20515644998   	MT SERVICIOS SAC                                            
+    227212  	20515655680   	GOP S.A.C                                                   
+    288411  	20515682067   	INVERSIONES TIME MODAS SAC                                  
+    107188  	20515683543   	REPRESENTACIONES I.V.M. S.A.C                               
+    802409  	20515701461   	THERAPHYS S.A.C                                             
+    607620  	20515712829   	WATER SYSTEM SAC                                            
+    411344  	20515769006   	AGRICOLA AMAZONAS S.A.C.                                    
+    161813  	20515868837   	BOXIPLAST S.A.C                                             
+    421818  	20515907671   	GAME BANG SAC                                               
+    224611  	20515941771   	PROVEPEZ S.A.C.                                             
+    367286  	20516021617   	CONSORCIO NAVAL E  INDUSTRIAL SAC                           
+    150531  	20516132958   	ROMAIA S.A.C.                                               
+    801429  	20516225964   	GIARDINO DEL PERU SRL                                       
+    706184  	20516303191   	ACEROS INDUSTRIALES LATINOAMERICANO  S.A                    
+    264615  	20516372916   	D¿ADRIANO SERVICE S.A.C                                     
+    317114  	20516389134   	MARERICK EIRL                                               
+    264075  	20516422018   	SILCAR AUTOS SRL                                            
+    654882  	20516589656   	EDICIONES SM SAC                                            
+    200677  	20516650231   	PERIFERIA S.A.C.                                            
+    424860  	20516672715   	MOTION & CONTROL SAC                                        
+    401488  	20516687666   	CHAYRAQ MAGIA Y SEMBLANZAS S.A.C.                           
+    488496  	20516728796   	ELITE EXPRESS COURIER SAC                                   
+    394552  	20516768666   	C Y M TECNIC SAC                                            
+    689449  	20516872561   	CONSORCIO OBRAINSA - SVC                                    
+    598501  	20516913771   	NEGOCIOS EL CHEF SAC                                        
+    333636  	20516921286   	CREACIONES MEL-LIZ EIRL                                     
+    376613  	20516996537   	CRANE WORLDWIDE LOGISTICS PERU SAC                          
+    477473  	20517054918   	VIDA AZUL S.A.C.                                            
+    378545  	20517059472   	ST2 S.A.C.                                                  
+    457353  	20517087255   	CONSTRUCTORA  ANG  SAC                                      
+    448330  	20517089037   	PSW S.A                                                     
+    483086  	20517154203   	PERUVIAN FUNCTIONAL FOODS SAC                               
+    323296  	20517250423   	LEON SERVICES EXPRESS E.I.R.L.                              
+    364836  	20517302831   	RODENTEX S.A.C.                                             
+    321698  	20517327230   	REPRESENTACIONES MUNMUNJO EIRL                              
+    439839  	20517333809   	CONCRETE SYSTEM S.A                                         
+    275738  	20517356761   	ASOCIACION AGROPECUARIA ALBORADA                            
+    319217  	20517448371   	WORLD CARRIER EXPRESS S.A.C                                 
+    337521  	20517503909   	INVERCIONES TEXTILES                                        
+    451178  	20517519490   	SINOMAQ S.A.                                                
+    685709  	20517602559   	MC LORET DE MOLA AG. DE AD. SAC                             
+    518265  	20517603105   	GEOKINETICS EXPLORATION PERU S.A.C.                         
+    506223  	20517613593   	EMPRESA DE SERVICIOS TURISTICOS MULTIPLES PERU INK          
+    563731  	20517672336   	TMA SAC                                                     
+    310220  	20517765857   	CLUB SOCIAL CULTURAL DEPORTIVO AROM                         
+    402326  	20517849872   	LAS FRAGANCIAS SAC                                          
+    524646  	20517862976   	ANDES LOGISTICS S.A.C.                                      
+    323240  	20517890678   	MINERA BAYOMAPSA PERU SA                                    
+    329734  	20517912744   	BRACKE S.A.                                                 
+    353901  	20517956792   	WHOLESALE ELECTRIC SUPPLY DEL PERU S.A                      
+    517714  	20518002148   	F.C.PROYECTOS INTEGRALES S.R.L.                             
+    329989  	20518035071   	LEIDY KARINAS EIRL                                          
+    438657  	20518068670   	AKM  S.A.C                                                  
+    588692  	20518240839   	DATAIMAGENES S.A.C.                                         
+    810335  	20518280202   	EDITORIAL DIDACTICA SOCIEDAD ANONIMA CERRADA                
+    369040  	20518302966   	CORPORACION RIIF S A C                                      
+    382272  	20518321596   	EXPORTACIONES RODIMAC SAC                                   
+    373149  	20518644174   	INTELMO SRL                                                 
+    389459  	20518659368   	INVERSIONES MARCO POLO SAC                                  
+    421813  	20518753623   	DANIELA LA COSMETICA VERDE SOCIEDAD ANONIMA CERRAD          
+    778255  	20518764404   	PUBLI TOURS E.I.R.L                                         
+    353342  	20518833147   	PERUVIAN HANDICRAFTS EIRL                                   
+    458545  	20518847873   	INSTITUTO POLITICO PARA LA LIBERTAD PERU - IPL PER          
+    397008  	20518868285   	INVERSIONES ANFIBIAS SAC                                    
+    433624  	20518891261   	LTA INGENIEROS S.A.C.                                       
+    408368  	20518891422   	INVERSIONES  DPSP EIRL.                                     
+    517759  	20518992458   	I.E.P SAN MARTIN DE PORRES - PERU SAC                       
+    408033  	20519026610   	PEOPLE MARKETING BTL SAC                                    
+    498886  	20519229219   	CONSORCIO MUSICAL CHICLAYO S.A                              
+    419701  	20519412684   	NEGOCIACIONES MAKEMI EIRL                                   
+    708484  	20519432448   	MINING DRILLING FLUIDS PERU S.A.                            
+    598833  	20519440386   	INVERSIONES MOREDA SAC                                      
+    647731  	20519487005   	TURISMO EXPRESS LOS HUNOS EIRL                              
+    86026   	20519570590   	SCATEX SAC                                                  
+    231685  	20519633001   	IMPORT EXPORT  YOMAR  EIRL                                  
+    252517  	20519693756   	EL MANGLAR SRL                                              
+    107057  	20519702178   	ZESAL INTERNACIONAL EIRL                                    
+    23523   	20519756855   	BAZAR ZAPATERIA VXA IMPORT EXPORT EIRL                      
+    559033  	20519793114   	SERVICIOS TECNICOS AVANZADOS S.A.C.                         
+    3447    	20519832624   	MAYUTAC S.A.C                                               
+    733394  	20519870631   	ALIMENTOS ALCE EIRL                                         
+    701269  	20519888417   	JEF E.I.R.L.                                                
+    115243  	20519933226   	COPERSA S.A.                                                
+    804826  	20519936080   	COMERCIALIZADORA MJ EIRL                                    
+    366302  	20519994365   	AGROINDUSTRIAS EDU E.I.R.L                                  
+    291006  	20519994446   	COMERCIAL IMPORT EXPORT SILOE EIRL                          
+    2546    	20519995094   	MARES ILO SRL                                               
+    313308  	20519998867   	ASOCIADOS DAFA E.I.R.L.                                     
+    4973    	20520029584   	EDRES PERU SAC                                              
+    4676    	20520030248   	COMERCIAL TEXTIL JUANITA EIRL                               
+    465332  	20520081314   	EXPORTACIONES CORDOVA E.I.R.L                               
+    154026  	20520090224   	INKASOFT EIRL                                               
+    292852  	20520093240   	HYM CONTRATISTAS GENERALES E.I.R.L.                         
+    765241  	20520623061   	EMPRESA DE SERVICIOS GINELUC SOC.COM.RESPONS. LTDA          
+    603656  	20520634933   	COR OBRAS & EJECUCIONES S.R.L.                              
+    655710  	20520716662   	RDZ  INGENIEROS ARQUITECTOS SAC                             
+    735584  	20520736931   	GEOFUNDACIONES DEL PERU SAC                                 
+    784944  	20520799428   	COMERCIAL FERROCEMENTO SAC                                  
+    811053  	20521009099   	CONSORCIO LOGISTICO INDUSTRIAL SAC - CLISAC                 
+    657309  	20521056178   	GAPCO EIRL                                                  
+    613996  	20521059436   	ALIMENTOS AYACUCHO S.A.C.                                   
+    790901  	20521275996   	INVERSIONES PATMOS S.A.C.                                   
+    597358  	20521348896   	CONSORCIO MARCONA                                           
+    818277  	20521647371   	PROVE FABRICA DEL PERU SA                                   
+    613456  	20521694450   	INGESONDEX- PERU SAC                                        
+    642449  	20521708931   	PESQUERA HUCOR EXPORT EIRL                                  
+    759690  	20521748304   	URCI ANDINA DE INGENIERIA S.A.C.                            
+    621981  	20521800586   	REPRESENTACIONES LUJAN SAC                                  
+    765085  	20521911221   	AKZO NOBEL PERU S.A.C.                                      
+    789561  	20522115143   	ACTIVA CORPORACION SAC                                      
+    648980  	20522209121   	INGENIERIA DE APOYO Y SERV SAC                              
+    737480  	20522400000   	KML SAC                                                     
+    649913  	20522423808   	DISTRIBUIDORA PQS. SAC                                      
+    700652  	20522562166   	MACHA TRAVEL S.A.C.                                         
+    783272  	20522576621   	CANDENTE GOLD PERU SAC                                      
+    798642  	20522599248   	BJPERU S.A.C.                                               
+    798708  	20522736504   	CA & PE COURIER S.A.C.                                      
+    680549  	20523071638   	PERIFERIA PROJECT MANAGEMENT                                
+    703174  	20523495594   	CONSORCIO CONTRATISTA CEMENTERO                             
+    733359  	20524336651   	MOVING PACK EIRL                                            
+    777315  	20524491207   	CONSORCIO SERVICIOS VIALES                                  
+    740618  	20524491541   	REPUESTOS VELOZ S.A.C.                                      
+    782558  	20524568196   	CONSORCIO ZANJA                                             
+    776272  	20524663342   	CONSORCIO SANTA                                             
+    780049  	20524676321   	KRONNEN LAB S.A.C                                           
+    789874  	20525162851   	CONSORCIO OBRAINSA  ILO                                     
+    495824  	20525203477   	COMISION DE REGANTES DANIEL ESCOBAR                         
+    297312  	20525205330   	GNS GENERAL NORTH SERVICE                                   
+    349264  	20525327281   	INVERSIONES CORPORATIVAS EMPRESARIALES                      
+    66189   	20525356206   	LDR INSUMOS Y SERVICIOS EIRL                                
+    7191    	20525387853   	PALOMA EXPRESS EIRL                                         
+    617125  	20525419305   	VISTA DEL MAR MANCORA SAC                                   
+    143048  	20525495231   	CONSORCIO DEMEM S.A. - M Y C PARIñAS S.A.                   
+    326227  	20525585736   	BANECO S.R.L                                                
+    435637  	20525662749   	S.G. EIMMY GERALDINE SAC                                    
+    476897  	20525763774   	AGRONEGOCIOS VALLADOLID SAC.                                
+    737327  	20526015925   	NEGOCIOS A.U SAC                                            
+    774203  	20526091354   	RL NEGOCIOS GENERALES SRL                                   
+    466199  	20526996497   	INSTITUTO DE DESARROLLO EDUCATIVO Y ADMINISTRATIVO          
+    599941  	20527130566   	SLP PRODUCCIONES MARKETING Y TURISMO EIRL                   
+    217888  	20527141096   	PERU TRAVEL & SERVICES EIRL                                 
+    99971   	20527312915   	CASA ECOLOGICA S.R.L.                                       
+    723930  	20527328595   	SKO MUNDO E.I.R.L.                                          
+    217887  	20527552983   	LANKAY PERU TRAVEL SOCIEDAD COMERCIAL DE RESPONSAB          
+    667443  	20527581223   	ATV ADVENTURES E.I.R.L.                                     
+    106751  	20530590748   	RADIO SONIDO DIGITAL E.I.R.L.                               
+    762074  	20531678703   	CORPORACION JHOSER SAC                                      
+    490213  	20532145415   	KS DEPOR SA                                                 
+    316237  	20534021357   	BIOEM S.A.C                                                 
+    56761   	20535155926   	PROCESADORA A.C S.R.L                                       
+    803914  	20535926353   	EDITORIAL ARUVA SAC                                         
+    248821  	29434817      	RICARDO ABEL SAAVEDRA CASTRO                                
+    267287  	43306906      	LUIS HUARCAYA HUANCA                                        
+    467667  	              	G. SUB REGIONAL LUCIANO CASTILLO COLONNA                    
+    485708  	              	INNOVACION EDUCATIVA SRL                                    
+    504601  	              	CONSTRUCTORA ABUHADBA SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA

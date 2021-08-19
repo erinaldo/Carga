@@ -1,0 +1,63 @@
+1.- Todas las aplicaciones windows deben tener un método Main? Explicar la respuesta.
+El Metodo Main solo es utilizado en Aplicaciones Windows con C#, para definir como formulario de Inicio a un Determinado Formulario, en Basic solo basta establecer en la Ventana Propiedades del Proyecto cual es el Formulario de Inicio e incluso cual es el Formulario que sigue al de inicio si establecemos a un SplashScreen como Inicio.
+Ojo que si lo queremos hacer por codigo, hacemos una sobrescritura a la Funcion "OnCreateMainForm", para establecer : MainForm = Global.MIPROYECTO.MIFORMULARIO_INICIO.
+
+2.- Hablando de aplicaciones MDI, en un formulario hijo cómo accedo a las propiedades de los controles dentro del formulario padre?
+
+Definimos un Form Hijo de la siguiente manera:
+FrmTarifarioCliente es el formulario padre.
+a es el formulario Hijo.
+
+Dim a As New FrmTarifarioCliente
+a.MdiParent = Me
+SplitContainer1.Panel2.Controls.Add(a)
+a.Show()
+
+Basta con hacer lo siguiente desde a, para deshabilitar un Menu. : 
+
+FrmContenedor.MenuStrip1.Items(0).Enabled = False
+
+3.- Qué harian para permitir que un usuario asigne un color de fondo válido al formulario actual?
+
+Creamos un ColorDialog , leemos el color seleccionado y lo asignamos al Backcolor del Formulario.
+
+Dim a As New ColorDialog
+Dim resp As DialogResult = a.ShowDialog
+If resp = Windows.Forms.DialogResult.OK Then
+      MyForm.BackColor = a.Color
+End If
+
+4.- Suponga se se tiene un formulario con un botón de comando. Cómo hacer para que sin codificar eventos del boton de comandos, al hacer click en el botón se cierre el formulario y se regrese el control al formulario que lo mostró con showdialog.
+
+Escogemos en Tiempo de Diseño el Boton que queremos que sea el de cerrar el dialogo 
+en la Propiedad ButtonCancel del Formulario que hace la llamada, cuando abrimos el FormDialog y le damos click
+al boton escojido y establecido como ButtonCancel del FormDialog se cerrara el Dialogo y volvera al Form que 
+lo invoco.
+
+5.- Cómo hacer para evitar que el usuario cierre un formulario al dar click en el botón cerrar (close button) del formulario actual? 
+Private Sub Prueba_FormClosing(ByVal sender As Object, ByVal e As System.Windows.Forms.FormClosingEventArgs) Handles Me.FormClosing
+	'Si la funcion es Nula no Cierra el Formulario.
+	If Not No_Guardo() Is Nothing Then
+		e.Cancel = true
+	Esle
+        'cancelar el cierre del formulario
+        e.Cancel = True
+    End Sub
+6.- Como detectar si ya existe una instancia de una aplicación windows?
+
+Para esto utilizamos la clase Process (para tarabajar con los Procesos activos del sistema).
+De la siguiente manera verificamos si existe el proceso en memoria si existe, Borramos el Proceso que pretendia Abrir 
+la Aplicacion.
+
+Shared Sub Main()
+    Dim mProc() As Process
+
+    mProc = Process.GetProcessesByName(Application.ProductName.ToString)
+    
+    If mProc.Length = 1 Then 
+        Application.Run(New FrmPrincipal())
+    Else 
+        Application.Exit()
+    End If
+End Sub
+

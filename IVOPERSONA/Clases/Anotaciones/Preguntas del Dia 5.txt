@@ -1,0 +1,60 @@
+Hola!!!
+Este es el tema de análisis del día 5.
+
+1.- En una tabla de una base de datos Microsoft SQL se tiene un campo Identity. 
+Desde una aplicación Windows se desea insertar un nuevo registro y mostrar al 
+usuario el valor del campo Identity del nuevo registro insertado. 
+Cómo se puede hacer esto?
+
+Con @@identity para obtener el valor del ultimo registro Insertado, ya la 
+recuperacion de este valor se hace de diferentes maneras, puede ser con un Selecet  
+diferente o en el mismo query de insercion.
+
+Dim Cn As New SQLConnection = ("...")
+Cn.Open()
+SqlCommand wCmd = new SqlCommand("INSERT INTO Usuario(id,Nombre) VALUES(3,'RVC'); SELECT @@identity", wCnn);
+Dim MyId as Integer = Convert.ToInt32(wCmd.ExecuteScalar()
+Messagebox.Show("El ID es: " & MyID.ToString)
+
+2.- Se tiene una tabla de una base de datos Microsoft SQL. 
+Escriba una función que devuelva un dataset con todos 
+los registros de esa tabla. 
+
+Private Function CargaDatos(ByVal Query As String) As DataSet
+        Dim cn As New SqlConnection("...")
+        Dim da As New SqlDataAdapter(Query, cn)
+        Dim ds As New DataSet
+        da.Fill(ds, "Lista")
+        Return ds
+End Function
+
+3.- Se tiene una tabla "Productos" en un Dataset que corresponden a los datos 
+modificados de la tabla "Productos" de una base de datos Microsoft SQL. 
+Con el mínimo de código, escriba una función que reciba un Dataset y 
+realice la actualización a la tabla "Productos" de la base de datos Microsoft SQL. 
+Tip: La tabla "Productos" tiene una llave primaria llamada IDDeProducto.
+
+Public Function Actualizar(ByVal myds As DataSet) As Boolean
+        Dim da As New SqlDataAdapter
+        Dim cb As New SqlCommandBuilder(da)
+        da.Update(myds, "PRODUCTOS")
+        da.Fill(myds, "PRODUCTOS")
+End Function
+
+4.- Sí en un DataSet se tienen 2 tablas: 
+Una tabla de categorias y otra de Productos donde por cada categoría hay uno o mas productos. 
+Qué debemos hacer para generar un archivo XML donde se muestren los datos relacionados 
+(productos dentro de categorias) y no de forma secuencial, esto es, 
+primero una tabla y despues otra.  
+
+Private Sub Escribir(ByVal ds As DataSet)
+        Dim MyRelacion As DataRelation
+        Dim ColA As DataColumn
+        Dim ColB As DataColumn
+        ColA = ds.Tables("Categorias").Columns("IdCategorias")
+        ColB = ds.Tables("Productos").Columns("IdProductos")
+        MyRelacion = New DataRelation("Categorias_Productos", ColA, ColB)
+        MyRelacion.Nested = True
+        ds.Relations.Add(MyRelacion)
+        ds.WriteXml(".\MiDataSetRelacionada.xml")
+End Sub

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:tns="http://www.bea.com/SWPush/SWPush" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://www.bea.com/SWPush/SWPush" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types />
+  <message name="ConfigurarAppCliente">
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="string" type="partns:string" />
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="string0" type="partns:string" />
+  </message>
+  <message name="ConfigurarAppClienteResponse">
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="result" type="partns:string" />
+  </message>
+  <message name="RecibirMensajes">
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="string" type="partns:string" />
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="string0" type="partns:string" />
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="string1" type="partns:string" />
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="date" type="partns:dateTime" />
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="byteVal" type="partns:byte" />
+  </message>
+  <message name="RecibirMensajesResponse">
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="result" type="partns:string" />
+  </message>
+  <message name="ObtenerConsultaTicket">
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="string" type="partns:string" />
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="string0" type="partns:string" />
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="intVal" type="partns:int" />
+  </message>
+  <message name="ObtenerConsultaTicketResponse">
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="result" type="partns:string" />
+  </message>
+  <message name="IsWorking" />
+  <message name="IsWorkingResponse">
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="result" type="partns:boolean" />
+  </message>
+  <message name="CambiarContrasena">
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="string" type="partns:string" />
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="string0" type="partns:string" />
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="string1" type="partns:string" />
+  </message>
+  <message name="CambiarContrasenaResponse">
+    <part xmlns:partns="http://www.w3.org/2001/XMLSchema" name="result" type="partns:boolean" />
+  </message>
+  <portType name="SWPushPort">
+    <operation name="ConfigurarAppCliente">
+      <input message="tns:ConfigurarAppCliente" />
+      <output message="tns:ConfigurarAppClienteResponse" />
+    </operation>
+    <operation name="RecibirMensajes">
+      <input message="tns:RecibirMensajes" />
+      <output message="tns:RecibirMensajesResponse" />
+    </operation>
+    <operation name="ObtenerConsultaTicket">
+      <input message="tns:ObtenerConsultaTicket" />
+      <output message="tns:ObtenerConsultaTicketResponse" />
+    </operation>
+    <operation name="IsWorking">
+      <input message="tns:IsWorking" />
+      <output message="tns:IsWorkingResponse" />
+    </operation>
+    <operation name="CambiarContrasena">
+      <input message="tns:CambiarContrasena" />
+      <output message="tns:CambiarContrasenaResponse" />
+    </operation>
+  </portType>
+  <binding name="SWPushPortSoapBinding" type="tns:SWPushPort">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <operation name="ConfigurarAppCliente">
+      <soap:operation soapAction="" style="rpc" />
+      <input>
+        <soap:body use="encoded" namespace="http://www.bea.com/SWPush/SWPush" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="http://www.bea.com/SWPush/SWPush" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="RecibirMensajes">
+      <soap:operation soapAction="" style="rpc" />
+      <input>
+        <soap:body use="encoded" namespace="http://www.bea.com/SWPush/SWPush" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="http://www.bea.com/SWPush/SWPush" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="ObtenerConsultaTicket">
+      <soap:operation soapAction="" style="rpc" />
+      <input>
+        <soap:body use="encoded" namespace="http://www.bea.com/SWPush/SWPush" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="http://www.bea.com/SWPush/SWPush" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="IsWorking">
+      <soap:operation soapAction="" style="rpc" />
+      <input>
+        <soap:body use="encoded" namespace="http://www.bea.com/SWPush/SWPush" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="http://www.bea.com/SWPush/SWPush" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+    <operation name="CambiarContrasena">
+      <soap:operation soapAction="" style="rpc" />
+      <input>
+        <soap:body use="encoded" namespace="http://www.bea.com/SWPush/SWPush" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </input>
+      <output>
+        <soap:body use="encoded" namespace="http://www.bea.com/SWPush/SWPush" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </output>
+    </operation>
+  </binding>
+  <service name="SWPush">
+    <documentation>todo: add your documentation here</documentation>
+    <port name="SWPushPort" binding="tns:SWPushPortSoapBinding">
+      <soap:address location="https://services.claro.com.pe:443/SWPush/SWPush" />
+    </port>
+  </service>
+</definitions>

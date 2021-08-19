@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="IVOPERSONA.FrmUsuario" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Forms\FrmUsuario.vb</FileName>
+      <HashCode>AAAAAAIAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IVOPERSONA.FrmLogin" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Forms\FrmLogin.vb</FileName>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAgCAAAAQAAAAAAAAAAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IVOPERSONA.FrmClientes" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Forms\FrmClientes.vb</FileName>
+      <HashCode>vH0riY7+/f3763kfc8/1dfwSvfH/7x6Lb8805b8Vd7s=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="IVOPERSONA.Funciones" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Funciones\Funciones.vb</FileName>
+      <HashCode>gAAAIAAAEAAAAAAAAQAAAAAAAAAAACAQAEABBAAgAAk=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="IVOPERSONA.ModIVOPERSONA" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Modulos\ModIVOPERSONA.vb</FileName>
+      <HashCode>AAAAAwACAAAAAAAAAgCAEAAAAAAAEAAAAAIAAAAgAAE=</HashCode>
+    </TypeIdentifier>
+  </Module>
+</ClassDiagram>

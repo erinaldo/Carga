@@ -1,0 +1,191 @@
+CURSOS VISUAL BASIC 2005.
+http://msdn.microsoft.com/vbasic/learning/Training/default.aspx#E-Learning%20Course
+https://www.microsoftelearning.com/eLearning/courseDetail.aspx?courseId=60580&offerPriceId=78263
+
+
+PARA LLENAR UN DATAGRIDVIEW CON LAS COLUMNAS PERSONALIZADAS.
+
+		''Grilla
+        'With DataGridLista
+        '    .AlternatingRowsDefaultCellStyle.BackColor = System.Drawing.ColorTranslator.FromHtml("#FFFFE1")
+        '    .Columns.Add("ID", "Codigo")
+        '    .Columns.Add("NOMBRE", "Nombre")
+        '    .Columns.Add("APELLIDOS", "Apellidos")
+        '    .Columns.Add("AÑOS", "Edad")
+        '    .Columns.Add("SEXO", "Sexo")
+        'End With
+        ''StatusStrip
+        'StatusStrip1.Items(0).Text = "RVASQUEZ"
+        'StatusStrip1.Items(1).Text = "DBA - ORACLE"
+        'StatusStrip1.Items(2).Text = "RVC Soft®"
+        'Dim a As New ToolStripStatusLabel
+        'a.BorderSides = ToolStripStatusLabelBorderSides.All
+        'a.BorderStyle = Border3DStyle.Etched
+        'a.Text = "Conectando..."
+        'StatusStrip1.Items.Add(a)
+        
+PARA LLENAR UNA GRILLA CON SUS CAMPOS PERSONALIZADOS:
+
+'Cargamos el DataGrid
+            'Grilla
+            With DataGridLista
+                .AlternatingRowsDefaultCellStyle.BackColor = System.Drawing.ColorTranslator.FromHtml("#FFFFE1")
+                .AllowUserToOrderColumns = True
+                .AllowUserToDeleteRows = True
+                .AllowUserToAddRows = True
+                .AutoGenerateColumns = False
+                .DataSource = dtDepartamento
+                .DefaultCellStyle.WrapMode = DataGridViewTriState.True
+                .SelectionMode = DataGridViewSelectionMode.CellSelect
+                .VirtualMode = True
+            End With
+            Dim col1 As New DataGridViewTextBoxColumn
+            With col1
+                .HeaderText = "Codigo Pais"
+                .DataPropertyName = "IDPAIS"
+            End With
+            DataGridLista.Columns.Add(col1)
+            Dim col2 As New DataGridViewTextBoxColumn
+            With col2
+                .HeaderText = "Codigo Departamento"
+                .DataPropertyName = "IDDEPARTAMENTO"
+            End With
+            DataGridLista.Columns.Add(col2)
+            Dim Col3 As New DataGridViewComboBoxColumn
+            With Col3
+                .HeaderText = "Depatamento"
+                'Dim a As Object() = {"Amazonas", "Ancash", "Apurimac", "Arequipa", "Ayacucho", "Cajamarca", "Callao", "Cusco", "Huancavelica", "Huanuco", "Ica", "Junin", "La Libertad", "Lambayeque", "Lima", "Loreto", "Madre de Dios", "Moquegua", "Pasco", "Piura", "Puno", "San Martin", "Tacna", "Tumbes", "Ucayali", "SANTIAGO", "ARICA", "BUENOS AIRES"}
+                '.Items.AddRange(a)
+                .DataPropertyName = "DEPARTAMENTO"
+                .DataSource = dtDepartamento.DefaultView
+                .DisplayMember = "DEPARTAMENTO"
+                '.ValueMember = "DEPARTAMENTO"
+                .DisplayStyle = DataGridViewComboBoxDisplayStyle.Nothing
+            End With
+            DataGridLista.Columns.Add(Col3)        
+            
+PARA TRABAJAR CON EL STATUS STREEP
+
+			''StatusStrip
+            'StatusStrip1.Items(0).Text = "RVASQUEZ"
+            'StatusStrip1.Items(1).Text = "DBA - ORACLE"
+            'StatusStrip1.Items(2).Text = "RVC Soft®"
+            'Dim a As New ToolStripStatusLabel
+            'a.BorderSides = ToolStripStatusLabelBorderSides.All
+            'a.BorderStyle = Border3DStyle.Etched
+            'a.Text = "Conectando..."
+            'StatusStrip1.Items.Add(a)            
+            
+MARGENES Y TAMAÑO DE LOS GROUPBOX EN EL FORMULARIO            
+LOCATION = 20; 6
+SIZE = 497; 99
+
+AL UTILIZAR OracleClient, ya no seria necesario instalar el cliente de oracle en cada terminal cliente
+
+
+PARA MOSTRAR EL CALENDAR EN UN DATAGRIDVIEW
+
+		Try
+            With DataGridView2
+                .Dock = DockStyle.Fill
+            End With
+            Dim col As New CalendarColumn()
+            Me.DataGridView2.Columns.Add(col)
+            Me.DataGridView2.RowCount = 5
+            
+            Dim row As DataGridViewRow
+            For Each row In Me.DataGridView2.Rows
+                row.Cells(0).Value = DateTime.Now
+            Next row
+        Catch ex As Exception
+
+        End Try
+        
+PARA LA INSERCION DE LOS CLIENTES:
+
+MyControl,1,MyItemTipoPersona,1,MyIDPersona,1,MyClienteCorporativo,1,MyRepresentanteLegal,2,MyGerenteGeneral,2,
+MyRazonSocial,2,MyCodigoCliente,2,MyFechaIngreso,4,MyPagoPostfacturacion,1,MyEmail,2,MyApellidoPaterno,2,
+MyApellidoMaterno,2,MyNombreP,2,MyNombreS,2,MyFechaNacimiento,4,MySexoPersona,2,MyNuDoctoSunat,2,MyNuRetenSunat,2,
+MyTipoDoctoIdentidad,1,MyTipoPersona,1,MyIDRubro,1,MyEstadoRegistro,1,MyClasificacionPersona,1,MyIP,1,MyUsuarioPersonal,1,
+MyIDRolUsuario,1,MyIDDistrito,1,MyIDProvincia,1,MyIDDepartamento,1,MyIDPais,1,MyEsMenorEdad,1,MyAgenteRetencion,1
+    
+        
+PRESIONAR ENTER EN DATAGRIDVIEW
+
+Private Sub DataGridLista_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles DataGridLista.KeyDown
+        Dim oForm2 As Form1
+        If e.KeyCode = Keys.Enter Then
+            oForm2 = New Form1()
+            oForm2.Show()
+        End If
+End Sub
+        
+PARA CHECKED BOXES
+
+Private Sub chkVistaCliente_CheckedChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles chkVistaCliente.CheckedChanged
+        If sender.checked = True Then
+            DataGridLista.Columns(5).Visible = False
+        End If
+End Sub
+			
+			
+PARA SELECCIONAR DIRECTAMENTE UN VALOR DE UN DATAGRID VIEW
+
+MsgBox("The content of the Combo box is " & Me.DataGridViewTextBoxColumn5.DataGridView.CurrentRow.Cells(0).Value, MsgBoxStyle.OkOnly)
+
+			
+PARA LA INSERCION ESPECIAL EN LISBOX
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        MessageBox.Show(Me.ListaA.SelectedIndices.Count, "Cantidad Seleccionada")
+        Dim Indices(1000) As Integer
+        
+        For i As Integer = 0 To ListaA.Items.Count - 1
+            'MessageBox.Show(Me.ListaA.SelectedIndices.Item(i), "El Seleccionado")
+            Indices(i) = CType(ListaA.SelectedIndices.Item(i), Integer)
+            For j As Integer = 0 To ListaA.Items.Count - 1 '3
+                'If Indices(j) > 0 Then
+                MessageBox.Show(Indices(j).ToString)
+                Trasladar(Indices(j))
+                'End If
+            Next
+        Next
+        
+
+    End Sub
+
+    Private Sub Trasladar(ByVal Indice As Integer)
+        Dim drwA As DataRowView = dvListaClientesA.Item(Indice)
+        Dim CantidadFilas As Integer = dvListaClientesB.Count
+        dvListaClientesB.AllowNew = True
+        dvListaClientesB.AddNew()
+        Dim drwB As DataRowView = dvListaClientesB.Item(CantidadFilas)
+        drwB(0) = drwA(0)
+        drwB(1) = drwA(1)
+        drwB(2) = drwA(2)
+        drwB(3) = drwA(3)
+        dvListaClientesB.AllowNew = False
+        dvListaClientesA.AllowDelete = True
+        dvListaClientesA.Delete(Indice)
+        dvListaClientesA.AllowDelete = False
+
+        Dim bTemp As Integer = dvListaClientesA.Count
+        dvListaClientesA.AllowNew = True
+        dvListaClientesA.AddNew()
+        dvListaClientesA.AllowNew = False
+        dvListaClientesA.Delete(bTemp)
+    End Sub			
+    
+    
+    
+    TAMAÑO DE LA GRILLA ARTICULOS:
+    220; 154
+    
+    
+     
+    
+Saludos Amigos.
+Como podria desde mi aplicacion establecer formatos de fecha del sistema, Idioma, Monedas, 
+para no tener promblemas cuando haga mi setup, si pudieran proporcionarme codigo, se los agradeceria.
+
+
+    

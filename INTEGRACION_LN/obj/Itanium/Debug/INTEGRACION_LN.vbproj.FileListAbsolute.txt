@@ -1,0 +1,14 @@
+D:\Proyecto_Titan\INTEGRACION_LN\bin\Itanium\Debug\INTEGRACION_LN.dll
+D:\Proyecto_Titan\INTEGRACION_LN\bin\Itanium\Debug\INTEGRACION_LN.pdb
+D:\Proyecto_Titan\INTEGRACION_LN\bin\Itanium\Debug\INTEGRACION_AD.dll
+D:\Proyecto_Titan\INTEGRACION_LN\bin\Itanium\Debug\INTEGRACION_EN.dll
+D:\Proyecto_Titan\INTEGRACION_LN\bin\Itanium\Debug\AccesoDatos.dll
+D:\Proyecto_Titan\INTEGRACION_LN\bin\Itanium\Debug\INTEGRACION_AD.pdb
+D:\Proyecto_Titan\INTEGRACION_LN\bin\Itanium\Debug\INTEGRACION_AD.xml
+D:\Proyecto_Titan\INTEGRACION_LN\bin\Itanium\Debug\INTEGRACION_EN.pdb
+D:\Proyecto_Titan\INTEGRACION_LN\bin\Itanium\Debug\INTEGRACION_EN.xml
+D:\Proyecto_Titan\INTEGRACION_LN\obj\Itanium\Debug\INTEGRACION_LN.vbprojResolveAssemblyReference.cache
+D:\Proyecto_Titan\INTEGRACION_LN\obj\Itanium\Debug\INTEGRACION_LN.Resources.resources
+D:\Proyecto_Titan\INTEGRACION_LN\obj\Itanium\Debug\INTEGRACION_LN.vbproj.GenerateResource.Cache
+D:\Proyecto_Titan\INTEGRACION_LN\obj\Itanium\Debug\INTEGRACION_LN.dll
+D:\Proyecto_Titan\INTEGRACION_LN\obj\Itanium\Debug\INTEGRACION_LN.pdb

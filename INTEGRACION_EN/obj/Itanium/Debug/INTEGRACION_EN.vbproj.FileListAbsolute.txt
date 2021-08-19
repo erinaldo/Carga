@@ -1,0 +1,6 @@
+D:\Proyecto_Titan\INTEGRACION_EN\bin\Itanium\Debug\INTEGRACION_EN.dll
+D:\Proyecto_Titan\INTEGRACION_EN\bin\Itanium\Debug\INTEGRACION_EN.pdb
+D:\Proyecto_Titan\INTEGRACION_EN\obj\Itanium\Debug\INTEGRACION_EN.Resources.resources
+D:\Proyecto_Titan\INTEGRACION_EN\obj\Itanium\Debug\INTEGRACION_EN.vbproj.GenerateResource.Cache
+D:\Proyecto_Titan\INTEGRACION_EN\obj\Itanium\Debug\INTEGRACION_EN.dll
+D:\Proyecto_Titan\INTEGRACION_EN\obj\Itanium\Debug\INTEGRACION_EN.pdb
